@@ -6731,6 +6731,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-16 22:43:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_chair": {
     "criteria": {
       "has_mangrove_chair": "2025-08-16 22:17:50 +0000"
@@ -6758,6 +6764,12 @@
   "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
       "has_planks": "2025-08-16 22:17:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-16 22:43:41 +0000"
     },
     "done": true
   },
@@ -6920,6 +6932,12 @@
   "handcrafted:recipes/misc/mangrove_drawer": {
     "criteria": {
       "has_mangrove_drawer": "2025-08-16 22:17:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-16 22:43:41 +0000"
     },
     "done": true
   },
