@@ -8140,6 +8140,12 @@
     },
     "done": true
   },
+  "bbb:recipes/stone_tile_stairs": {
+    "criteria": {
+      "has_block": "2025-08-16 22:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-16 22:21:15 +0000"
@@ -8164,9 +8170,22 @@
     },
     "done": true
   },
+  "bbb:recipes/stone_tile_slab": {
+    "criteria": {
+      "has_block": "2025-08-16 22:31:48 +0000",
+      "has_the_recipe": "2025-08-16 22:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-16 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_tile_layer": {
+    "criteria": {
+      "has_block": "2025-08-16 22:31:48 +0000"
     },
     "done": true
   },

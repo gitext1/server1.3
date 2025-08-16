@@ -147,6 +147,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-26 21:33:36 +0000",
+      "minecraft:taiga": "2025-08-16 22:32:56 +0000",
       "minecraft:frozen_river": "2025-08-16 03:10:39 +0000",
       "minecraft:beach": "2025-07-28 02:20:30 +0000",
       "minecraft:river": "2025-07-26 21:11:11 +0000",
@@ -8246,6 +8247,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-08-16 21:48:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-08-16 22:32:21 +0000"
     },
     "done": true
   },

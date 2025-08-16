@@ -17320,3 +17320,51 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Aug2025 22:26:14.051] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [16Aug2025 22:26:14.051] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [16Aug2025 22:27:51.249] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:15.199] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:15.698] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:16.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:16.699] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:17.202] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:17.698] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:18.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:18.698] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:19.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:19.698] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:20.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:20.698] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:21.199] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:29:31.503] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[16Aug2025 22:29:34.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 22:29:34.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 22:31:00.903] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[16Aug2025 22:31:40.000] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:31:40.000] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:31:40.001] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:31:40.001] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:31:40.001] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:31:40.001] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:31:40.001] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:31:40.001] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:31:40.002] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:31:40.002] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:34:34.838] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[16Aug2025 22:34:34.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 22:34:34.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 22:34:35.153] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[16Aug2025 22:35:06.301] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:35:06.302] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:35:21.626] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 50,-56
+[16Aug2025 22:36:41.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:lighthouse
+[16Aug2025 22:36:42.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:pumpkin_ruin_three
+[16Aug2025 22:36:48.184] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 14,-95
+[16Aug2025 22:37:55.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_10
+[16Aug2025 22:38:07.800] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:apartament
+[16Aug2025 22:38:10.904] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:38:11.406] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:38:11.903] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:38:12.409] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:38:12.903] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:38:13.403] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:38:13.904] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:38:14.403] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 22:38:37.379] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
