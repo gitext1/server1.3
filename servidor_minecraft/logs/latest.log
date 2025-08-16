@@ -2915,3 +2915,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Aug2025 21:45:50.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_Riva> VIENE UNA HORDA
 [16Aug2025 21:46:55.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Elishy_: Location (448.54192769527435, 69.83511406183243, -724.875) too far away from hit block BlockPos{x=447, y=69, z=-725}.
 [16Aug2025 21:46:59.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from BlaseTK: Location (448.53256726264954, 69.5198404788971, -724.875) too far away from hit block BlockPos{x=447, y=69, z=-725}.
+[16Aug2025 21:52:40.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Creative Mode]
+[16Aug2025 21:54:50.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Survival Mode]
+[16Aug2025 21:57:46.447] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_wolf but it was marked as removed already
+[16Aug2025 21:57:46.448] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_wolf but it was marked as removed already
+[16Aug2025 21:57:46.448] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_wolf but it was marked as removed already
