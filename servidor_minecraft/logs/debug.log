@@ -17897,3 +17897,64 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Aug2025 23:19:18.002] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [16Aug2025 23:19:18.002] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [16Aug2025 23:19:21.453] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:security_zombie but it was marked as removed already
+[16Aug2025 23:19:34.834] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[16Aug2025 23:19:34.837] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[16Aug2025 23:19:34.837] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[16Aug2025 23:19:34.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 23:19:34.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 23:19:34.926] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
+[16Aug2025 23:20:16.803] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:20:16.803] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:20:17.402] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:20:17.403] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:20:18.457] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:20:18.457] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:20:24.045] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[16Aug2025 23:20:29.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[16Aug2025 23:20:30.831] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:20:30.970] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755386430970
+[16Aug2025 23:20:30.970] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[16Aug2025 23:20:30.970] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[16Aug2025 23:21:30.801] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:21:31.301] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:21:31.802] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:21:32.303] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:21:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[16Aug2025 23:21:33.504] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:21:34.501] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:21:35.502] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:21:47.001] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[16Aug2025 23:22:17.104] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk -20,0
+[16Aug2025 23:23:02.577] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:23:06.185] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:23:09.517] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:23:10.002] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:23:11.960] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:23:42.505] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[16Aug2025 23:24:22.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[16Aug2025 23:24:27.249] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:27.749] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:28.249] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:28.750] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:29.249] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:29.749] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:30.250] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[16Aug2025 23:24:34.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 23:24:34.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 23:24:45.750] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:46.250] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:46.751] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:47.249] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:48.451] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:49.452] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:50.451] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:51.352] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:51.850] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:52.349] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:53.550] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:54.550] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:55.549] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:24:56.549] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:29:34.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 23:29:34.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

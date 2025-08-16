@@ -3024,3 +3024,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Aug2025 23:13:56.573] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
 [16Aug2025 23:13:56.573] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
 [16Aug2025 23:19:21.453] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:security_zombie but it was marked as removed already
+[16Aug2025 23:19:34.926] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
+[16Aug2025 23:20:29.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[16Aug2025 23:20:30.970] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[16Aug2025 23:20:30.970] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[16Aug2025 23:21:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[16Aug2025 23:22:17.104] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk -20,0
+[16Aug2025 23:24:22.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[16Aug2025 23:24:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
