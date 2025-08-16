@@ -3008,3 +3008,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Aug2025 23:06:08.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=67, z=-763} BlockPos{x=466, y=65, z=-763}
 [16Aug2025 23:07:19.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
 [16Aug2025 23:07:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported 3 entities to Sr_Riva]
+[16Aug2025 23:09:28.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[16Aug2025 23:09:56.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was slain by Husk
+[16Aug2025 23:09:58.789] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[16Aug2025 23:09:58.789] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[16Aug2025 23:10:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[16Aug2025 23:10:16.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[16Aug2025 23:12:31.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was slain by Enderman
+[16Aug2025 23:12:33.430] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[16Aug2025 23:12:33.430] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[16Aug2025 23:13:11.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[16Aug2025 23:13:40.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[16Aug2025 23:13:48.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[16Aug2025 23:13:55.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[16Aug2025 23:13:56.573] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[16Aug2025 23:13:56.573] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[16Aug2025 23:19:21.453] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:security_zombie but it was marked as removed already

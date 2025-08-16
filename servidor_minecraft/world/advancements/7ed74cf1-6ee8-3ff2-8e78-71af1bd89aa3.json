@@ -8195,6 +8195,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-08-16 23:04:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blue_cup": {
     "criteria": {
       "has_blue_cup": "2025-08-16 22:21:15 +0000"
