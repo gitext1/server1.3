@@ -3032,3 +3032,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Aug2025 23:22:17.104] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk -20,0
 [16Aug2025 23:24:22.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
 [16Aug2025 23:24:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[16Aug2025 23:32:31.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[16Aug2025 23:32:44.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK moved wrongly!
+[16Aug2025 23:35:25.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[16Aug2025 23:35:26.652] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[16Aug2025 23:35:26.652] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[16Aug2025 23:37:22.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sr_Riva lost connection: Disconnected
+[16Aug2025 23:37:22.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva left the game
+[16Aug2025 23:37:22.601] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2 was unloaded
+[16Aug2025 23:37:22.604] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sr_Riva
+[16Aug2025 23:39:29.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
