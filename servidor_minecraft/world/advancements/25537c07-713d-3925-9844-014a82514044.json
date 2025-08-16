@@ -6689,9 +6689,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-16 22:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-16 22:52:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_counter": {
     "criteria": {
       "has_mangrove_counter": "2025-08-16 22:17:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-08-16 22:46:05 +0000"
     },
     "done": true
   },
@@ -6707,9 +6725,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-16 22:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-16 22:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-16 22:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-16 22:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-16 21:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-16 22:46:05 +0000"
     },
     "done": true
   },
@@ -6764,6 +6812,12 @@
   "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
       "has_planks": "2025-08-16 22:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-16 22:48:24 +0000"
     },
     "done": true
   },
@@ -6839,6 +6893,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-08-16 22:46:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_bench": {
     "criteria": {
       "has_mangrove_bench": "2025-08-16 22:17:50 +0000"
@@ -6866,6 +6926,24 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-08-16 21:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-16 22:46:05 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/quartz_column": {
+    "criteria": {
+      "has_block": "2025-08-16 22:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-16 22:46:05 +0000"
     },
     "done": true
   },

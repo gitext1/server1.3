@@ -8250,6 +8250,12 @@
     },
     "done": true
   },
+  "infectious:jack_o_dead": {
+    "criteria": {
+      "jack_o_dead": "2025-08-16 22:46:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/onion": {
     "criteria": {
       "has_onion_crate": "2025-08-16 22:32:21 +0000"
@@ -8271,6 +8277,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-08-16 21:53:05 +0000"
+    },
+    "done": true
+  },
+  "infectious:rage_quit": {
+    "criteria": {
+      "rage_quit": "2025-08-16 22:46:09 +0000"
     },
     "done": true
   },
