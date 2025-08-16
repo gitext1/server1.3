@@ -2997,3 +2997,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Aug2025 22:50:05.686] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
 [16Aug2025 22:50:05.686] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
 [16Aug2025 22:52:16.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Local Brewery]
+[16Aug2025 23:01:58.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[16Aug2025 23:05:43.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=455, y=68, z=-739} BlockPos{x=456, y=66, z=-739}
+[16Aug2025 23:05:43.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=455, y=68, z=-739} BlockPos{x=456, y=66, z=-739}
+[16Aug2025 23:06:01.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=66, z=-762} BlockPos{x=469, y=65, z=-761}
+[16Aug2025 23:06:02.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=67, z=-760} BlockPos{x=469, y=65, z=-761}
+[16Aug2025 23:06:08.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=67, z=-763} BlockPos{x=466, y=65, z=-763}
+[16Aug2025 23:06:08.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=67, z=-763} BlockPos{x=466, y=65, z=-763}
+[16Aug2025 23:06:08.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=67, z=-763} BlockPos{x=466, y=65, z=-763}
+[16Aug2025 23:06:08.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=67, z=-763} BlockPos{x=466, y=65, z=-763}
+[16Aug2025 23:07:19.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[16Aug2025 23:07:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported 3 entities to Sr_Riva]

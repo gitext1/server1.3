@@ -17701,3 +17701,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Aug2025 22:54:34.515] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
 [16Aug2025 22:54:34.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Aug2025 22:54:34.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 22:59:34.830] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[16Aug2025 22:59:34.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 22:59:34.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 23:00:22.860] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[16Aug2025 23:00:26.556] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:00:54.053] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:00:54.053] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:09.554] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:09.554] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:12.103] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:12.103] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:19.957] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:19.957] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:26.904] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:26.904] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:28.004] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:28.004] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:28.503] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:28.503] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:29.459] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:29.459] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:33.166] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[16Aug2025 23:01:34.602] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:34.603] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:36.610] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:36.610] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:45.354] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:01:58.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[16Aug2025 23:02:01.047] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[16Aug2025 23:02:03.350] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:03:39.350] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:03:51.049] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16Aug2025 23:04:34.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 23:04:34.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 23:04:50.015] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[16Aug2025 23:04:50.015] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[16Aug2025 23:05:43.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=455, y=68, z=-739} BlockPos{x=456, y=66, z=-739}
+[16Aug2025 23:05:43.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=455, y=68, z=-739} BlockPos{x=456, y=66, z=-739}
+[16Aug2025 23:06:01.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=66, z=-762} BlockPos{x=469, y=65, z=-761}
+[16Aug2025 23:06:02.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=67, z=-760} BlockPos{x=469, y=65, z=-761}
+[16Aug2025 23:06:08.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=67, z=-763} BlockPos{x=466, y=65, z=-763}
+[16Aug2025 23:06:08.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=67, z=-763} BlockPos{x=466, y=65, z=-763}
+[16Aug2025 23:06:08.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=67, z=-763} BlockPos{x=466, y=65, z=-763}
+[16Aug2025 23:06:08.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=467, y=67, z=-763} BlockPos{x=466, y=65, z=-763}
+[16Aug2025 23:07:18.504] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[16Aug2025 23:07:19.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[16Aug2025 23:07:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported 3 entities to Sr_Riva]
