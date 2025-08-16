@@ -7560,7 +7560,8 @@
   },
   "brewery:main/crop_collector": {
     "criteria": {
-      "brewery:hops": "2025-08-14 01:42:19 +0000"
+      "brewery:hops": "2025-08-14 01:42:19 +0000",
+      "brewery:corn": "2025-08-16 23:49:30 +0000"
     },
     "done": false
   },

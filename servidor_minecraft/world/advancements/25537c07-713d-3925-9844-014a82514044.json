@@ -6020,6 +6020,7 @@
       "ratatouille": "2025-08-10 03:19:36 +0000",
       "squid_ink_pasta": "2025-08-13 00:26:04 +0000",
       "pasta_with_meatballs": "2025-08-14 03:29:43 +0000",
+      "vegetable_noodles": "2025-08-16 23:45:05 +0000",
       "stuffed_pumpkin": "2025-08-14 03:37:36 +0000",
       "pasta_with_mutton_chop": "2025-08-12 01:29:36 +0000",
       "fried_rice": "2025-08-16 23:13:00 +0000"
@@ -6959,6 +6960,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-08-16 21:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-16 23:47:22 +0000"
     },
     "done": true
   },
