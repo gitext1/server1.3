@@ -2914,3 +2914,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Aug2025 18:12:47.243] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
 [17Aug2025 18:12:47.243] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
 [17Aug2025 18:12:47.243] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[17Aug2025 18:13:37.242] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[17Aug2025 18:13:37.242] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[17Aug2025 18:13:37.243] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[17Aug2025 18:13:37.243] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[17Aug2025 18:23:08.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ lost connection: Disconnected
+[17Aug2025 18:23:08.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ left the game
+[17Aug2025 18:23:08.193] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was unloaded
+[17Aug2025 18:23:08.197] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elishy_
+[17Aug2025 18:23:28.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Aug2025 18:23:28.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Aug2025 18:23:28.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Aug2025 18:23:28.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Aug2025 18:23:28.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Aug2025 18:23:28.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Aug2025 18:23:28.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[17Aug2025 18:23:28.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Aug2025 18:23:28.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Aug2025 18:23:28.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Aug2025 18:23:28.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[17Aug2025 18:23:28.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Aug2025 18:23:28.708] [Server thread/INFO] [Framework/]: Unloading server configs...
+[17Aug2025 18:23:28.709] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[17Aug2025 18:23:28.718] [Server thread/INFO] [net.petemc.mutantszombies.MutantsZombies/]: Loading mutantszombies server config
+[17Aug2025 18:23:28.723] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[17Aug2025 18:23:28.724] [Server thread/INFO] [farsightedmobs/]: Loading config
