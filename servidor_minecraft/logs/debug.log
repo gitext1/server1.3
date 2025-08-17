@@ -16143,3 +16143,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Aug2025 17:52:01.638] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
 [17Aug2025 17:52:23.840] [Server thread/DEBUG] [mixin/]: Mixing fastbench.PolymorphMixinFastBenchUtil from polymorph-integrations.forge.mixins.json into dev.shadowsoffire.fastbench.util.FastBenchUtil
 [17Aug2025 17:52:23.840] [Server thread/DEBUG] [mixin/]: polymorph-integrations.forge.mixins.json:fastbench.PolymorphMixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Aug2025 17:53:54.243] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[17Aug2025 17:54:01.200] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[17Aug2025 17:54:01.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 17:54:01.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 17:54:27.234] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[17Aug2025 17:54:27.234] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$b88859$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[17Aug2025 17:54:27.234] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$b88859$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[17Aug2025 17:55:30.796] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[17Aug2025 17:57:37.740] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[17Aug2025 17:58:58.814] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[17Aug2025 17:59:01.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 17:59:01.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
