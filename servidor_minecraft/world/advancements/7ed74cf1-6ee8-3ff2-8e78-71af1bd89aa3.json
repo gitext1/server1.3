@@ -8209,5 +8209,11 @@
     },
     "done": true
   },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-08-17 18:01:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
