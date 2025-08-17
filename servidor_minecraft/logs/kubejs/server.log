@@ -1,41 +1,41 @@
-[21:39:20] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[21:39:20] [INIT] Loaded plugins:
-[21:39:20] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[21:39:20] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
-[21:39:20] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
-[21:39:20] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
-[21:39:21] [INFO] Loaded script server_scripts:matt's_stims_server.js in 0.003 s
-[21:39:21] [INFO] Loaded script server_scripts:itemRecipeBlacklist.js in 0.003 s
-[21:39:21] [INFO] Loaded script server_scripts:cursedwalkingrecipechanges.js in 0.001 s
-[21:39:21] [INFO] Loaded 3/3 KubeJS server scripts in 0.026 s with 0 errors and 0 warnings
-[21:39:21] [INFO] Scripts loaded
-[21:39:21] [INFO] Initializing recipe event...
-[21:39:25] [INFO] Processing recipes...
-[21:39:25] [WARN] Failed to parse recipe 'mutantsbuff:creeper_shard_plus_hammer[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:39:25] [WARN] Failed to parse recipe 'apocalypsenow:rockeyhelmetrecipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:39:25] [WARN] Failed to parse recipe 'mutantsbuff:creeper_shard_plus_ham_2[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:39:25] [WARN] Failed to parse recipe 'create_netherless:blaze_burner_recipe_from_craft[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:39:25] [WARN] Failed to parse recipe 'cuffed:information_booklet[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:39:25] [WARN] Failed to parse recipe 'mutantsbuff:aadd[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:39:25] [INFO] Found 7084 recipes in 129.8 ms
-[21:39:25] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_clean_block
-[21:39:25] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_clean_block_blasting
-[21:39:25] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_exposed_block
-[21:39:25] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_exposed_block_blasting
-[21:39:25] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_rusted_block
-[21:39:25] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_rusted_block_blasting
-[21:39:25] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_weathered_block
-[21:39:25] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_weathered_block_blasting
-[21:39:25] [INFO] itemRecipeBlacklist.js#60: the_deep_void:refined_bismuth
-[21:39:25] [ERROR] ! itemRecipeBlacklist.js#81: Failed to create custom JSON recipe from '{"type":"create:crushing","ingredients":[{"item":"minecraft:blackstone"}],"results":[{"item":"coal","count":1,"chance":0.5}],"processingTime":250}': Unknown recipe type: create:crushing
-[21:39:25] [INFO] cursedwalkingrecipechanges.js#2: CW Recipe Tweaks has fired.
-[21:39:25] [ERROR] ! cursedwalkingrecipechanges.js#5: Failed to create recipe for type 'kubejs:shaped': ItemStack 'result' can't be empty!
-[21:39:25] [INFO] Posted recipe events in 285.4 ms
-[21:39:25] [WARN] Error parsing recipe minecraft:kjs/steriod_shot_enhanced[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:steriod_shot_enhanced","count":1},"ingredients":[{"item":"kubejs:steriod_shot"},{"item":"minecraft:nether_wart"},{"item":"minecraft:slime_ball"},[],[]]}: Item array cannot be empty, at least one item must be defined
-[21:39:25] [WARN] Error parsing recipe minecraft:kjs/adrenaline_shot[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:adrenaline_shot","count":1},"ingredients":[{"item":"cure:syringe"},{"item":"minecraft:glowstone_dust"},[],{"item":"farmersdelight:melon_juice"}]}: Item array cannot be empty, at least one item must be defined
-[21:39:25] [WARN] Error parsing recipe minecraft:kjs/adrenaline_shot_enhanced[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:adrenaline_shot_enhanced","count":1},"ingredients":[{"item":"kubejs:adrenaline_shot"},{"item":"minecraft:glowstone_dust"},{"item":"minecraft:glowstone_dust"},[],{"item":"minecraft:blaze_powder"},[]]}: Item array cannot be empty, at least one item must be defined
-[21:39:25] [WARN] Error parsing recipe minecraft:kjs/morphine_shot[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:morphine_shot","count":1},"ingredients":[{"item":"cure:syringe"},{"item":"minecraft:glow_ink_sac"},[],{"item":"farmersdelight:brown_mushroom_colony"},{"item":"minecraft:glow_berries"}]}: Item array cannot be empty, at least one item must be defined
-[21:39:25] [WARN] Error parsing recipe minecraft:kjs/morphine_shot_enhanced[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:morphine_shot_enhanced","count":1},"ingredients":[{"item":"kubejs:morphine_shot"},{"item":"minecraft:blaze_powder"},{"item":"minecraft:honeycomb"},{"item":"minecraft:glistering_melon_slice"},{"item":"minecraft:glistering_melon_slice"},[]]}: Item array cannot be empty, at least one item must be defined
-[21:39:25] [WARN] Error parsing recipe minecraft:kjs/steriod_shot[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:steriod_shot","count":1},"ingredients":[{"item":"cure:syringe"},{"item":"farmersdelight:onion"},{"item":"minecraft:golden_carrot"},[]]}: Item array cannot be empty, at least one item must be defined
-[21:39:25] [INFO] Added 6 recipes, removed 8 recipes, modified 3 recipes, with 8 failed recipes in 94.06 ms
-[21:39:29] [INFO] Server resource reload complete!
+[17:33:48] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[17:33:48] [INIT] Loaded plugins:
+[17:33:48] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:33:48] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[17:33:48] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
+[17:33:48] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[17:33:49] [INFO] Loaded script server_scripts:matt's_stims_server.js in 0.002 s
+[17:33:49] [INFO] Loaded script server_scripts:itemRecipeBlacklist.js in 0.003 s
+[17:33:49] [INFO] Loaded script server_scripts:cursedwalkingrecipechanges.js in 0.0 s
+[17:33:49] [INFO] Loaded 3/3 KubeJS server scripts in 0.025 s with 0 errors and 0 warnings
+[17:33:49] [INFO] Scripts loaded
+[17:33:49] [INFO] Initializing recipe event...
+[17:33:53] [INFO] Processing recipes...
+[17:33:53] [WARN] Failed to parse recipe 'mutantsbuff:creeper_shard_plus_hammer[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[17:33:53] [WARN] Failed to parse recipe 'apocalypsenow:rockeyhelmetrecipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[17:33:53] [WARN] Failed to parse recipe 'mutantsbuff:creeper_shard_plus_ham_2[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[17:33:53] [WARN] Failed to parse recipe 'create_netherless:blaze_burner_recipe_from_craft[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[17:33:53] [WARN] Failed to parse recipe 'cuffed:information_booklet[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[17:33:53] [WARN] Failed to parse recipe 'mutantsbuff:aadd[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[17:33:53] [INFO] Found 7084 recipes in 148.6 ms
+[17:33:53] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_clean_block
+[17:33:53] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_clean_block_blasting
+[17:33:53] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_exposed_block
+[17:33:53] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_exposed_block_blasting
+[17:33:53] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_rusted_block
+[17:33:53] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_rusted_block_blasting
+[17:33:53] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_weathered_block
+[17:33:53] [INFO] itemRecipeBlacklist.js#60: immersive_weathering:iron_ingot_from_weathered_block_blasting
+[17:33:53] [INFO] itemRecipeBlacklist.js#60: the_deep_void:refined_bismuth
+[17:33:53] [ERROR] ! itemRecipeBlacklist.js#81: Failed to create custom JSON recipe from '{"type":"create:crushing","ingredients":[{"item":"minecraft:blackstone"}],"results":[{"item":"coal","count":1,"chance":0.5}],"processingTime":250}': Unknown recipe type: create:crushing
+[17:33:53] [INFO] cursedwalkingrecipechanges.js#2: CW Recipe Tweaks has fired.
+[17:33:53] [ERROR] ! cursedwalkingrecipechanges.js#5: Failed to create recipe for type 'kubejs:shaped': ItemStack 'result' can't be empty!
+[17:33:53] [INFO] Posted recipe events in 269.2 ms
+[17:33:53] [WARN] Error parsing recipe minecraft:kjs/adrenaline_shot[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:adrenaline_shot","count":1},"ingredients":[{"item":"cure:syringe"},{"item":"minecraft:glowstone_dust"},[],{"item":"farmersdelight:melon_juice"}]}: Item array cannot be empty, at least one item must be defined
+[17:33:53] [WARN] Error parsing recipe minecraft:kjs/adrenaline_shot_enhanced[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:adrenaline_shot_enhanced","count":1},"ingredients":[{"item":"kubejs:adrenaline_shot"},{"item":"minecraft:glowstone_dust"},{"item":"minecraft:glowstone_dust"},[],{"item":"minecraft:blaze_powder"},[]]}: Item array cannot be empty, at least one item must be defined
+[17:33:53] [WARN] Error parsing recipe minecraft:kjs/steriod_shot_enhanced[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:steriod_shot_enhanced","count":1},"ingredients":[{"item":"kubejs:steriod_shot"},{"item":"minecraft:nether_wart"},{"item":"minecraft:slime_ball"},[],[]]}: Item array cannot be empty, at least one item must be defined
+[17:33:53] [WARN] Error parsing recipe minecraft:kjs/morphine_shot_enhanced[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:morphine_shot_enhanced","count":1},"ingredients":[{"item":"kubejs:morphine_shot"},{"item":"minecraft:blaze_powder"},{"item":"minecraft:honeycomb"},{"item":"minecraft:glistering_melon_slice"},{"item":"minecraft:glistering_melon_slice"},[]]}: Item array cannot be empty, at least one item must be defined
+[17:33:53] [WARN] Error parsing recipe minecraft:kjs/steriod_shot[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:steriod_shot","count":1},"ingredients":[{"item":"cure:syringe"},{"item":"farmersdelight:onion"},{"item":"minecraft:golden_carrot"},[]]}: Item array cannot be empty, at least one item must be defined
+[17:33:53] [WARN] Error parsing recipe minecraft:kjs/morphine_shot[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:morphine_shot","count":1},"ingredients":[{"item":"cure:syringe"},{"item":"minecraft:glow_ink_sac"},[],{"item":"farmersdelight:brown_mushroom_colony"},{"item":"minecraft:glow_berries"}]}: Item array cannot be empty, at least one item must be defined
+[17:33:53] [INFO] Added 6 recipes, removed 8 recipes, modified 3 recipes, with 8 failed recipes in 91.35 ms
+[17:33:57] [INFO] Server resource reload complete!
