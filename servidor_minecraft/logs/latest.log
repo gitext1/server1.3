@@ -2963,3 +2963,69 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Aug2025 02:36:30.112] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=835, y=-58, z=860}
 [18Aug2025 02:37:24.888] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3085ms or 61 ticks
 [18Aug2025 02:38:05.445] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27859, l='ServerLevel[world]', x=715.52, y=88.00, z=-1843.49] died, message: 'Villager was slain by Zombie SEDA'
+[18Aug2025 02:39:32.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26064, l='ServerLevel[world]', x=622.62, y=83.19, z=-1822.62] died, message: 'Villager was sniped by Archer'
+[18Aug2025 02:40:17.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Voluntary Exile]
+[18Aug2025 02:40:36.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:enchanted_zombie but it was marked as removed already
+[18Aug2025 02:40:38.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bodyless_zombie but it was marked as removed already
+[18Aug2025 02:40:38.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bodyless_zombie but it was marked as removed already
+[18Aug2025 02:40:38.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bodyless_zombie but it was marked as removed already
+[18Aug2025 02:40:39.141] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_girl but it was marked as removed already
+[18Aug2025 02:40:39.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_girl but it was marked as removed already
+[18Aug2025 02:40:39.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_girl but it was marked as removed already
+[18Aug2025 02:40:40.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:crawling_zombie but it was marked as removed already
+[18Aug2025 02:40:41.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[18Aug2025 02:40:41.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:burning_zombie but it was marked as removed already
+[18Aug2025 02:40:43.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[18Aug2025 02:40:43.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[18Aug2025 02:40:43.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[18Aug2025 02:40:43.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[18Aug2025 02:40:43.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_spider but it was marked as removed already
+[18Aug2025 02:40:43.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_spider but it was marked as removed already
+[18Aug2025 02:40:43.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_spider but it was marked as removed already
+[18Aug2025 02:40:43.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_spider but it was marked as removed already
+[18Aug2025 02:41:00.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26848, l='ServerLevel[world]', x=693.47, y=72.31, z=-1899.93] died, message: 'Villager was slain by Runner'
+[18Aug2025 02:41:02.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:chained_zombie but it was marked as removed already
+[18Aug2025 02:41:02.141] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:chained_zombie but it was marked as removed already
+[18Aug2025 02:41:06.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:enchanted_zombie but it was marked as removed already
+[18Aug2025 02:41:13.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/26806, l='ServerLevel[world]', x=695.77, y=73.08, z=-1885.97] died, message: 'Arms Dealer was slain by Runner'
+[18Aug2025 02:42:08.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was slain by Ravager
+[18Aug2025 02:42:10.950] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[18Aug2025 02:42:10.950] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[18Aug2025 02:42:15.194] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 44,-123
+[18Aug2025 02:42:22.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26710, l='ServerLevel[world]', x=660.38, y=91.25, z=-1826.47] died, message: 'Villager was slain by The Moonflower'
+[18Aug2025 02:42:23.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26794, l='ServerLevel[world]', x=673.33, y=80.00, z=-1768.49] died, message: 'Villager was chopped to bits by Skirmisher'
+[18Aug2025 02:42:24.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26068, l='ServerLevel[world]', x=660.30, y=90.66, z=-1828.83] died, message: 'Villager died because of The Moonflower'
+[18Aug2025 02:42:26.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/26453, l='ServerLevel[world]', x=681.60, y=88.19, z=-1823.46] died, message: 'Farmer was shot by Pillager'
+[18Aug2025 02:42:27.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:big_zombie but it was marked as removed already
+[18Aug2025 02:42:27.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:brain_zombie but it was marked as removed already
+[18Aug2025 02:42:32.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/26452, l='ServerLevel[world]', x=676.80, y=85.00, z=-1797.51] died, message: 'Farmer was slain by Ravager'
+[18Aug2025 02:42:36.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[18Aug2025 02:42:38.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26695, l='ServerLevel[world]', x=637.71, y=85.56, z=-1808.07] died, message: 'Villager was slain by The Moonflower'
+[18Aug2025 02:42:39.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/26791, l='ServerLevel[world]', x=670.69, y=83.00, z=-1799.52] died, message: 'Fisherman was slain by Ravager'
+[18Aug2025 02:42:42.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/26839, l='ServerLevel[world]', x=715.49, y=88.00, z=-1849.42] died, message: 'Mason was slain by Zombie SEDA'
+[18Aug2025 02:43:00.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26849, l='ServerLevel[world]', x=684.88, y=87.00, z=-1862.01] died, message: 'Villager was slain by The Moonflower'
+[18Aug2025 02:43:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[18Aug2025 02:43:35.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26709, l='ServerLevel[world]', x=681.63, y=90.06, z=-1796.48] died, message: 'Villager was slain by Zombie SEDA'
+[18Aug2025 02:44:22.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:crawling_zombie but it was marked as removed already
+[18Aug2025 02:44:22.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:crawling_zombie but it was marked as removed already
+[18Aug2025 02:44:22.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:crawling_zombie but it was marked as removed already
+[18Aug2025 02:44:44.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Back in my days...]
+[18Aug2025 02:45:02.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has completed the challenge [Hero of the Village]
+[18Aug2025 02:45:02.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has completed the challenge [Hero of the Village]
+[18Aug2025 02:45:07.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[18Aug2025 02:45:10.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Hogzilla]
+[18Aug2025 02:45:12.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:headless_zombie but it was marked as removed already
+[18Aug2025 02:46:34.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_head but it was marked as removed already
+[18Aug2025 02:46:34.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[18Aug2025 02:46:34.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[18Aug2025 02:46:54.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:crawling_zombie but it was marked as removed already
+[18Aug2025 02:46:54.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:crawling_zombie but it was marked as removed already
+[18Aug2025 02:47:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has completed the challenge [Centennial]
+[18Aug2025 02:47:43.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Aug2025 02:47:43.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Aug2025 02:47:54.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:old_zombie but it was marked as removed already
+[18Aug2025 02:47:54.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:old_zombie but it was marked as removed already
+[18Aug2025 02:47:54.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_climber but it was marked as removed already
+[18Aug2025 02:47:54.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_climber but it was marked as removed already
+[18Aug2025 02:48:06.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[18Aug2025 02:48:14.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
