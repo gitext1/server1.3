@@ -2927,3 +2927,39 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Aug2025 02:24:06.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
 [18Aug2025 02:24:43.940] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id campsite_structures:camper
 [18Aug2025 02:25:41.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ moved wrongly!
+[18Aug2025 02:28:43.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_clown but it was marked as removed already
+[18Aug2025 02:28:43.141] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_clown but it was marked as removed already
+[18Aug2025 02:28:45.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[18Aug2025 02:28:45.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:sleepy_zombie but it was marked as removed already
+[18Aug2025 02:28:47.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:angry_zombie but it was marked as removed already
+[18Aug2025 02:28:47.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:angry_zombie but it was marked as removed already
+[18Aug2025 02:28:47.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:angry_zombie but it was marked as removed already
+[18Aug2025 02:28:47.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:withered_zombie but it was marked as removed already
+[18Aug2025 02:30:38.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[18Aug2025 02:31:19.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[18Aug2025 02:31:23.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[18Aug2025 02:33:03.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[18Aug2025 02:34:20.688] [Worker-Main-3/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Generating dungeon at block [711,-1961]
+[18Aug2025 02:34:23.618] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=835, y=-58, z=860}
+[18Aug2025 02:34:55.690] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-58, z=865}
+[18Aug2025 02:35:13.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[18Aug2025 02:35:15.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[18Aug2025 02:35:25.890] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-58, z=867}
+[18Aug2025 02:35:25.890] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-59, z=866}
+[18Aug2025 02:35:25.896] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=620, y=-53, z=861}
+[18Aug2025 02:35:25.897] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=613, y=-54, z=865}
+[18Aug2025 02:35:26.029] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=610, y=-53, z=861}
+[18Aug2025 02:35:42.814] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-58, z=865}
+[18Aug2025 02:35:42.815] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-58, z=867}
+[18Aug2025 02:35:42.815] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-59, z=866}
+[18Aug2025 02:36:09.411] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=610, y=-53, z=861}
+[18Aug2025 02:36:09.411] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=620, y=-53, z=861}
+[18Aug2025 02:36:09.412] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=613, y=-54, z=865}
+[18Aug2025 02:36:09.413] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=505, y=-58, z=850}
+[18Aug2025 02:36:26.959] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=835, y=-58, z=860}
+[18Aug2025 02:36:27.950] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-58, z=865}
+[18Aug2025 02:36:27.950] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-58, z=867}
+[18Aug2025 02:36:27.951] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-59, z=866}
+[18Aug2025 02:36:30.112] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=835, y=-58, z=860}
+[18Aug2025 02:37:24.888] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3085ms or 61 ticks
+[18Aug2025 02:38:05.445] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27859, l='ServerLevel[world]', x=715.52, y=88.00, z=-1843.49] died, message: 'Villager was slain by Zombie SEDA'
