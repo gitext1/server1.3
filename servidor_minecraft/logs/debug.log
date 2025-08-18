@@ -21056,3 +21056,462 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Aug2025 03:48:40.431] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 20
 [18Aug2025 03:48:54.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Aug2025 03:48:54.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 03:49:30.155] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[18Aug2025 03:49:30.155] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[18Aug2025 03:50:18.047] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:18.047] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:19.048] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:20.445] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:20.445] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:21.695] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:21.695] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:24.394] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:24.395] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:48.995] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:49.093] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 5,-28
+[18Aug2025 03:50:49.495] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:49.995] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:50.496] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:50.996] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:51.495] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:51.997] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:52.497] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:52.996] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:53.495] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:53.996] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:54.529] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:54.995] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:50:58.638] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[18Aug2025 03:51:43.244] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:43.745] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:44.267] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:44.746] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:45.245] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:45.745] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:46.252] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:46.747] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:47.251] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:47.749] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:48.246] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:48.746] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:49.268] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:49.746] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:50.248] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:51:50.746] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:52:18.199] [Worker-Main-2/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Generating dungeon at block [-313,-937]
+[18Aug2025 03:52:28.194] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/bend1
+[18Aug2025 03:52:28.206] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight4
+[18Aug2025 03:52:28.221] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term1
+[18Aug2025 03:52:28.229] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight6
+[18Aug2025 03:52:28.230] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight1
+[18Aug2025 03:52:28.231] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight5
+[18Aug2025 03:52:28.232] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/bend2
+[18Aug2025 03:52:28.233] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight2
+[18Aug2025 03:52:28.234] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight3
+[18Aug2025 03:52:28.235] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/t1
+[18Aug2025 03:52:28.236] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/t2
+[18Aug2025 03:52:28.237] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/inter1
+[18Aug2025 03:52:28.238] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term2
+[18Aug2025 03:52:28.239] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term3
+[18Aug2025 03:52:28.239] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term4
+[18Aug2025 03:52:28.268] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic1
+[18Aug2025 03:52:28.303] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic2
+[18Aug2025 03:52:28.365] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic6
+[18Aug2025 03:52:28.412] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/fisherman1
+[18Aug2025 03:52:28.434] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/butcher1
+[18Aug2025 03:52:28.451] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/mason1
+[18Aug2025 03:52:28.463] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/fisherman2
+[18Aug2025 03:52:28.487] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic4
+[18Aug2025 03:52:28.534] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/library1
+[18Aug2025 03:52:28.552] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/shepherd1
+[18Aug2025 03:52:28.597] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/cartographer2
+[18Aug2025 03:52:28.615] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/chapel1
+[18Aug2025 03:52:28.642] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic_big1
+[18Aug2025 03:52:28.655] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/cartographer1
+[18Aug2025 03:52:28.665] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/weaponsmith1
+[18Aug2025 03:52:28.729] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic3
+[18Aug2025 03:52:29.064] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/fletcher1
+[18Aug2025 03:52:29.081] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/armorsmith1
+[18Aug2025 03:52:29.125] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic5
+[18Aug2025 03:52:30.772] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[18Aug2025 03:52:33.626] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-208, y=50, z=6}
+[18Aug2025 03:52:33.626] [Worker-Main-2/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "-208 50 6 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[18Aug2025 03:52:35.652] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-219, y=46, z=22}
+[18Aug2025 03:52:37.765] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-218, y=46, z=28}
+[18Aug2025 03:52:37.765] [Worker-Main-3/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "-218 46 28 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[18Aug2025 03:52:38.325] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-240, y=53, z=37}
+[18Aug2025 03:52:38.325] [Worker-Main-2/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "-240 53 37 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[18Aug2025 03:52:38.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_animal_pen_2
+[18Aug2025 03:52:38.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[18Aug2025 03:52:38.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_farm_1
+[18Aug2025 03:52:38.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_small_house_5
+[18Aug2025 03:52:38.582] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:desert_ruin3
+[18Aug2025 03:52:38.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_large_farm_1
+[18Aug2025 03:52:38.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_small_house_3
+[18Aug2025 03:52:38.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_tannery_1
+[18Aug2025 03:52:38.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_fisher_1
+[18Aug2025 03:52:38.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_farm_2
+[18Aug2025 03:52:38.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_cartographer_house_1
+[18Aug2025 03:52:38.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/terminators/terminator_01
+[18Aug2025 03:52:38.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_small_house_4
+[18Aug2025 03:52:38.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_tool_smith_1
+[18Aug2025 03:52:38.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/terminators/terminator_02
+[18Aug2025 03:52:38.609] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_small_house_1
+[18Aug2025 03:52:38.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_medium_house_2
+[18Aug2025 03:52:38.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_small_house_2
+[18Aug2025 03:52:38.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/houses/desert_small_house_8
+[18Aug2025 03:52:38.723] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-240, y=46, z=48}
+[18Aug2025 03:52:38.723] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-238, y=46, z=44}
+[18Aug2025 03:52:55.235] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id campsite_structures:camper
+[18Aug2025 03:53:04.041] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id campsite_structures:camper
+[18Aug2025 03:53:04.156] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:police
+[18Aug2025 03:53:08.788] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id campsite_structures:camper
+[18Aug2025 03:53:11.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:53:12.243] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:53:24.990] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id campsite_structures:camper
+[18Aug2025 03:53:54.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 03:53:54.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 03:54:20.054] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:20.557] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:21.049] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:21.550] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:21.948] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:21.948] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:22.048] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:22.550] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:23.048] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:23.549] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:24.049] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:24.548] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:25.049] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:25.550] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:26.051] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:26.549] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:27.049] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:27.549] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:28.050] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:28.550] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:29.050] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:29.557] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:30.049] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:30.552] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:31.049] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:43.498] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:43.498] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:45.849] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:47.346] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:54:56.060] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_2
+[18Aug2025 03:54:56.076] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_2
+[18Aug2025 03:54:58.998] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/110098, l='ServerLevel[world]', x=174.46, y=69.00, z=-472.52] died, message: 'Farmer was slain by Zombie Homunculo'
+[18Aug2025 03:55:01.501] [Server thread/DEBUG] [pointblank/]: 1501 handling client fire request
+[18Aug2025 03:55:01.501] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 19
+[18Aug2025 03:55:01.501] [Server thread/DEBUG] [pointblank/]: 1501 - obtained hit result in 0ms
+[18Aug2025 03:55:01.501] [Server thread/DEBUG] [pointblank/]: 1501 obtained hit results
+[18Aug2025 03:55:01.501] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@78c8e92a
+[18Aug2025 03:55:01.502] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=234.70, y=74.50, z=-492.07] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=234.70, y=74.50, z=-492.07]
+[18Aug2025 03:55:02.631] [Server thread/DEBUG] [pointblank/]: 2631 handling client fire request
+[18Aug2025 03:55:02.631] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 18
+[18Aug2025 03:55:02.631] [Server thread/DEBUG] [pointblank/]: 2631 - obtained hit result in 0ms
+[18Aug2025 03:55:02.631] [Server thread/DEBUG] [pointblank/]: 2631 obtained hit results
+[18Aug2025 03:55:02.631] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5a5b722f
+[18Aug2025 03:55:02.632] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=234.70, y=74.50, z=-492.07] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=234.70, y=74.50, z=-492.07]
+[18Aug2025 03:55:03.582] [Server thread/DEBUG] [pointblank/]: 3582 handling client fire request
+[18Aug2025 03:55:03.582] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 17
+[18Aug2025 03:55:03.582] [Server thread/DEBUG] [pointblank/]: 3582 - obtained hit result in 0ms
+[18Aug2025 03:55:03.582] [Server thread/DEBUG] [pointblank/]: 3582 obtained hit results
+[18Aug2025 03:55:03.582] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@37125b82
+[18Aug2025 03:55:03.582] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=234.98, y=75.00, z=-491.30] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=234.98, y=75.00, z=-491.30]
+[18Aug2025 03:55:04.302] [Server thread/DEBUG] [pointblank/]: 4302 handling client fire request
+[18Aug2025 03:55:04.302] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 16
+[18Aug2025 03:55:04.302] [Server thread/DEBUG] [pointblank/]: 4302 - obtained hit result in 0ms
+[18Aug2025 03:55:04.302] [Server thread/DEBUG] [pointblank/]: 4302 obtained hit results
+[18Aug2025 03:55:04.302] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@49ab96b
+[18Aug2025 03:55:04.302] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30]
+[18Aug2025 03:55:05.352] [Server thread/DEBUG] [pointblank/]: 5352 handling client fire request
+[18Aug2025 03:55:05.352] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 15
+[18Aug2025 03:55:05.352] [Server thread/DEBUG] [pointblank/]: 5352 - obtained hit result in 0ms
+[18Aug2025 03:55:05.352] [Server thread/DEBUG] [pointblank/]: 5352 obtained hit results
+[18Aug2025 03:55:05.352] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@17ff5db4
+[18Aug2025 03:55:05.353] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30]
+[18Aug2025 03:55:06.327] [Server thread/DEBUG] [pointblank/]: 6327 handling client fire request
+[18Aug2025 03:55:06.327] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 14
+[18Aug2025 03:55:06.328] [Server thread/DEBUG] [pointblank/]: 6328 - obtained hit result in 0ms
+[18Aug2025 03:55:06.328] [Server thread/DEBUG] [pointblank/]: 6328 obtained hit results
+[18Aug2025 03:55:06.328] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5f487627
+[18Aug2025 03:55:06.328] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30]
+[18Aug2025 03:55:06.882] [Server thread/DEBUG] [pointblank/]: 6882 handling client fire request
+[18Aug2025 03:55:06.882] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 13
+[18Aug2025 03:55:06.882] [Server thread/DEBUG] [pointblank/]: 6882 - obtained hit result in 0ms
+[18Aug2025 03:55:06.882] [Server thread/DEBUG] [pointblank/]: 6882 obtained hit results
+[18Aug2025 03:55:06.882] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5471cda2
+[18Aug2025 03:55:06.883] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30]
+[18Aug2025 03:55:07.778] [Server thread/DEBUG] [pointblank/]: 7778 handling client fire request
+[18Aug2025 03:55:07.779] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 12
+[18Aug2025 03:55:07.779] [Server thread/DEBUG] [pointblank/]: 7779 - obtained hit result in 0ms
+[18Aug2025 03:55:07.779] [Server thread/DEBUG] [pointblank/]: 7779 obtained hit results
+[18Aug2025 03:55:07.779] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@491efc9c
+[18Aug2025 03:55:07.779] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30]
+[18Aug2025 03:55:08.905] [Server thread/DEBUG] [pointblank/]: 8905 handling client fire request
+[18Aug2025 03:55:08.905] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 11
+[18Aug2025 03:55:08.905] [Server thread/DEBUG] [pointblank/]: 8905 - obtained hit result in 0ms
+[18Aug2025 03:55:08.905] [Server thread/DEBUG] [pointblank/]: 8905 obtained hit results
+[18Aug2025 03:55:08.905] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@292edf0c
+[18Aug2025 03:55:08.905] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30]
+[18Aug2025 03:55:10.476] [Server thread/DEBUG] [pointblank/]: 10476 handling client fire request
+[18Aug2025 03:55:10.476] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 10
+[18Aug2025 03:55:10.476] [Server thread/DEBUG] [pointblank/]: 10476 - obtained hit result in 0ms
+[18Aug2025 03:55:10.476] [Server thread/DEBUG] [pointblank/]: 10476 obtained hit results
+[18Aug2025 03:55:10.476] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2a96a0bf
+[18Aug2025 03:55:10.477] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=235.01, y=75.00, z=-491.30]
+[18Aug2025 03:55:11.922] [Server thread/DEBUG] [pointblank/]: 11922 handling client fire request
+[18Aug2025 03:55:11.922] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 9
+[18Aug2025 03:55:11.922] [Server thread/DEBUG] [pointblank/]: 11922 - obtained hit result in 0ms
+[18Aug2025 03:55:11.923] [Server thread/DEBUG] [pointblank/]: 11923 obtained hit results
+[18Aug2025 03:55:11.923] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2773eac6
+[18Aug2025 03:55:11.923] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=233.72, y=74.00, z=-491.55] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=233.72, y=74.00, z=-491.55]
+[18Aug2025 03:55:12.505] [Server thread/DEBUG] [pointblank/]: 12505 handling client fire request
+[18Aug2025 03:55:12.505] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 8
+[18Aug2025 03:55:12.506] [Server thread/DEBUG] [pointblank/]: 12506 - obtained hit result in 1ms
+[18Aug2025 03:55:12.506] [Server thread/DEBUG] [pointblank/]: 12506 obtained hit results
+[18Aug2025 03:55:12.506] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@30147d1f
+[18Aug2025 03:55:12.506] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=233.72, y=74.00, z=-491.55] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=233.72, y=74.00, z=-491.55]
+[18Aug2025 03:55:13.028] [Server thread/DEBUG] [pointblank/]: 13028 handling client fire request
+[18Aug2025 03:55:13.028] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 7
+[18Aug2025 03:55:13.028] [Server thread/DEBUG] [pointblank/]: 13028 - obtained hit result in 0ms
+[18Aug2025 03:55:13.028] [Server thread/DEBUG] [pointblank/]: 13028 obtained hit results
+[18Aug2025 03:55:13.028] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c55cc54
+[18Aug2025 03:55:13.028] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=233.72, y=74.00, z=-491.55] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=233.72, y=74.00, z=-491.55]
+[18Aug2025 03:55:13.552] [Server thread/DEBUG] [pointblank/]: 13552 handling client fire request
+[18Aug2025 03:55:13.552] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 6
+[18Aug2025 03:55:13.552] [Server thread/DEBUG] [pointblank/]: 13552 - obtained hit result in 0ms
+[18Aug2025 03:55:13.552] [Server thread/DEBUG] [pointblank/]: 13552 obtained hit results
+[18Aug2025 03:55:13.552] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18a87172
+[18Aug2025 03:55:13.553] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=233.72, y=74.00, z=-491.55] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=233.72, y=74.00, z=-491.55]
+[18Aug2025 03:55:14.179] [Server thread/DEBUG] [pointblank/]: 14179 handling client fire request
+[18Aug2025 03:55:14.179] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 5
+[18Aug2025 03:55:14.179] [Server thread/DEBUG] [pointblank/]: 14179 - obtained hit result in 0ms
+[18Aug2025 03:55:14.179] [Server thread/DEBUG] [pointblank/]: 14179 obtained hit results
+[18Aug2025 03:55:14.179] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52a58f93
+[18Aug2025 03:55:14.180] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=233.72, y=74.00, z=-491.55] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=233.72, y=74.00, z=-491.55]
+[18Aug2025 03:55:14.956] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 20
+[18Aug2025 03:55:17.593] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[18Aug2025 03:55:18.749] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:18.749] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:27.499] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:28.044] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:28.504] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:29.014] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:29.559] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:29.779] [IO-Worker-89/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[18Aug2025 03:55:30.017] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:30.507] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:30.997] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:31.499] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:32.000] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:55:39.647] [Server thread/DEBUG] [pointblank/]: 39647 handling client fire request
+[18Aug2025 03:55:39.647] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 19
+[18Aug2025 03:55:39.647] [Server thread/DEBUG] [pointblank/]: 39647 - obtained hit result in 0ms
+[18Aug2025 03:55:39.647] [Server thread/DEBUG] [pointblank/]: 39647 obtained hit results
+[18Aug2025 03:55:39.647] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3991f6d
+[18Aug2025 03:55:39.648] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=562.10, y=63.00, z=-713.29] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=562.10, y=63.00, z=-713.29]
+[18Aug2025 03:55:41.595] [Worker-Main-1/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Generating dungeon at block [-473,-1529]
+[18Aug2025 03:55:45.125] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 20
+[18Aug2025 03:55:53.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_archer but it was marked as removed already
+[18Aug2025 03:55:54.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:hazmat_zombie but it was marked as removed already
+[18Aug2025 03:55:54.162] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:hazmat_zombie but it was marked as removed already
+[18Aug2025 03:55:54.162] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:hazmat_zombie but it was marked as removed already
+[18Aug2025 03:55:54.163] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:hazmat_zombie but it was marked as removed already
+[18Aug2025 03:55:55.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:old_zombie but it was marked as removed already
+[18Aug2025 03:55:56.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[18Aug2025 03:55:56.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[18Aug2025 03:55:57.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[18Aug2025 03:55:57.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[18Aug2025 03:55:57.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[18Aug2025 03:55:57.179] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:clinic
+[18Aug2025 03:55:58.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[18Aug2025 03:56:00.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_spider but it was marked as removed already
+[18Aug2025 03:56:03.847] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:03.847] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:04.897] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:04.995] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:04.995] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:05.896] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:05.995] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:05.995] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:06.897] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:07.296] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:07.296] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:10.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_fisherman but it was marked as removed already
+[18Aug2025 03:56:11.856] [Worker-Main-1/DEBUG] [ModernFix/]: Structure philipsruins:ancient_tower_5 is being run through DFU (hash cdf309de2abb5db45d80910bcdb5eb20e94b961add6102169b87959e92057844), this will cause launch time delays
+[18Aug2025 03:56:12.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:withered_zombie but it was marked as removed already
+[18Aug2025 03:56:12.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:withered_zombie but it was marked as removed already
+[18Aug2025 03:56:13.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:crawling_zombie but it was marked as removed already
+[18Aug2025 03:56:13.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:crawling_zombie but it was marked as removed already
+[18Aug2025 03:56:13.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:crawling_zombie but it was marked as removed already
+[18Aug2025 03:56:13.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:football_player_zombie but it was marked as removed already
+[18Aug2025 03:56:15.649] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 11,-61
+[18Aug2025 03:56:20.798] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:21.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:blind_zombie but it was marked as removed already
+[18Aug2025 03:56:21.300] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:21.799] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:22.299] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:22.798] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:23.298] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:23.349] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:23.349] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:23.806] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:24.311] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:24.803] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:24.947] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:24.947] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:25.298] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:25.556] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:25.556] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:25.799] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:26.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_painter but it was marked as removed already
+[18Aug2025 03:56:26.299] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:26.799] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:27.301] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:27.798] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:28.306] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:28.799] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:29.299] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:29.804] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:30.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_boxer but it was marked as removed already
+[18Aug2025 03:56:30.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_boxer but it was marked as removed already
+[18Aug2025 03:56:30.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:disco_zombie but it was marked as removed already
+[18Aug2025 03:56:30.300] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:30.799] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:31.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:claw_zombie but it was marked as removed already
+[18Aug2025 03:56:31.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:claw_zombie but it was marked as removed already
+[18Aug2025 03:56:31.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:claw_zombie but it was marked as removed already
+[18Aug2025 03:56:31.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:claw_zombie but it was marked as removed already
+[18Aug2025 03:56:31.314] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:31.799] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:32.299] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:32.799] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:33.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_agent but it was marked as removed already
+[18Aug2025 03:56:33.304] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:33.800] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:34.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:iron_door_zombie but it was marked as removed already
+[18Aug2025 03:56:34.299] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:34.799] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:35.299] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:35.799] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:36.301] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:36.799] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:52.303] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:52.804] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:53.104] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:data_pack/level_ruin_three11
+[18Aug2025 03:56:53.309] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:53.798] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:54.128] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 5,-28
+[18Aug2025 03:56:54.350] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:54.807] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:54.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[18Aug2025 03:56:55.292] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:55.797] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:56.293] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:56.836] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:57.296] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:57.853] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:58.291] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:58.790] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:59.291] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:56:59.791] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:57:00.291] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:57:00.792] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:57:05.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Aug2025 03:57:05.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Aug2025 03:57:11.746] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:57:12.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:old_zombie but it was marked as removed already
+[18Aug2025 03:57:12.244] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:57:12.745] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:57:13.242] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:57:13.786] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:57:14.267] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:57:14.743] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:57:15.311] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:57:17.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Aug2025 03:57:17.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Aug2025 03:57:17.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Aug2025 03:57:17.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Aug2025 03:57:23.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[18Aug2025 03:57:23.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[18Aug2025 03:57:23.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_warrior but it was marked as removed already
+[18Aug2025 03:57:44.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_spiter but it was marked as removed already
+[18Aug2025 03:57:45.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:muscular_zombie but it was marked as removed already
+[18Aug2025 03:57:45.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:muscular_zombie but it was marked as removed already
+[18Aug2025 03:57:45.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:muscular_zombie but it was marked as removed already
+[18Aug2025 03:57:58.911] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of campsite_structures:butcher_campsite
+[18Aug2025 03:57:58.913] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id campsite_structures:camper
+[18Aug2025 03:57:59.542] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3040ms or 60 ticks
+[18Aug2025 03:58:07.893] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_ruin2
+[18Aug2025 03:58:14.047] [Worker-Main-2/DEBUG] [ModernFix/]: Structure philipsruins:ocean_ruin3 is being run through DFU (hash 084d2d63054a916acda67ab395cf794de4e3d9f536d78006fce3ad685b41ec99), this will cause launch time delays
+[18Aug2025 03:58:17.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_soldier but it was marked as removed already
+[18Aug2025 03:58:39.458] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 80,-24
+[18Aug2025 03:58:46.197] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:headless_zombie but it was marked as removed already
+[18Aug2025 03:58:52.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:mutant_zombie but it was marked as removed already
+[18Aug2025 03:58:54.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 03:58:54.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 03:59:04.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:fat_zombie but it was marked as removed already
+[18Aug2025 03:59:19.647] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:19.647] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:20.896] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:20.897] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:21.453] [Server thread/DEBUG] [pointblank/]: 61453 handling client fire request
+[18Aug2025 03:59:21.454] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 19
+[18Aug2025 03:59:21.454] [Server thread/DEBUG] [pointblank/]: 61454 - obtained hit result in 0ms
+[18Aug2025 03:59:21.454] [Server thread/DEBUG] [pointblank/]: 61454 obtained hit results
+[18Aug2025 03:59:21.454] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15d2823c
+[18Aug2025 03:59:21.454] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=35.03, y=76.00, z=190.49] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=35.03, y=76.00, z=190.49]
+[18Aug2025 03:59:21.898] [Server thread/DEBUG] [pointblank/]: 61898 handling client fire request
+[18Aug2025 03:59:21.898] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 18
+[18Aug2025 03:59:21.898] [Server thread/DEBUG] [pointblank/]: 61898 - obtained hit result in 0ms
+[18Aug2025 03:59:21.898] [Server thread/DEBUG] [pointblank/]: 61898 obtained hit results
+[18Aug2025 03:59:21.898] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b2ec543
+[18Aug2025 03:59:21.898] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=35.14, y=76.00, z=190.92] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=35.14, y=76.00, z=190.92]
+[18Aug2025 03:59:22.398] [Server thread/DEBUG] [pointblank/]: 62398 handling client fire request
+[18Aug2025 03:59:22.399] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 17
+[18Aug2025 03:59:22.399] [Server thread/DEBUG] [pointblank/]: 62399 - obtained hit result in 0ms
+[18Aug2025 03:59:22.399] [Server thread/DEBUG] [pointblank/]: 62399 obtained hit results
+[18Aug2025 03:59:22.399] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6cd7f361
+[18Aug2025 03:59:22.399] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=35.57, y=76.00, z=192.71] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=35.57, y=76.00, z=192.71]
+[18Aug2025 03:59:23.345] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:23.345] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:26.545] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:26.545] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:34.795] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:34.795] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:35.997] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:35.997] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Aug2025 03:59:36.166] [Server thread/DEBUG] [pointblank/]: 76166 handling client fire request
+[18Aug2025 03:59:36.167] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 16
+[18Aug2025 03:59:36.167] [Server thread/DEBUG] [pointblank/]: 76167 - obtained hit result in 0ms
+[18Aug2025 03:59:36.167] [Server thread/DEBUG] [pointblank/]: 76167 obtained hit results
+[18Aug2025 03:59:36.167] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2192c794
+[18Aug2025 03:59:36.167] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=6.24, y=76.00, z=217.48] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=6.24, y=76.00, z=217.48]
+[18Aug2025 03:59:37.313] [Server thread/DEBUG] [pointblank/]: 77313 handling client fire request
+[18Aug2025 03:59:37.313] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 15
+[18Aug2025 03:59:37.313] [Server thread/DEBUG] [pointblank/]: 77313 - obtained hit result in 0ms
+[18Aug2025 03:59:37.313] [Server thread/DEBUG] [pointblank/]: 77313 obtained hit results
+[18Aug2025 03:59:37.313] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6b7d5449
+[18Aug2025 03:59:37.314] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=5.28, y=76.00, z=217.69] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=5.28, y=76.00, z=217.69]
+[18Aug2025 03:59:37.756] [Server thread/DEBUG] [pointblank/]: 77756 handling client fire request
+[18Aug2025 03:59:37.756] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 14
+[18Aug2025 03:59:37.756] [Server thread/DEBUG] [pointblank/]: 77756 - obtained hit result in 0ms
+[18Aug2025 03:59:37.756] [Server thread/DEBUG] [pointblank/]: 77756 obtained hit results
+[18Aug2025 03:59:37.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4cb84a71
+[18Aug2025 03:59:37.756] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=5.32, y=76.00, z=217.67] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=5.32, y=76.00, z=217.67]
+[18Aug2025 03:59:38.158] [Server thread/DEBUG] [pointblank/]: 78158 handling client fire request
+[18Aug2025 03:59:38.158] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 13
+[18Aug2025 03:59:38.158] [Server thread/DEBUG] [pointblank/]: 78158 - obtained hit result in 0ms
+[18Aug2025 03:59:38.158] [Server thread/DEBUG] [pointblank/]: 78158 obtained hit results
+[18Aug2025 03:59:38.158] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@9fabe49
+[18Aug2025 03:59:38.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=5.57, y=76.00, z=217.53] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=5.57, y=76.00, z=217.53]
+[18Aug2025 03:59:38.851] [Server thread/DEBUG] [pointblank/]: 78851 handling client fire request
+[18Aug2025 03:59:38.851] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 745497507 to 12
+[18Aug2025 03:59:38.852] [Server thread/DEBUG] [pointblank/]: 78852 - obtained hit result in 0ms
+[18Aug2025 03:59:38.852] [Server thread/DEBUG] [pointblank/]: 78852 obtained hit results
+[18Aug2025 03:59:38.852] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@76e06252
+[18Aug2025 03:59:38.852] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=5.57, y=76.00, z=217.53] sends hit scan notification to ServerPlayer['Elishy_'/254, l='ServerLevel[world]', x=5.57, y=76.00, z=217.53]
