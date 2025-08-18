@@ -8321,6 +8321,12 @@
     },
     "done": true
   },
+  "infectious:hogzilla": {
+    "criteria": {
+      "hogzilla": "2025-08-18 02:45:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-18 02:19:06 +0000"
@@ -8411,9 +8417,21 @@
     },
     "done": true
   },
+  "infectious:back_in_my_days": {
+    "criteria": {
+      "back_in_my_days": "2025-08-18 02:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-18 02:45:02 +0000"
     },
     "done": true
   },
@@ -8453,9 +8471,21 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-08-18 02:47:28 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/soul_brazier": {
     "criteria": {
       "has_bar": "2025-08-18 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-18 02:45:46 +0000"
     },
     "done": true
   },

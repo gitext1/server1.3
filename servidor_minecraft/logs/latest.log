@@ -3029,3 +3029,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Aug2025 02:47:54.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_climber but it was marked as removed already
 [18Aug2025 02:48:06.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
 [18Aug2025 02:48:14.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[18Aug2025 02:49:02.141] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_girl but it was marked as removed already
+[18Aug2025 02:49:05.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:enchanted_zombie but it was marked as removed already
+[18Aug2025 02:49:06.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:mecha_zombie but it was marked as removed already
+[18Aug2025 02:49:18.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_girl but it was marked as removed already
+[18Aug2025 02:49:18.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_girl but it was marked as removed already
+[18Aug2025 02:51:41.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[18Aug2025 02:52:51.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 37.0]
+[18Aug2025 02:52:58.013] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 44,-123
+[18Aug2025 02:54:05.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Walk, don't crawl!]
+[18Aug2025 02:58:43.778] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 44,-123

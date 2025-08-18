@@ -7145,6 +7145,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-18 02:45:02 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:chilled_halls": {
     "criteria": {
       "entered_ice_pit": "2025-08-18 02:13:12 +0000"
