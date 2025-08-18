@@ -7091,9 +7091,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-18 02:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-18 02:22:04 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-08-18 02:22:04 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-08-18 02:22:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_brown": {
+    "criteria": {
+      "oak_chair_classic_brown": "2025-08-18 02:22:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_brown_sheet": "2025-08-18 02:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-18 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-18 02:22:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/brown_shower_towel": {
+    "criteria": {
+      "has_brown_wool": "2025-08-18 02:22:04 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:chilled_halls": {
     "criteria": {
       "entered_ice_pit": "2025-08-18 02:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-08-18 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_brown_cushion": "2025-08-18 02:22:04 +0000"
     },
     "done": true
   },

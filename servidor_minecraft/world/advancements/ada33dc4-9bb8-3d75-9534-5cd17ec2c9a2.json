@@ -3789,6 +3789,7 @@
     "criteria": {
       "entered_druid_circle": "2025-07-28 02:22:39 +0000",
       "entered_large_dungeon": "2025-08-05 01:48:54 +0000",
+      "entered_ice_pit": "2025-08-18 02:15:46 +0000",
       "entered_castle": "2025-07-28 01:45:04 +0000",
       "entered_desert_tomb": "2025-08-07 02:17:07 +0000"
     },
@@ -3796,6 +3797,7 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
+      "entered_ice_pit": "2025-08-18 02:15:46 +0000",
       "entered_castle": "2025-07-28 01:45:04 +0000"
     },
     "done": false
@@ -8303,6 +8305,126 @@
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2025-08-16 23:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-08-18 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/granite_layer": {
+    "criteria": {
+      "has_block": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-08-18 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-08-18 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-08-18 02:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-18 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:chilled_halls": {
+    "criteria": {
+      "entered_ice_pit": "2025-08-18 02:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-08-18 02:23:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-08-18 02:19:06 +0000"
     },
     "done": true
   },

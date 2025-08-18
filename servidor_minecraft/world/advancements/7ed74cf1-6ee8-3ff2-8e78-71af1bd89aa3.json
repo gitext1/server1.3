@@ -5573,6 +5573,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_large_dungeon": "2025-08-05 01:53:06 +0000",
+      "entered_ice_pit": "2025-08-18 02:22:28 +0000",
       "entered_castle": "2025-08-13 01:14:16 +0000"
     },
     "done": false
@@ -7425,6 +7426,7 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
+      "entered_ice_pit": "2025-08-18 02:22:28 +0000",
       "entered_castle": "2025-08-13 01:14:16 +0000"
     },
     "done": false
@@ -8212,6 +8214,12 @@
   "brewery:recipes/wooden_brewingstation": {
     "criteria": {
       "has_furnace": "2025-08-17 18:01:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:chilled_halls": {
+    "criteria": {
+      "entered_ice_pit": "2025-08-18 02:22:28 +0000"
     },
     "done": true
   },

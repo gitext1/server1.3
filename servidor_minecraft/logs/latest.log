@@ -2917,3 +2917,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Aug2025 02:15:46.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
 [18Aug2025 02:15:46.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Chilled Halls]
 [18Aug2025 02:15:54.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[18Aug2025 02:20:47.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Who is Cutting Onions?]
+[18Aug2025 02:21:22.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:big_zombie but it was marked as removed already
+[18Aug2025 02:21:22.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:big_zombie but it was marked as removed already
+[18Aug2025 02:21:22.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:big_zombie but it was marked as removed already
+[18Aug2025 02:21:22.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:big_zombie but it was marked as removed already
+[18Aug2025 02:22:28.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[18Aug2025 02:22:28.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Chilled Halls]
+[18Aug2025 02:24:06.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[18Aug2025 02:24:43.940] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id campsite_structures:camper
+[18Aug2025 02:25:41.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ moved wrongly!
