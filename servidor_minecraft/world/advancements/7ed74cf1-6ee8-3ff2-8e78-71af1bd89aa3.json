@@ -8311,6 +8311,12 @@
     },
     "done": true
   },
+  "infectious:bucket_list": {
+    "criteria": {
+      "bucket_list": "2025-08-18 03:20:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_light_blue_wool": "2025-08-18 02:40:28 +0000"

@@ -8411,6 +8411,12 @@
     },
     "done": true
   },
+  "infectious:bob_ross": {
+    "criteria": {
+      "bob_ross": "2025-08-18 03:27:38 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/soul_chandelier": {
     "criteria": {
       "has_torch": "2025-08-18 02:21:48 +0000"
