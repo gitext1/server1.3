@@ -3039,3 +3039,47 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Aug2025 02:52:58.013] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 44,-123
 [18Aug2025 02:54:05.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Walk, don't crawl!]
 [18Aug2025 02:58:43.778] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 44,-123
+[18Aug2025 03:01:01.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[18Aug2025 03:01:01.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[18Aug2025 03:01:01.397] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[18Aug2025 03:01:01.399] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[18Aug2025 03:01:30.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BlaseTK[/127.100.128.26:38649] logged in with entity id 52921 at (449.28202883707894, 72.0, -724.9683180618756)
+[18Aug2025 03:01:30.916] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BlaseTK
+[18Aug2025 03:01:30.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK joined the game
+[18Aug2025 03:01:30.963] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to BlaseTK
+[18Aug2025 03:01:31.143] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from BlaseTK
+[18Aug2025 03:01:31.163] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BlaseTK (18)
+[18Aug2025 03:01:31.164] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BlaseTK
+[18Aug2025 03:01:31.174] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was loaded
+[18Aug2025 03:01:31.175] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[18Aug2025 03:01:31.175] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[18Aug2025 03:01:45.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sr_Riva: Location (448.6491048336029, 69.61157298088074, -724.875) too far away from hit block BlockPos{x=447, y=69, z=-725}.
+[18Aug2025 03:02:43.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[18Aug2025 03:02:55.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[18Aug2025 03:03:58.039] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 44,-123
+[18Aug2025 03:04:29.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Timed out
+[18Aug2025 03:04:29.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[18Aug2025 03:04:29.093] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[18Aug2025 03:04:29.093] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[18Aug2025 03:04:29.144] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Aug2025 03:05:06.651] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ffc1795[id=<null>,name=BlaseTK,properties={},legacy=false] (/127.100.128.26:42343) lost connection: Disconnected
+[18Aug2025 03:05:17.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BlaseTK[/127.100.128.26:36985] logged in with entity id 58261 at (601.4402085468589, 76.0, -1884.300000011921)
+[18Aug2025 03:05:17.370] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BlaseTK
+[18Aug2025 03:05:17.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK joined the game
+[18Aug2025 03:05:17.418] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to BlaseTK
+[18Aug2025 03:05:17.583] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from BlaseTK
+[18Aug2025 03:05:17.607] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BlaseTK (18)
+[18Aug2025 03:05:17.608] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BlaseTK
+[18Aug2025 03:05:17.622] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was loaded
+[18Aug2025 03:05:17.623] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[18Aug2025 03:05:17.623] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[18Aug2025 03:06:00.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ moved wrongly!
+[18Aug2025 03:06:26.656] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[18Aug2025 03:06:34.875] [Worker-Main-1/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Generating dungeon at block [167,-1977]
+[18Aug2025 03:06:38.523] [Worker-Main-1/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Generating dungeon at block [199,-2265]
+[18Aug2025 03:06:40.635] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3013ms or 60 ticks
+[18Aug2025 03:07:07.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[18Aug2025 03:07:13.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[18Aug2025 03:07:58.131] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id campsite_structures:camper
+[18Aug2025 03:08:50.879] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6047, y=103, z=28070}
+[18Aug2025 03:08:50.879] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id campsite_structures:camper

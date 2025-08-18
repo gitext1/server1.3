@@ -8221,9 +8221,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-08-18 03:04:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smoking/clinker_brick": {
+    "criteria": {
+      "has_bricks": "2025-08-18 03:04:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-08-18 02:40:27 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/brick_layer": {
+    "criteria": {
+      "has_block": "2025-08-18 03:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-08-18 03:04:02 +0000"
     },
     "done": true
   },
@@ -8251,6 +8275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-18 03:04:02 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/brazier": {
     "criteria": {
       "has_bar": "2025-08-18 02:28:38 +0000"
@@ -8275,9 +8305,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/clinker_brick_sill": {
+    "criteria": {
+      "has_bricks": "2025-08-18 03:04:02 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_light_blue_wool": "2025-08-18 02:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-08-18 03:04:02 +0000"
     },
     "done": true
   },
@@ -8299,6 +8341,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/clinker_brick_quoin": {
+    "criteria": {
+      "has_bricks": "2025-08-18 03:04:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_bricks_corner_trim": "2025-08-18 03:04:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-08-18 02:40:27 +0000"
@@ -8314,6 +8368,12 @@
   "pfm:recipes/furniture/brown_shower_towel": {
     "criteria": {
       "has_brown_wool": "2025-08-18 02:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-18 03:04:02 +0000"
     },
     "done": true
   },
@@ -8359,6 +8419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-18 03:04:02 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/soul_brazier": {
     "criteria": {
       "has_bar": "2025-08-18 02:28:38 +0000"
@@ -8368,6 +8434,12 @@
   "handcrafted:recipes/misc/brown_cushion": {
     "criteria": {
       "has_brown_cushion": "2025-08-18 02:40:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_bricks_pillar_trim": "2025-08-18 03:04:02 +0000"
     },
     "done": true
   },

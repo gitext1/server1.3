@@ -6020,6 +6020,7 @@
     "criteria": {
       "vegetable_soup": "2025-08-13 01:35:53 +0000",
       "ratatouille": "2025-08-10 03:19:36 +0000",
+      "grilled_salmon": "2025-08-18 02:58:07 +0000",
       "squid_ink_pasta": "2025-08-13 00:26:04 +0000",
       "pasta_with_meatballs": "2025-08-14 03:29:43 +0000",
       "vegetable_noodles": "2025-08-16 23:45:05 +0000",
@@ -7091,6 +7092,24 @@
     },
     "done": true
   },
+  "dungeons_enhanced:chilled_halls": {
+    "criteria": {
+      "entered_ice_pit": "2025-08-18 02:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-18 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-08-18 02:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-08-18 02:22:04 +0000"
@@ -7127,12 +7146,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-08-18 02:20:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-08-18 02:22:04 +0000"
@@ -7145,27 +7158,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_brown_cushion": "2025-08-18 02:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-08-18 02:45:02 +0000"
     },
     "done": true
   },
-  "dungeons_enhanced:chilled_halls": {
+  "infectious:walk_dont_crawl": {
     "criteria": {
-      "entered_ice_pit": "2025-08-18 02:13:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-08-18 02:20:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/brown_cushion": {
-    "criteria": {
-      "has_brown_cushion": "2025-08-18 02:22:04 +0000"
+      "walk_dont_crawl": "2025-08-18 02:54:05 +0000"
     },
     "done": true
   },
