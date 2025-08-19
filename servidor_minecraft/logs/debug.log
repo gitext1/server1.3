@@ -17708,3 +17708,130 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Aug2025 02:09:02.847] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
 [19Aug2025 02:09:21.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Aug2025 02:09:21.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 02:09:31.044] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:mod_structures/desert_ruin7
+[19Aug2025 02:09:31.052] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_start_dungeon
+[19Aug2025 02:09:31.064] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_pyramid1
+[19Aug2025 02:11:24.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[19Aug2025 02:11:25.586] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[19Aug2025 02:11:26.125] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[19Aug2025 02:12:10.029] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:12:11.027] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:12:57.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:door_zombie but it was marked as removed already
+[19Aug2025 02:13:00.179] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_painter but it was marked as removed already
+[19Aug2025 02:13:11.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:fire_fighter_zombie but it was marked as removed already
+[19Aug2025 02:13:14.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_bird but it was marked as removed already
+[19Aug2025 02:13:14.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_bird but it was marked as removed already
+[19Aug2025 02:13:14.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_bird but it was marked as removed already
+[19Aug2025 02:13:14.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_bird but it was marked as removed already
+[19Aug2025 02:13:22.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:spore_zombie but it was marked as removed already
+[19Aug2025 02:13:29.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beehive_zombie but it was marked as removed already
+[19Aug2025 02:13:34.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_on_stelts but it was marked as removed already
+[19Aug2025 02:13:37.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:armless_zombie but it was marked as removed already
+[19Aug2025 02:13:37.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:armless_zombie but it was marked as removed already
+[19Aug2025 02:13:37.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:armless_zombie but it was marked as removed already
+[19Aug2025 02:13:37.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[19Aug2025 02:13:37.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[19Aug2025 02:13:37.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[19Aug2025 02:13:38.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_boxer but it was marked as removed already
+[19Aug2025 02:13:38.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:tower_zombie_1 but it was marked as removed already
+[19Aug2025 02:13:38.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_clown but it was marked as removed already
+[19Aug2025 02:13:38.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:brain_zombie but it was marked as removed already
+[19Aug2025 02:13:38.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:brain_zombie but it was marked as removed already
+[19Aug2025 02:13:40.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:claw_zombie but it was marked as removed already
+[19Aug2025 02:13:41.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:disco_zombie but it was marked as removed already
+[19Aug2025 02:13:41.179] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:armless_zombie but it was marked as removed already
+[19Aug2025 02:13:49.051] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:13:50.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_boar but it was marked as removed already
+[19Aug2025 02:13:50.179] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_boar but it was marked as removed already
+[19Aug2025 02:14:03.329] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:14:03.329] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:14:05.112] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[19Aug2025 02:14:05.113] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[19Aug2025 02:14:21.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 02:14:21.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 02:14:53.436] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:14:55.435] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:15:26.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:15:55.835] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:15:57.035] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:15:59.689] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:16:01.083] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:16:08.884] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:16:08.885] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:16:28.348] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:16:28.348] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:16:31.603] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[19Aug2025 02:16:31.604] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[19Aug2025 02:16:31.604] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[19Aug2025 02:16:39.190] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[19Aug2025 02:16:52.693] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[19Aug2025 02:17:00.441] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_1
+[19Aug2025 02:17:00.454] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/town_centers/taiga_meeting_point_2
+[19Aug2025 02:17:00.463] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/town_centers/savanna_meeting_point_4
+[19Aug2025 02:17:00.474] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/town_centers/desert_meeting_point_3
+[19Aug2025 02:17:00.518] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_small_house_2
+[19Aug2025 02:17:00.520] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_small_house_5
+[19Aug2025 02:17:00.526] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_medium_house_1
+[19Aug2025 02:17:00.534] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_medium_house_3
+[19Aug2025 02:17:00.539] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_butchers_shop_1
+[19Aug2025 02:17:00.542] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_tool_smith_1
+[19Aug2025 02:17:00.545] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_shepherds_house_1
+[19Aug2025 02:17:00.547] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_armorer_house_1
+[19Aug2025 02:17:00.550] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_armorer_house_2
+[19Aug2025 02:17:00.553] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_tannery_1
+[19Aug2025 02:17:00.555] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_cartographer_house_1
+[19Aug2025 02:17:00.559] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_library_1
+[19Aug2025 02:17:00.560] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_animal_pen_1
+[19Aug2025 02:17:01.358] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_1
+[19Aug2025 02:17:01.360] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_2
+[19Aug2025 02:17:01.362] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_3
+[19Aug2025 02:17:01.363] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_4
+[19Aug2025 02:17:01.364] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_5
+[19Aug2025 02:17:01.365] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_6
+[19Aug2025 02:17:01.366] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_7
+[19Aug2025 02:17:01.368] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_8
+[19Aug2025 02:17:01.370] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_medium_house_1
+[19Aug2025 02:17:01.380] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_big_house_1
+[19Aug2025 02:17:01.391] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_butcher_shop_1
+[19Aug2025 02:17:01.396] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_butcher_shop_2
+[19Aug2025 02:17:01.398] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_tool_smith_1
+[19Aug2025 02:17:01.400] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_fletcher_house_1
+[19Aug2025 02:17:01.404] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_shepherds_house_1
+[19Aug2025 02:17:01.406] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_armorer_house_1
+[19Aug2025 02:17:01.410] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_fisher_cottage_1
+[19Aug2025 02:17:01.413] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_tannery_1
+[19Aug2025 02:17:01.414] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_cartographer_1
+[19Aug2025 02:17:01.424] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_library_1
+[19Aug2025 02:17:01.427] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_library_2
+[19Aug2025 02:17:01.452] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_masons_house_1
+[19Aug2025 02:17:01.457] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_weaponsmith_1
+[19Aug2025 02:17:01.460] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_temple_3
+[19Aug2025 02:17:01.464] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_temple_4
+[19Aug2025 02:17:01.466] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_stable_1
+[19Aug2025 02:17:01.467] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_stable_2
+[19Aug2025 02:17:01.468] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_large_farm_1
+[19Aug2025 02:17:01.468] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_farm_1
+[19Aug2025 02:17:01.470] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_animal_pen_1
+[19Aug2025 02:17:01.471] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_animal_pen_2
+[19Aug2025 02:17:01.472] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_animal_pen_3
+[19Aug2025 02:17:01.473] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_accessory_1
+[19Aug2025 02:17:01.474] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_meeting_point_5
+[19Aug2025 02:17:18.423] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=505, y=-58, z=850}
+[19Aug2025 02:17:19.311] [Worker-Main-2/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Generating dungeon at block [631,-2841]
+[19Aug2025 02:17:33.184] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruins2
+[19Aug2025 02:17:47.339] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755569867325
+[19Aug2025 02:17:47.339] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755569867325
+[19Aug2025 02:17:47.339] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755569867325
+[19Aug2025 02:17:47.339] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755569867325
+[19Aug2025 02:17:47.339] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755569867325
+[19Aug2025 02:17:47.339] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755569867327
+[19Aug2025 02:17:47.339] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755569867327
+[19Aug2025 02:17:47.339] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755569867327
+[19Aug2025 02:17:47.339] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755569867327
+[19Aug2025 02:17:47.339] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755569867327
+[19Aug2025 02:17:49.434] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:17:49.435] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:17:52.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[19Aug2025 02:19:21.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 02:19:21.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 02:19:27.787] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
