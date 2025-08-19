@@ -7252,6 +7252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-08-19 02:08:33 +0000"
+    },
+    "done": true
+  },
   "infectious:random_mission": {
     "criteria": {
       "random_mission": "2025-08-19 01:40:34 +0000"

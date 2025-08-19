@@ -8491,6 +8491,12 @@
     },
     "done": true
   },
+  "ags_day_counter:hundredth_day_advancement": {
+    "criteria": {
+      "hundredth_day_advancement_0": "2025-08-19 02:02:27 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/barrel_main": {
     "criteria": {
       "has_barrel": "2025-08-19 01:41:41 +0000"
