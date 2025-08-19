@@ -153,10 +153,12 @@
       "minecraft:river": "2025-07-26 21:11:11 +0000",
       "minecraft:snowy_plains": "2025-08-18 02:35:30 +0000",
       "minecraft:snowy_taiga": "2025-08-15 04:36:07 +0000",
+      "minecraft:dripstone_caves": "2025-08-18 04:11:21 +0000",
       "minecraft:forest": "2025-07-26 21:11:58 +0000",
       "minecraft:lush_caves": "2025-08-05 01:57:30 +0000",
       "minecraft:desert": "2025-08-07 01:07:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-29 00:13:25 +0000",
+      "minecraft:meadow": "2025-08-18 04:09:05 +0000",
       "minecraft:plains": "2025-08-18 04:00:19 +0000"
     },
     "done": false
@@ -8420,6 +8422,12 @@
     },
     "done": true
   },
+  "infectious:hauston_we_have_a_problem": {
+    "criteria": {
+      "hauston_we_have_a_problem": "2025-08-18 04:14:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-08-18 02:19:06 +0000"
@@ -8435,6 +8443,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-18 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "infectious:to_the_moon_and_further": {
+    "criteria": {
+      "to_the_moon_and_further": "2025-08-18 04:14:34 +0000"
     },
     "done": true
   },
@@ -8459,6 +8473,12 @@
   "infectious:back_in_my_days": {
     "criteria": {
       "back_in_my_days": "2025-08-18 02:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-18 04:09:15 +0000"
     },
     "done": true
   },
@@ -8525,6 +8545,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-18 04:09:07 +0000"
     },
     "done": true
   },
