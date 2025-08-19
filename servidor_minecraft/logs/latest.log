@@ -2925,3 +2925,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Aug2025 01:17:40.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: a lo mejor algun dia hago algun evento bien pedo
 [19Aug2025 01:17:40.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: a lo mejor algun dia hago algun evento bien pedo
 [19Aug2025 01:17:46.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> a
+[19Aug2025 01:22:01.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[19Aug2025 01:22:01.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[19Aug2025 01:22:01.635] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[19Aug2025 01:22:01.639] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[19Aug2025 01:22:04.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_spider but it was marked as removed already
+[19Aug2025 01:22:04.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_spider but it was marked as removed already
+[19Aug2025 01:22:27.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BlaseTK[/127.100.128.26:33337] logged in with entity id 8474 at (445.70214659250036, 68.0, -732.4034193920023)
+[19Aug2025 01:22:27.463] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BlaseTK
+[19Aug2025 01:22:27.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK joined the game
+[19Aug2025 01:22:27.500] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to BlaseTK
+[19Aug2025 01:22:27.847] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from BlaseTK
+[19Aug2025 01:22:27.849] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BlaseTK (18)
+[19Aug2025 01:22:27.850] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BlaseTK
+[19Aug2025 01:22:27.871] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was loaded
+[19Aug2025 01:22:27.871] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[19Aug2025 01:22:27.872] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[19Aug2025 01:22:37.408] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[19Aug2025 01:22:37.408] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[19Aug2025 01:22:44.934] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[19Aug2025 01:22:44.934] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[19Aug2025 01:23:29.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
