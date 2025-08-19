@@ -2946,3 +2946,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Aug2025 01:22:44.934] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
 [19Aug2025 01:22:44.934] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
 [19Aug2025 01:23:29.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[19Aug2025 01:40:34.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Random Mission]
+[19Aug2025 01:40:50.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_archer but it was marked as removed already
+[19Aug2025 01:41:17.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]

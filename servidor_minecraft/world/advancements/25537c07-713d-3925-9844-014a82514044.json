@@ -5623,7 +5623,8 @@
   },
   "brewery:main/wild_crops": {
     "criteria": {
-      "barley_seeds": "2025-08-08 01:41:48 +0000"
+      "barley_seeds": "2025-08-08 01:41:48 +0000",
+      "hops_seeds": "2025-08-19 01:38:38 +0000"
     },
     "done": false
   },
@@ -7240,6 +7241,12 @@
   "brewery:main/get_dried_corn": {
     "criteria": {
       "dry_corn": "2025-08-19 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "infectious:random_mission": {
+    "criteria": {
+      "random_mission": "2025-08-19 01:40:34 +0000"
     },
     "done": true
   },

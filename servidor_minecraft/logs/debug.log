@@ -16974,3 +16974,81 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Aug2025 01:34:21.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Aug2025 01:36:03.230] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
 [19Aug2025 01:36:03.230] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[19Aug2025 01:39:19.589] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[19Aug2025 01:39:21.309] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[19Aug2025 01:39:21.311] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[19Aug2025 01:39:21.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 01:39:21.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 01:40:14.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/town_centers/taiga_meeting_point_1
+[19Aug2025 01:40:14.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_tool_smith_1
+[19Aug2025 01:40:14.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_large_farm_2
+[19Aug2025 01:40:14.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_small_house_3
+[19Aug2025 01:40:14.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_armorer_2
+[19Aug2025 01:40:14.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_fisher_cottage_1
+[19Aug2025 01:40:14.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_large_farm_1
+[19Aug2025 01:40:14.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_small_house_4
+[19Aug2025 01:40:14.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_fletcher_house_1
+[19Aug2025 01:40:14.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_animal_pen_1
+[19Aug2025 01:40:25.041] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:25.533] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:26.034] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:26.984] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:26.984] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:28.332] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:29.333] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:30.332] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:31.333] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:32.334] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:33.333] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:34.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Random Mission]
+[19Aug2025 01:40:34.335] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:35.334] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:36.335] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:37.332] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:37.332] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:38.333] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:39.334] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:40.335] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:40:50.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_archer but it was marked as removed already
+[19Aug2025 01:41:03.238] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:03.732] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:15.632] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:16.133] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:16.634] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:17.133] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:17.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[19Aug2025 01:41:18.187] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:19.186] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:20.185] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:21.187] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:22.186] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:23.186] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:24.189] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:25.184] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:26.184] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:27.186] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:28.186] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:29.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:30.186] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:30.686] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:31.185] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:31.683] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:32.186] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:32.684] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:33.185] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:33.684] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:41:34.185] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:42:27.523] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[19Aug2025 01:42:27.523] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$137d8c$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[19Aug2025 01:42:27.523] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$137d8c$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[19Aug2025 01:42:57.585] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[19Aug2025 01:43:07.432] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:43:07.432] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:44:21.311] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[19Aug2025 01:44:21.312] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[19Aug2025 01:44:21.313] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[19Aug2025 01:44:21.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 01:44:21.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 01:47:54.585] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[19Aug2025 01:48:00.131] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 01:48:00.636] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
