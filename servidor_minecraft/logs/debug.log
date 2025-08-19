@@ -17835,3 +17835,60 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Aug2025 02:19:21.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Aug2025 02:19:21.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Aug2025 02:19:27.787] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[19Aug2025 02:22:14.084] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[19Aug2025 02:23:16.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[19Aug2025 02:24:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Summoned new Mutant Zombie]
+[19Aug2025 02:24:10.050] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[19Aug2025 02:24:11.688] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:11.688] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:13.282] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:13.282] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:15.086] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:15.086] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:18.184] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:18.184] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:21.315] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[19Aug2025 02:24:21.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 02:24:21.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 02:24:21.404] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3099ms or 61 ticks
+[19Aug2025 02:24:39.431] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:39.431] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:41.782] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:41.782] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:43.231] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:24:43.231] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:00.231] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:00.231] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:09.781] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:09.782] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:11.381] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:11.381] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:12.981] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:12.982] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:14.581] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:14.581] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:15.981] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:15.981] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:17.582] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:17.582] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:19.183] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:19.184] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:20.582] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:20.582] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:22.381] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:22.381] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:23.580] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:23.581] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:26.785] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:25:26.785] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:28:16.580] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[19Aug2025 02:28:40.592] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[19Aug2025 02:29:09.286] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[19Aug2025 02:29:09.287] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[19Aug2025 02:29:09.493] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[19Aug2025 02:29:15.233] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:29:15.233] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[19Aug2025 02:29:16.593] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=452, y=72, z=-2429}
+[19Aug2025 02:29:21.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 02:29:21.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 02:29:34.181] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_start

@@ -3032,3 +3032,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Aug2025 02:17:18.423] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=505, y=-58, z=850}
 [19Aug2025 02:17:19.311] [Worker-Main-2/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Generating dungeon at block [631,-2841]
 [19Aug2025 02:17:52.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[19Aug2025 02:23:16.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[19Aug2025 02:24:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Summoned new Mutant Zombie]
+[19Aug2025 02:24:21.404] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3099ms or 61 ticks
+[19Aug2025 02:29:16.593] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=452, y=72, z=-2429}
