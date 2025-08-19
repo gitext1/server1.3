@@ -8497,6 +8497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-08-19 02:40:20 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/barrel_main": {
     "criteria": {
       "has_barrel": "2025-08-19 01:41:41 +0000"

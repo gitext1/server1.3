@@ -3078,3 +3078,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Aug2025 02:38:50.896] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=544, y=39, z=-2751}
 [19Aug2025 02:38:50.896] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=544, y=39, z=-2752}
 [19Aug2025 02:38:50.896] [Worker-Main-3/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "544 39 -2752 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[19Aug2025 02:40:20.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[19Aug2025 02:40:49.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has completed the challenge [Centennial]
+[19Aug2025 02:41:34.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[19Aug2025 02:41:34.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[19Aug2025 02:41:34.383] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[19Aug2025 02:41:34.383] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[19Aug2025 02:41:47.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ lost connection: Disconnected
+[19Aug2025 02:41:47.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ left the game
+[19Aug2025 02:41:47.279] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was unloaded
+[19Aug2025 02:41:47.280] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elishy_
