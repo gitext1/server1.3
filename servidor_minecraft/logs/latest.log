@@ -2898,3 +2898,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Aug2025 01:04:15.392] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
 [19Aug2025 01:04:15.392] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
 [19Aug2025 01:04:21.509] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3048ms or 60 ticks
+[19Aug2025 01:09:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Aug2025 01:09:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: te/tell @a admin abuse?<--[HERE]
+[19Aug2025 01:09:21.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Aug2025 01:09:21.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tittle @a tittle admin abuse<--[HERE]
+[19Aug2025 01:09:32.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: admin abuse?
+[19Aug2025 01:09:32.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: admin abuse?
+[19Aug2025 01:09:40.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> xd
+[19Aug2025 01:10:22.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has reached the goal [Brew Pioneer]
+[19Aug2025 01:10:50.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> es de 4 x 4 lo de la bebida
+[19Aug2025 01:11:40.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[19Aug2025 01:12:34.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> escribemelo
+[19Aug2025 01:13:40.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has reached the goal [Drying Expertise]
+[19Aug2025 01:13:46.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> puedes poner algo en el basurero para ver si funciona
+[19Aug2025 01:14:01.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> ya
+[19Aug2025 01:14:14.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> mas
+[19Aug2025 01:14:23.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> un stack de tierra aunq sea
+[19Aug2025 01:14:33.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> piedra q hay el monton en el cofre
+[19Aug2025 01:14:47.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> ya
+[19Aug2025 01:15:28.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> a
+[19Aug2025 01:15:34.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> lo puse al reves
+[19Aug2025 01:16:49.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: admin abuse?
+[19Aug2025 01:16:49.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: admin abuse?
+[19Aug2025 01:17:22.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: nose usar bien los comandos en la consola de github xd
+[19Aug2025 01:17:22.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: nose usar bien los comandos en la consola de github xd
+[19Aug2025 01:17:40.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: a lo mejor algun dia hago algun evento bien pedo
+[19Aug2025 01:17:40.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: a lo mejor algun dia hago algun evento bien pedo
+[19Aug2025 01:17:46.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> a
