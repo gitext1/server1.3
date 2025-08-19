@@ -3036,3 +3036,45 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Aug2025 02:24:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Summoned new Mutant Zombie]
 [19Aug2025 02:24:21.404] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3099ms or 61 ticks
 [19Aug2025 02:29:16.593] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=452, y=72, z=-2429}
+[19Aug2025 02:30:12.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[19Aug2025 02:30:12.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[19Aug2025 02:30:12.633] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[19Aug2025 02:30:12.634] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[19Aug2025 02:31:41.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BlaseTK[/127.100.128.26:38251] logged in with entity id 51780 at (620.6999999880791, 107.3125, -2449.8892434969857)
+[19Aug2025 02:31:41.163] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BlaseTK
+[19Aug2025 02:31:41.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK joined the game
+[19Aug2025 02:31:41.183] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to BlaseTK
+[19Aug2025 02:31:41.384] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from BlaseTK
+[19Aug2025 02:31:41.399] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BlaseTK (18)
+[19Aug2025 02:31:41.400] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BlaseTK
+[19Aug2025 02:31:41.424] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was loaded
+[19Aug2025 02:31:41.424] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[19Aug2025 02:31:41.424] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[19Aug2025 02:32:19.842] [Worker-Main-1/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Generating dungeon at block [631,-2841]
+[19Aug2025 02:32:20.359] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=808, y=-59, z=866}
+[19Aug2025 02:32:20.359] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=809, y=-59, z=867}
+[19Aug2025 02:32:20.359] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=807, y=-59, z=867}
+[19Aug2025 02:32:21.063] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=749, y=-58, z=868}
+[19Aug2025 02:32:21.063] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=750, y=-58, z=872}
+[19Aug2025 02:34:40.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[19Aug2025 02:37:37.639] [Worker-Main-1/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Generating dungeon at block [631,-2841]
+[19Aug2025 02:37:39.423] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=579, y=39, z=-2773}
+[19Aug2025 02:37:39.424] [Worker-Main-1/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "579 39 -2773 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[19Aug2025 02:37:39.424] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=582, y=39, z=-2774}
+[19Aug2025 02:37:39.424] [Worker-Main-1/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "582 39 -2774 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[19Aug2025 02:37:39.620] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=564, y=39, z=-2757}
+[19Aug2025 02:37:39.620] [Worker-Main-2/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "564 39 -2757 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[19Aug2025 02:38:15.764] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=630, y=42, z=-2816}
+[19Aug2025 02:38:15.765] [Worker-Main-3/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "630 42 -2816 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[19Aug2025 02:38:15.783] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=633, y=39, z=-2814}
+[19Aug2025 02:38:15.783] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=640, y=42, z=-2822}
+[19Aug2025 02:38:15.783] [Worker-Main-3/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "640 42 -2822 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[19Aug2025 02:38:50.768] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=545, y=39, z=-2740}
+[19Aug2025 02:38:50.768] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=550, y=41, z=-2740}
+[19Aug2025 02:38:50.768] [Worker-Main-2/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "550 41 -2740 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[19Aug2025 02:38:50.768] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=545, y=38, z=-2740}
+[19Aug2025 02:38:50.768] [Worker-Main-2/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "545 38 -2740 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[19Aug2025 02:38:50.896] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=546, y=39, z=-2746}
+[19Aug2025 02:38:50.896] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=544, y=39, z=-2751}
+[19Aug2025 02:38:50.896] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=544, y=39, z=-2752}
+[19Aug2025 02:38:50.896] [Worker-Main-3/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "544 39 -2752 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
