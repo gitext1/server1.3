@@ -3088,3 +3088,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Aug2025 02:41:47.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ left the game
 [19Aug2025 02:41:47.279] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was unloaded
 [19Aug2025 02:41:47.280] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elishy_
+[19Aug2025 02:53:53.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[19Aug2025 02:53:57.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Aug2025 02:53:57.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Aug2025 02:53:57.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Aug2025 02:53:57.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Aug2025 02:53:58.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[19Aug2025 02:53:58.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Aug2025 02:53:58.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Aug2025 02:53:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Aug2025 02:53:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[19Aug2025 02:53:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Aug2025 02:53:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Aug2025 02:53:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Aug2025 02:53:58.812] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19Aug2025 02:53:58.812] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[19Aug2025 02:53:58.814] [Server thread/INFO] [net.petemc.mutantszombies.MutantsZombies/]: Loading mutantszombies server config
+[19Aug2025 02:53:58.818] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[19Aug2025 02:53:58.818] [Server thread/INFO] [farsightedmobs/]: Loading config
