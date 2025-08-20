@@ -18016,3 +18016,204 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Aug2025 01:29:03.361] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
 [20Aug2025 01:29:03.361] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
 [20Aug2025 01:29:03.361] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755653343360
+[20Aug2025 01:30:12.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 01:30:12.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2025 01:30:12.131] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3164ms or 63 ticks
+[20Aug2025 01:30:39.685] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@186a423d]Trying to start horde event on day 100 with nextDay 100 and time 18000
+[20Aug2025 01:30:39.687] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@66522d17
+[20Aug2025 01:30:39.688] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[20Aug2025 01:30:39.688] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[20Aug2025 01:30:39.689] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 70
+[20Aug2025 01:30:39.689] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 70
+[20Aug2025 01:30:39.732] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:30:39.732] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:30:39.732] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 100
+[20Aug2025 01:30:39.732] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 100
+[20Aug2025 01:31:29.737] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:31:29.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:31:29.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[20Aug2025 01:31:29.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[20Aug2025 01:31:51.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:31:51.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:31:56.841] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:31:57.335] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:31:57.833] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:31:58.333] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:31:58.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:31:59.338] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:31:59.835] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:00.335] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:00.834] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:03.085] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:03.085] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:04.184] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:04.184] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:04.783] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:04.784] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:05.381] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:05.381] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:06.285] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:06.285] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:06.785] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:06.785] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:08.280] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:08.281] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:09.285] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:09.286] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:10.495] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:10.496] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:10.992] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:10.992] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:12.031] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:12.031] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:12.984] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:12.984] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:14.230] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:14.230] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:32:19.736] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:32:19.736] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:32:19.736] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[20Aug2025 01:32:19.737] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[20Aug2025 01:32:34.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:32:45.034] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[20Aug2025 01:33:09.737] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:33:09.737] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:33:09.737] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[20Aug2025 01:33:09.737] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[20Aug2025 01:33:13.980] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk -20,0
+[20Aug2025 01:33:20.488] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:20.488] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:22.694] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:22.694] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:37.392] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:37.392] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:40.393] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:40.393] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:41.389] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:41.389] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:49.387] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:49.387] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:51.387] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:51.387] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:53.035] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:53.036] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:54.535] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:54.535] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:55.382] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:55.382] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:55.789] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:55.789] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:57.385] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:57.385] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:57.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:57.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:58.531] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:58.532] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:33:59.061] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[20Aug2025 01:33:59.736] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:33:59.737] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:33:59.737] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[20Aug2025 01:33:59.737] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[20Aug2025 01:34:03.537] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:03.537] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:04.331] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:04.331] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:31.481] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:31.482] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:32.902] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755653672902
+[20Aug2025 01:34:33.786] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:33.786] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:35.785] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:35.785] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:36.583] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:36.583] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:37.735] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:37.735] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:38.034] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:38.034] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:39.033] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:39.034] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:39.885] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:39.885] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:34:40.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:34:49.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:34:49.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[20Aug2025 01:34:49.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[20Aug2025 01:34:49.739] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[20Aug2025 01:35:02.235] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:02.235] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:04.085] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:04.085] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:05.283] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:05.283] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:05.835] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:05.835] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:06.833] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:06.833] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:12.041] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[20Aug2025 01:35:12.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 01:35:12.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2025 01:35:12.265] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:12.265] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:13.232] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:13.232] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:17.387] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:17.387] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:19.985] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:19.985] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:23.383] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:23.383] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:26.539] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:26.888] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:26.888] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:28.886] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:28.886] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:32.132] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:32.132] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:34.082] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:34.082] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:34.085] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:34.085] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:35.081] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:35.081] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:38.033] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:38.033] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:39.182] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:39.183] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:55.233] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:55.233] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:57.280] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:57.281] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:59.231] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:35:59.231] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:16.884] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:21.431] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:30.632] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:31.132] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:31.631] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:32.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:36:32.132] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:33.131] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:34.137] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:35.131] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:36.131] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:37.131] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:38.131] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:38.932] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:39.131] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:39.436] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:39.931] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:40.432] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:40.932] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:41.431] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:41.931] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:50.381] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:52.679] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:52.679] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:53.780] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:53.780] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:36:55.982] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:37:00.229] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:37:01.731] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:37:32.384] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Aug2025 01:39:08.384] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61

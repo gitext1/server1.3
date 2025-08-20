@@ -1334,6 +1334,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-08-20 01:32:52 +0000",
       "apple": "2025-08-20 01:23:48 +0000",
       "bread": "2025-07-26 21:45:57 +0000",
       "golden_apple": "2025-07-26 21:59:51 +0000",
@@ -8511,9 +8512,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-20 01:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-08-20 01:25:13 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-08-20 01:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-20 01:33:34 +0000"
     },
     "done": true
   },
