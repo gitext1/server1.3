@@ -3199,3 +3199,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Aug2025 01:34:49.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
 [20Aug2025 01:34:49.739] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
 [20Aug2025 01:36:32.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:39:48.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:44:20.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Eww... gross...]
+[20Aug2025 01:44:21.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Zombie on steroids]
+[20Aug2025 01:45:49.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:46:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: ultimo mensaje antes de quedarme completamente sin inter
+[20Aug2025 01:46:19.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: ultimo mensaje antes de quedarme completamente sin inter
+[20Aug2025 01:46:28.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> chao
+[20Aug2025 01:46:31.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> no vuelvas
+[20Aug2025 01:47:38.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]

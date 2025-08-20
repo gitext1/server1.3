@@ -7296,5 +7296,17 @@
     },
     "done": true
   },
+  "infectious:zombie_on_steroids": {
+    "criteria": {
+      "zombie_on_steroids": "2025-08-20 01:44:21 +0000"
+    },
+    "done": true
+  },
+  "infectious:eww_gross": {
+    "criteria": {
+      "eww_gross": "2025-08-20 01:44:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
