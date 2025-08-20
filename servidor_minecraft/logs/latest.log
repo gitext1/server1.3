@@ -3091,3 +3091,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Aug2025 01:08:34.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
 [20Aug2025 01:08:38.231] [Worker-Main-18/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Generating dungeon at block [23,-2825]
 [20Aug2025 01:08:40.923] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=329, y=-56, z=729}
+[20Aug2025 01:09:14.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: estan ahi? nos su cuando este inactiv el cell se apagu
+[20Aug2025 01:09:14.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: estan ahi? nos su cuando este inactiv el cell se apagu
+[20Aug2025 01:09:24.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> si
+[20Aug2025 01:09:27.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> ah chuu
+[20Aug2025 01:09:36.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: escribir en el cel es tremendo bodrio
+[20Aug2025 01:09:37.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: escribir en el cel es tremendo bodrio
+[20Aug2025 01:09:59.121] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6047, y=103, z=28070}
+[20Aug2025 01:09:59.122] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id campsite_structures:camper
+[20Aug2025 01:10:02.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: lo mantendre asi activo para que no se pague
+[20Aug2025 01:10:02.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: lo mantendre asi activo para que no se pague
+[20Aug2025 01:10:27.906] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=123, y=36, z=-3232} but found not block entity block Block{minecraft:stone} at location
+[20Aug2025 01:10:27.907] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=123, y=36, z=-3232}
+[20Aug2025 01:11:03.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[20Aug2025 01:13:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:13:54.259] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 6,-206
+[20Aug2025 01:15:39.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: You logged in from another location
+[20Aug2025 01:15:39.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[20Aug2025 01:15:39.630] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[20Aug2025 01:15:39.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[20Aug2025 01:15:39.678] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Aug2025 01:15:39.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BlaseTK[/127.100.128.26:60785] logged in with entity id 20938 at (449.7860095408155, 68.0, -721.6196614787623)
+[20Aug2025 01:15:39.690] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BlaseTK
+[20Aug2025 01:15:39.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK joined the game
+[20Aug2025 01:15:39.725] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to BlaseTK
+[20Aug2025 01:15:39.923] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from BlaseTK
+[20Aug2025 01:15:39.939] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BlaseTK (18)
+[20Aug2025 01:15:39.939] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BlaseTK
+[20Aug2025 01:15:39.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was loaded
+[20Aug2025 01:15:39.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[20Aug2025 01:15:39.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[20Aug2025 01:18:30.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]

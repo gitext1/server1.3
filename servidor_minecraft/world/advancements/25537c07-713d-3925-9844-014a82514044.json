@@ -1381,6 +1381,7 @@
       "minecraft:desert": "2025-08-07 01:15:52 +0000",
       "minecraft:deep_frozen_ocean": "2025-08-15 04:32:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-31 02:36:32 +0000",
+      "minecraft:snowy_beach": "2025-08-20 01:10:46 +0000",
       "minecraft:plains": "2025-08-18 04:00:38 +0000"
     },
     "done": false
@@ -7280,6 +7281,18 @@
   "alexsmobs:alexsmobs/froststalker_kill": {
     "criteria": {
       "ex": "2025-08-20 01:00:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-20 01:12:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-20 01:12:41 +0000"
     },
     "done": true
   },
