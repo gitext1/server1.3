@@ -3122,3 +3122,45 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Aug2025 01:15:39.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
 [20Aug2025 01:15:39.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
 [20Aug2025 01:18:30.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[20Aug2025 01:22:04.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:22:39.152] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-489, y=78, z=43}
+[20Aug2025 01:23:00.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has completed the challenge [Centennial]
+[20Aug2025 01:24:09.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:24:43.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:25:08.981] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-489, y=96, z=43}
+[20Aug2025 01:26:06.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:screamer but it was marked as removed already
+[20Aug2025 01:26:06.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:screamer but it was marked as removed already
+[20Aug2025 01:26:06.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:screamer but it was marked as removed already
+[20Aug2025 01:26:06.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:screamer but it was marked as removed already
+[20Aug2025 01:26:32.844] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=67, y=37, z=-3245}
+[20Aug2025 01:26:32.845] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=70, y=38, z=-3247}
+[20Aug2025 01:26:32.845] [Worker-Main-18/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "70 38 -3247 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[20Aug2025 01:26:33.129] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=96, y=37, z=-3283}
+[20Aug2025 01:26:33.129] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=101, y=37, z=-3275}
+[20Aug2025 01:26:33.130] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=43, z=-3276}
+[20Aug2025 01:26:33.130] [Worker-Main-11/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "91 43 -3276 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[20Aug2025 01:26:33.130] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=103, y=39, z=-3275}
+[20Aug2025 01:26:33.130] [Worker-Main-11/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "103 39 -3275 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[20Aug2025 01:26:33.166] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=48, y=37, z=-3236}
+[20Aug2025 01:26:33.224] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=81, y=37, z=-3279}
+[20Aug2025 01:26:33.225] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=83, y=37, z=-3278}
+[20Aug2025 01:26:33.356] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=50, y=37, z=-3248}
+[20Aug2025 01:26:33.613] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=106, y=42, z=-3295}
+[20Aug2025 01:26:33.613] [Worker-Main-11/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "106 42 -3295 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[20Aug2025 01:27:44.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/28387, l='ServerLevel[world]', x=-297.50, y=79.00, z=10.11] died, message: 'Librarian was slain by Hunter'
+[20Aug2025 01:27:45.932] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/28394, l='ServerLevel[world]', x=-298.48, y=79.00, z=10.63] died, message: 'Butcher was slain by Spider'
+[20Aug2025 01:27:48.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/28426, l='ServerLevel[world]', x=-289.49, y=82.00, z=14.06] died, message: 'Librarian was slain by Spider'
+[20Aug2025 01:27:49.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28390, l='ServerLevel[world]', x=-289.81, y=81.00, z=15.85] died, message: 'Villager was slain by Spider'
+[20Aug2025 01:27:50.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28384, l='ServerLevel[world]', x=-289.29, y=81.00, z=16.42] died, message: 'Villager was slain by Spider'
+[20Aug2025 01:27:57.584] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk -20,0
+[20Aug2025 01:28:09.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[20Aug2025 01:28:21.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:28:38.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[20Aug2025 01:28:40.805] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 6,-206
+[20Aug2025 01:28:40.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_climber but it was marked as removed already
+[20Aug2025 01:28:43.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:iron_door_zombie but it was marked as removed already
+[20Aug2025 01:28:49.877] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_boxer but it was marked as removed already
+[20Aug2025 01:28:49.878] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[20Aug2025 01:29:02.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
+[20Aug2025 01:29:03.361] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[20Aug2025 01:29:03.361] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
