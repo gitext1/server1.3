@@ -19779,3 +19779,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Aug2025 01:56:35.327] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
 [20Aug2025 01:58:41.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=463, y=59, z=-750} BlockPos{x=464, y=57, z=-750}
 [20Aug2025 01:59:28.040] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[20Aug2025 02:00:08.130] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[20Aug2025 02:00:12.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 02:00:12.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2025 02:01:57.032] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[20Aug2025 02:05:11.999] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[20Aug2025 02:05:12.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 02:05:12.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2025 02:07:06.534] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[20Aug2025 02:08:32.979] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
