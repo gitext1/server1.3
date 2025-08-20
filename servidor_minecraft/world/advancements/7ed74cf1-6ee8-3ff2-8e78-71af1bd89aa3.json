@@ -8461,21 +8461,9 @@
     },
     "done": true
   },
-  "brewery:main/get_dried_corn": {
-    "criteria": {
-      "dry_corn": "2025-08-19 01:40:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-08-19 01:29:50 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/get_beer_wheat": {
-    "criteria": {
-      "beer_wheat": "2025-08-19 01:54:03 +0000"
     },
     "done": true
   },
@@ -8485,9 +8473,27 @@
     },
     "done": true
   },
+  "brewery:main/get_dried_corn": {
+    "criteria": {
+      "dry_corn": "2025-08-19 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-08-19 01:41:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-08-19 01:43:39 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_wheat": {
+    "criteria": {
+      "beer_wheat": "2025-08-19 01:54:03 +0000"
     },
     "done": true
   },
@@ -8500,12 +8506,6 @@
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2025-08-19 02:40:20 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/barrel_main": {
-    "criteria": {
-      "has_barrel": "2025-08-19 01:41:41 +0000"
     },
     "done": true
   },
