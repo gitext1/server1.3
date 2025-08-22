@@ -8514,15 +8514,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_bed": {
+  "lootr:100loot": {
     "criteria": {
-      "has_orange_wool": "2025-08-20 01:45:00 +0000"
+      "loot_stat": "2025-08-20 01:23:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_banner": {
+  "minecraft:recipes/misc/leather": {
     "criteria": {
-      "has_orange_wool": "2025-08-20 01:45:00 +0000"
+      "has_rabbit_hide": "2025-08-20 01:25:13 +0000"
     },
     "done": true
   },
@@ -8532,9 +8532,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_rabbit_hide": "2025-08-20 01:25:13 +0000"
+      "has_snowball": "2025-08-20 01:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-08-20 01:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-08-20 01:45:00 +0000"
     },
     "done": true
   },
@@ -8568,18 +8580,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-08-20 01:48:37 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-08-20 01:23:00 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/orange_shower_towel": {
     "criteria": {
       "has_orange_wool": "2025-08-20 01:45:00 +0000"
@@ -8592,9 +8592,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_snowball": "2025-08-20 01:33:34 +0000"
+      "has_azure_bluet": "2025-08-20 01:48:37 +0000"
     },
     "done": true
   },
