@@ -8314,45 +8314,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+  "dungeons_enhanced:chilled_halls": {
     "criteria": {
-      "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
+      "entered_ice_pit": "2025-08-18 02:15:46 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/kitchen_hood": {
+  "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
-      "has_kitchen_hood": "2025-08-18 02:27:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2025-08-18 02:21:48 +0000"
-    },
-    "done": true
-  },
-  "infectious:hogzilla": {
-    "criteria": {
-      "hogzilla": "2025-08-18 02:45:10 +0000"
+      "has_packed_ice": "2025-08-18 02:16:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-18 02:19:06 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/brazier": {
-    "criteria": {
-      "has_bar": "2025-08-18 02:27:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-08-18 02:40:17 +0000"
     },
     "done": true
   },
@@ -8380,24 +8356,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/netherite_knife_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-08-18 02:19:06 +0000"
@@ -8413,18 +8371,6 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-18 02:19:06 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
-    "criteria": {
-      "has_torch": "2025-08-18 02:21:48 +0000"
-    },
-    "done": true
-  },
-  "infectious:hauston_we_have_a_problem": {
-    "criteria": {
-      "hauston_we_have_a_problem": "2025-08-18 04:14:26 +0000"
     },
     "done": true
   },
@@ -8446,21 +8392,27 @@
     },
     "done": true
   },
-  "infectious:to_the_moon_and_further": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
-      "to_the_moon_and_further": "2025-08-18 04:14:34 +0000"
+      "has_granite": "2025-08-18 02:19:06 +0000"
     },
     "done": true
   },
-  "infectious:bob_ross": {
+  "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
-      "bob_ross": "2025-08-18 03:27:38 +0000"
+      "has_granite": "2025-08-18 02:19:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
+  "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
-      "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
+      "has_soul_torch": "2025-08-18 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-08-18 02:21:48 +0000"
     },
     "done": true
   },
@@ -8470,21 +8422,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-18 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-08-18 02:23:15 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-08-18 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-08-18 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-08-18 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-08-18 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-18 02:40:17 +0000"
+    },
+    "done": true
+  },
   "infectious:back_in_my_days": {
     "criteria": {
       "back_in_my_days": "2025-08-18 02:44:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_cornflower": "2025-08-18 04:09:15 +0000"
+      "hero_of_the_village": "2025-08-18 02:45:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+  "infectious:hogzilla": {
     "criteria": {
-      "has_granite": "2025-08-18 02:19:06 +0000"
+      "hogzilla": "2025-08-18 02:45:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-18 02:45:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-08-18 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "infectious:bob_ross": {
+    "criteria": {
+      "bob_ross": "2025-08-18 03:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
     },
     "done": true
   },
@@ -8506,39 +8548,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-08-18 02:45:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-08-18 02:16:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-08-18 03:48:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-08-18 02:23:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-08-18 03:48:16 +0000"
     },
     "done": true
   },
@@ -8548,51 +8560,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-08-18 04:09:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-18 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:chilled_halls": {
-    "criteria": {
-      "entered_ice_pit": "2025-08-18 02:15:46 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/kitchen_hood_pipe": {
-    "criteria": {
-      "has_kitchen_hood_pipe": "2025-08-18 02:27:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-08-18 02:23:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-08-18 02:19:06 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-08-18 02:47:28 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/soul_brazier": {
-    "criteria": {
-      "has_bar": "2025-08-18 02:27:43 +0000"
     },
     "done": true
   },
@@ -8602,9 +8572,63 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
-      "has_onion": "2025-08-18 02:45:46 +0000"
+      "has_white_tulip": "2025-08-18 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-08-18 03:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-18 04:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-18 04:09:15 +0000"
+    },
+    "done": true
+  },
+  "infectious:hauston_we_have_a_problem": {
+    "criteria": {
+      "hauston_we_have_a_problem": "2025-08-18 04:14:26 +0000"
+    },
+    "done": true
+  },
+  "infectious:to_the_moon_and_further": {
+    "criteria": {
+      "to_the_moon_and_further": "2025-08-18 04:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-25 01:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-08-25 01:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-08-25 01:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-25 01:16:11 +0000"
     },
     "done": true
   },

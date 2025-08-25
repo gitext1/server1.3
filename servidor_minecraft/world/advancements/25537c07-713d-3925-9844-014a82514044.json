@@ -7699,9 +7699,105 @@
     },
     "done": true
   },
+  "immersiveengineering:main/creosote": {
+    "criteria": {
+      "has_item": "2025-08-25 01:15:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal": {
+    "criteria": {
+      "has_creosote": "2025-08-25 01:15:56 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/coke_to_coal_coke": {
     "criteria": {
       "has_coke": "2025-08-25 01:11:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/waterwheel_segment": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wooden_barrel": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wooden_grip": {
+    "criteria": {
+      "has_treated_sticks": "2025-08-25 01:17:48 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/workbench": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/windmill_blade": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/craftingtable": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_fence": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_silver_to_storage_silver": {
+    "criteria": {
+      "has_ingot_silver": "2025-08-25 01:20:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-08-25 01:16:10 +0000"
     },
     "done": true
   },
@@ -7711,9 +7807,75 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alloybrick_from_slab": {
+    "criteria": {
+      "has_alloybrick": "2025-08-25 01:13:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_to_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_treated": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_scaffold": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick_to_slab": {
+    "criteria": {
+      "has_alloybrick": "2025-08-25 01:13:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-25 01:20:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_from_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/crate": {
+    "criteria": {
+      "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/coal_coke_to_coke": {
     "criteria": {
       "has_coal_coke": "2025-08-25 01:11:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_silver_to_ingot_silver": {
+    "criteria": {
+      "has_storage_silver": "2025-08-25 01:20:38 +0000"
     },
     "done": true
   },
