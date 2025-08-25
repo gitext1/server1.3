@@ -7754,6 +7754,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/storage_uranium_to_ingot_uranium": {
+    "criteria": {
+      "has_storage_uranium": "2025-08-25 02:12:19 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
     "criteria": {
       "has_steel_ingot": "2025-08-25 02:02:44 +0000"
@@ -7868,6 +7874,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/ingot_uranium_to_storage_uranium": {
+    "criteria": {
+      "has_ingot_uranium": "2025-08-25 02:12:19 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/treated_fence": {
     "criteria": {
       "has_treated_planks": "2025-08-25 01:16:10 +0000"
@@ -7916,6 +7928,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/storage_uranium_to_slab": {
+    "criteria": {
+      "has_storage_uranium": "2025-08-25 02:12:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
     "criteria": {
       "has_treated_planks": "2025-08-25 01:16:10 +0000"
@@ -7958,9 +7976,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/storage_uranium_from_slab": {
+    "criteria": {
+      "has_storage_uranium": "2025-08-25 02:12:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/alloybrick_from_slab": {
     "criteria": {
       "has_alloybrick": "2025-08-25 01:13:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_uranium_hammering": {
+    "criteria": {
+      "has_uranium_ingot": "2025-08-25 02:12:19 +0000"
     },
     "done": true
   },
