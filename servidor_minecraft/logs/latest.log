@@ -2982,3 +2982,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Aug2025 01:45:59.797] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 120
 [25Aug2025 01:45:59.798] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 120
 [25Aug2025 01:45:59.798] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 120
+[25Aug2025 01:47:49.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK moved wrongly!
+[25Aug2025 01:48:07.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was slain by Husk
+[25Aug2025 01:48:09.974] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[25Aug2025 01:48:09.975] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[25Aug2025 01:48:24.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was slain by Husk
+[25Aug2025 01:48:26.218] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[25Aug2025 01:48:26.219] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[25Aug2025 01:48:47.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
+[25Aug2025 01:48:48.802] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[25Aug2025 01:48:48.802] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[25Aug2025 01:49:47.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was slain by Husk
+[25Aug2025 01:49:50.226] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[25Aug2025 01:49:50.226] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[25Aug2025 01:52:34.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 39.0]
+[25Aug2025 01:56:22.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Really Hot Topic]
+[25Aug2025 01:57:05.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sr_Riva lost connection: Disconnected
+[25Aug2025 01:57:05.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva left the game
+[25Aug2025 01:57:05.193] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2 was unloaded
+[25Aug2025 01:57:05.194] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sr_Riva

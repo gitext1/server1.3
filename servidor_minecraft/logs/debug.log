@@ -17504,3 +17504,129 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Aug2025 01:45:59.798] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 120
 [25Aug2025 01:45:59.798] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 120
 [25Aug2025 01:46:39.197] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[25Aug2025 01:47:18.643] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:18.643] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:20.346] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:20.346] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:22.293] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:22.293] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:24.295] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:24.295] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:28.193] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:28.194] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:47:45.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 01:47:45.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 01:47:45.874] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[25Aug2025 01:47:49.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK moved wrongly!
+[25Aug2025 01:48:07.396] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:07.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was slain by Husk
+[25Aug2025 01:48:09.848] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:09.974] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[25Aug2025 01:48:09.975] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[25Aug2025 01:48:10.000] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756086489984
+[25Aug2025 01:48:12.945] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:12.945] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:24.348] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:24.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was slain by Husk
+[25Aug2025 01:48:26.068] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:26.218] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756086506218
+[25Aug2025 01:48:26.218] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[25Aug2025 01:48:26.219] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[25Aug2025 01:48:28.803] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:28.803] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:29.003] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:44.492] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:44.493] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:45.348] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:45.348] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:47.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
+[25Aug2025 01:48:48.691] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:48.802] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756086528791
+[25Aug2025 01:48:48.802] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[25Aug2025 01:48:48.802] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[25Aug2025 01:48:53.352] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:53.352] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:53.845] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:54.350] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:54.945] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:55.046] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:55.046] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:55.501] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:56.096] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:56.651] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:56.652] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:57.150] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:57.645] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:58.247] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:58.797] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:59.349] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:48:59.849] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:00.400] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:00.915] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:01.596] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:02.152] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:02.756] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:03.245] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:03.749] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:04.396] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:04.895] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:05.397] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:05.950] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:06.544] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:07.047] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:07.545] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:08.046] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:08.600] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:09.250] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:09.847] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:10.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:10.897] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:11.400] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:11.896] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:12.545] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:13.095] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:13.744] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:14.396] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:14.895] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:15.594] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:16.250] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:16.744] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:17.311] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:17.896] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:18.394] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:18.843] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:18.843] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:18.896] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:19.397] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:20.046] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:20.700] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:20.843] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:20.843] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:21.195] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:21.746] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:22.254] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:22.753] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:23.316] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:29.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:29.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:47.094] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:47.343] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:47.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was slain by Husk
+[25Aug2025 01:49:49.936] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:49:50.226] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[25Aug2025 01:49:50.226] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[25Aug2025 01:49:50.495] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756086590490
+[25Aug2025 01:49:54.198] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[25Aug2025 01:52:34.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 39.0]
+[25Aug2025 01:52:41.196] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[25Aug2025 01:52:45.610] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[25Aug2025 01:52:45.611] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[25Aug2025 01:52:45.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 01:52:45.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 01:56:06.201] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[25Aug2025 01:56:22.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Really Hot Topic]
+[25Aug2025 01:57:05.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sr_Riva lost connection: Disconnected
+[25Aug2025 01:57:05.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva left the game
+[25Aug2025 01:57:05.193] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2 was unloaded
+[25Aug2025 01:57:05.194] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Sr_Riva
+[25Aug2025 01:57:05.194] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sr_Riva

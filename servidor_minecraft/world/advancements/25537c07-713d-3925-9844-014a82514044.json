@@ -6031,6 +6031,7 @@
       "pasta_with_meatballs": "2025-08-14 03:29:43 +0000",
       "vegetable_noodles": "2025-08-16 23:45:05 +0000",
       "stuffed_pumpkin": "2025-08-14 03:37:36 +0000",
+      "baked_cod_stew": "2025-08-25 01:49:32 +0000",
       "pasta_with_mutton_chop": "2025-08-12 01:29:36 +0000",
       "fried_rice": "2025-08-16 23:13:00 +0000"
     },
@@ -7756,6 +7757,12 @@
   "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
     "criteria": {
       "has_treated_wood_horizontal": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-08-25 01:47:32 +0000"
     },
     "done": true
   },
