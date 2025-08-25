@@ -2928,3 +2928,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Aug2025 01:26:30.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva left the game
 [25Aug2025 01:26:30.594] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2 was unloaded
 [25Aug2025 01:26:30.596] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sr_Riva
+[25Aug2025 01:26:49.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sr_Riva[/127.95.42.133:58861] logged in with entity id 50424 at (450.47203316459394, 72.0, -728.3487704648022)
+[25Aug2025 01:26:49.779] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Sr_Riva
+[25Aug2025 01:26:49.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva joined the game
+[25Aug2025 01:26:49.831] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Sr_Riva
+[25Aug2025 01:26:50.015] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Sr_Riva
+[25Aug2025 01:26:50.019] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sr_Riva (18)
+[25Aug2025 01:26:50.019] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sr_Riva
+[25Aug2025 01:26:50.020] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2 was loaded
+[25Aug2025 01:26:50.021] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[25Aug2025 01:26:50.021] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[25Aug2025 01:28:00.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Safety First!]
+[25Aug2025 01:28:53.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Pic-A-Nic Basket?]
+[25Aug2025 01:29:09.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was slain by Kid Spider
+[25Aug2025 01:29:13.718] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[25Aug2025 01:29:13.719] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[25Aug2025 01:29:47.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK moved wrongly!
+[25Aug2025 01:36:28.188] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 38,-27

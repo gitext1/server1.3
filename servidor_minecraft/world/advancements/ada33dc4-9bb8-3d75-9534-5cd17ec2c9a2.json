@@ -8614,6 +8614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-25 01:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2025-08-25 01:16:14 +0000"
@@ -8626,9 +8632,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "has_snowball": "2025-08-25 01:16:11 +0000"
+      "killed_by": "2025-08-25 01:28:53 +0000"
+    },
+    "done": true
+  },
+  "infectious:safety_first": {
+    "criteria": {
+      "safety_first": "2025-08-25 01:28:00 +0000"
     },
     "done": true
   },

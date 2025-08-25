@@ -7807,6 +7807,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_silver": {
+    "criteria": {
+      "has_plate_silver": "2025-08-25 01:23:49 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/alloybrick_from_slab": {
     "criteria": {
       "has_alloybrick": "2025-08-25 01:13:28 +0000"
