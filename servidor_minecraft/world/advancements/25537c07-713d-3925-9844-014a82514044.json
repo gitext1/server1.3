@@ -7826,6 +7826,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/storage_nickel_to_ingot_nickel": {
+    "criteria": {
+      "has_storage_nickel": "2025-08-25 02:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-08-25 01:47:32 +0000"
@@ -7853,6 +7859,12 @@
   "immersiveengineering:recipes/misc/crafting/sawblade": {
     "criteria": {
       "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-08-25 02:14:22 +0000"
     },
     "done": true
   },
@@ -7997,6 +8009,12 @@
   "immersiveengineering:recipes/misc/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
+    "criteria": {
+      "has_ingot_nickel": "2025-08-25 02:14:22 +0000"
     },
     "done": true
   },

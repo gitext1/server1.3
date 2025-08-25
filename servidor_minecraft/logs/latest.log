@@ -3013,3 +3013,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Aug2025 02:00:45.050] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
 [25Aug2025 02:02:44.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has reached the goal [The Upgrade]
 [25Aug2025 02:06:42.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sr_Riva moved wrongly!
+[25Aug2025 02:21:38.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[25Aug2025 02:21:50.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Don't drink this...]

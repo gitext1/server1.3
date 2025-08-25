@@ -8644,5 +8644,23 @@
     },
     "done": true
   },
+  "immersiveengineering:main/creosote": {
+    "criteria": {
+      "has_item": "2025-08-25 02:21:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal": {
+    "criteria": {
+      "has_creosote": "2025-08-25 02:21:50 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-08-25 02:12:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
