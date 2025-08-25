@@ -7699,5 +7699,23 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/coke_to_coal_coke": {
+    "criteria": {
+      "has_coke": "2025-08-25 01:11:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2025-08-25 01:07:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coal_coke_to_coke": {
+    "criteria": {
+      "has_coal_coke": "2025-08-25 01:11:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
