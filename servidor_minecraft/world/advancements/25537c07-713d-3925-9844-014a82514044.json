@@ -7730,9 +7730,45 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/storage_steel_to_ingot_steel": {
+    "criteria": {
+      "has_storage_steel": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wooden_grip": {
     "criteria": {
       "has_treated_sticks": "2025-08-25 01:17:48 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick_from_slab": {
+    "criteria": {
+      "has_blastbrick": "2025-08-25 01:53:04 +0000"
     },
     "done": true
   },
@@ -7742,9 +7778,33 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/coil_hv": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/windmill_blade": {
     "criteria": {
       "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick_reinforced": {
+    "criteria": {
+      "has_blastbrick": "2025-08-25 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
+    "criteria": {
+      "has_ingot_steel": "2025-08-25 02:02:44 +0000"
     },
     "done": true
   },
@@ -7784,9 +7844,39 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_steel_to_storage_steel": {
+    "criteria": {
+      "has_ingot_steel": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/treated_fence": {
     "criteria": {
       "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
     },
     "done": true
   },
@@ -7805,6 +7895,24 @@
   "immersiveengineering:recipes/misc/crafting/ingot_silver_to_storage_silver": {
     "criteria": {
       "has_ingot_silver": "2025-08-25 01:20:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
     },
     "done": true
   },
@@ -7832,15 +7940,45 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/alloybrick_from_slab": {
     "criteria": {
       "has_alloybrick": "2025-08-25 01:13:28 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_to_slab": {
     "criteria": {
       "has_treated_wood_horizontal": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-08-25 02:02:44 +0000"
     },
     "done": true
   },
@@ -7868,6 +8006,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
     "criteria": {
       "has_treated_planks": "2025-08-25 01:16:10 +0000"
@@ -7880,9 +8030,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blastbrick_to_slab": {
+    "criteria": {
+      "has_blastbrick": "2025-08-25 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-25 02:02:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
     "criteria": {
       "has_silver_ingot": "2025-08-25 01:20:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
+    "criteria": {
+      "has_ingot_steel": "2025-08-25 02:02:44 +0000"
     },
     "done": true
   },
@@ -7907,6 +8075,12 @@
   "immersiveengineering:recipes/misc/crafting/storage_silver_to_ingot_silver": {
     "criteria": {
       "has_storage_silver": "2025-08-25 01:20:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_blastfurnace": {
+    "criteria": {
+      "form_multiblock": "2025-08-25 01:56:22 +0000"
     },
     "done": true
   },
