@@ -7783,6 +7783,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-25 01:37:18 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/ingot_silver_to_storage_silver": {
     "criteria": {
       "has_ingot_silver": "2025-08-25 01:20:38 +0000"
@@ -7852,6 +7864,12 @@
   "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
     "criteria": {
       "has_treated_planks": "2025-08-25 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-08-25 01:40:24 +0000"
     },
     "done": true
   },

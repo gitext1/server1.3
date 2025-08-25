@@ -17418,3 +17418,89 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Aug2025 01:36:28.188] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 38,-27
 [25Aug2025 01:36:28.493] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [25Aug2025 01:36:28.998] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:37:45.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 01:37:45.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 01:37:45.844] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[25Aug2025 01:41:13.693] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[25Aug2025 01:41:49.743] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@40345053]Trying to start horde event on day 120 with nextDay 120 and time 18000
+[25Aug2025 01:41:49.746] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@8f33a2c
+[25Aug2025 01:41:49.747] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 110
+[25Aug2025 01:41:49.748] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 110
+[25Aug2025 01:41:49.748] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 110
+[25Aug2025 01:41:49.748] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 110
+[25Aug2025 01:41:49.801] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:41:49.802] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:41:49.802] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 120
+[25Aug2025 01:41:49.802] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 120
+[25Aug2025 01:41:54.396] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:41:54.396] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:41:54.400] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[25Aug2025 01:41:55.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:41:55.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:41:55.895] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:41:55.895] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:41:59.345] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:41:59.345] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:00.695] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:00.695] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:01.847] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:01.848] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:03.143] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:03.143] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:04.143] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:04.143] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:05.244] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:05.244] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:08.847] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:08.847] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:20.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: The difficulty has been set to Peaceful]
+[25Aug2025 01:42:26.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:28.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Aug2025 01:42:34.092] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:37.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[25Aug2025 01:42:38.848] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:42:38.946] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[25Aug2025 01:42:38.946] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[25Aug2025 01:42:38.963] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756086158963
+[25Aug2025 01:42:39.792] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:42:39.792] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:42:39.792] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 120
+[25Aug2025 01:42:39.792] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 120
+[25Aug2025 01:42:45.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 01:42:45.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 01:43:16.693] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[25Aug2025 01:43:29.790] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:43:29.791] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:43:29.791] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 120
+[25Aug2025 01:43:29.791] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 120
+[25Aug2025 01:43:41.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: The difficulty has been set to Hard]
+[25Aug2025 01:44:19.791] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:44:19.792] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:44:19.792] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 120
+[25Aug2025 01:44:19.792] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 120
+[25Aug2025 01:44:57.140] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:44:57.140] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:44:59.440] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:44:59.440] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:01.140] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:01.140] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:09.791] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:45:09.791] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:45:09.792] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 120
+[25Aug2025 01:45:09.792] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 120
+[25Aug2025 01:45:23.146] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:23.146] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:24.853] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:24.853] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:26.208] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:26.208] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:27.546] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:27.546] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:31.694] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:31.694] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Aug2025 01:45:53.832] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3048ms or 60 ticks
+[25Aug2025 01:45:59.797] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:45:59.797] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 120
+[25Aug2025 01:45:59.798] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 120
+[25Aug2025 01:45:59.798] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 120
+[25Aug2025 01:46:39.197] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
