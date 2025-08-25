@@ -7706,6 +7706,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/mb_improvedblastfurnace": {
+    "criteria": {
+      "form_multiblock": "2025-08-25 02:30:57 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal": {
     "criteria": {
       "has_creosote": "2025-08-25 01:15:56 +0000"
@@ -7796,6 +7802,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_helmet": {
+    "criteria": {
+      "has_steel_plate": "2025-08-25 02:28:11 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/windmill_blade": {
     "criteria": {
       "has_treated_planks": "2025-08-25 01:16:10 +0000"
@@ -7868,6 +7880,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blastbrick_reinforced_to_slab": {
+    "criteria": {
+      "has_blastbrick_reinforced": "2025-08-25 02:28:39 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/ingot_steel_to_storage_steel": {
     "criteria": {
       "has_ingot_steel": "2025-08-25 02:02:44 +0000"
@@ -7934,6 +7952,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_boots": {
+    "criteria": {
+      "has_steel_plate": "2025-08-25 02:28:11 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
     "criteria": {
       "has_steel_ingot": "2025-08-25 02:02:44 +0000"
@@ -7943,6 +7967,12 @@
   "immersiveengineering:recipes/misc/crafting/storage_uranium_to_slab": {
     "criteria": {
       "has_storage_uranium": "2025-08-25 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_steel": {
+    "criteria": {
+      "has_plate_steel": "2025-08-25 02:28:11 +0000"
     },
     "done": true
   },
@@ -7994,6 +8024,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blastbrick_reinforced_from_slab": {
+    "criteria": {
+      "has_blastbrick_reinforced": "2025-08-25 02:28:39 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/alloybrick_from_slab": {
     "criteria": {
       "has_alloybrick": "2025-08-25 01:13:28 +0000"
@@ -8015,6 +8051,12 @@
   "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
     "criteria": {
       "has_ingot_nickel": "2025-08-25 02:14:22 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_steel": {
+    "criteria": {
+      "has_plate": "2025-08-25 02:28:11 +0000"
     },
     "done": true
   },
@@ -8114,9 +8156,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_chestplate": {
+    "criteria": {
+      "has_steel_plate": "2025-08-25 02:28:11 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/coal_coke_to_coke": {
     "criteria": {
       "has_coal_coke": "2025-08-25 01:11:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_leggings": {
+    "criteria": {
+      "has_steel_plate": "2025-08-25 02:28:11 +0000"
     },
     "done": true
   },

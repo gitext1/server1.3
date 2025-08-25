@@ -18051,3 +18051,61 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Aug2025 02:22:45.871] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
 [25Aug2025 02:22:45.891] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
 [25Aug2025 02:26:21.694] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[25Aug2025 02:27:35.999] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[25Aug2025 02:27:45.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 02:27:45.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 02:30:19.790] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[25Aug2025 02:30:57.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Next Level Blasting]
+[25Aug2025 02:32:10.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[25Aug2025 02:32:10.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[25Aug2025 02:32:10.346] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[25Aug2025 02:32:10.346] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of BlaseTK
+[25Aug2025 02:32:10.346] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[25Aug2025 02:32:33.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ lost connection: Disconnected
+[25Aug2025 02:32:33.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ left the game
+[25Aug2025 02:32:33.640] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was unloaded
+[25Aug2025 02:32:33.640] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Elishy_
+[25Aug2025 02:32:33.641] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elishy_
+[25Aug2025 02:32:35.696] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[25Aug2025 02:32:38.336] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:withered_zombie but it was marked as removed already
+[25Aug2025 02:32:41.336] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bucket_zombie but it was marked as removed already
+[25Aug2025 02:32:41.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bucket_zombie but it was marked as removed already
+[25Aug2025 02:32:41.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bucket_zombie but it was marked as removed already
+[25Aug2025 02:32:45.566] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[25Aug2025 02:32:45.566] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[25Aug2025 02:32:45.568] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[25Aug2025 02:32:45.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 02:32:45.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 02:32:45.662] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3156ms or 63 ticks
+[25Aug2025 02:33:00.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sr_Riva lost connection: Disconnected
+[25Aug2025 02:33:00.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva left the game
+[25Aug2025 02:33:00.189] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2 was unloaded
+[25Aug2025 02:33:00.189] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Sr_Riva
+[25Aug2025 02:33:00.189] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sr_Riva
+[25Aug2025 02:33:09.896] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[25Aug2025 02:33:09.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Aug2025 02:33:09.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Aug2025 02:33:09.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Aug2025 02:33:09.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Aug2025 02:33:10.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Aug2025 02:33:10.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[25Aug2025 02:33:10.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Aug2025 02:33:10.229] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[25Aug2025 02:33:10.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 02:33:10.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 02:33:10.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Aug2025 02:33:10.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Aug2025 02:33:10.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[25Aug2025 02:33:10.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Aug2025 02:33:10.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Aug2025 02:33:10.422] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[25Aug2025 02:33:10.422] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-1 shutdown
+[25Aug2025 02:33:10.422] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[25Aug2025 02:33:10.425] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[25Aug2025 02:33:10.427] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25Aug2025 02:33:10.427] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[25Aug2025 02:33:10.427] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[25Aug2025 02:33:10.428] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[25Aug2025 02:33:10.430] [Server thread/INFO] [net.petemc.mutantszombies.MutantsZombies/]: Loading mutantszombies server config
+[25Aug2025 02:33:10.434] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[25Aug2025 02:33:10.434] [Server thread/INFO] [farsightedmobs/]: Loading config
