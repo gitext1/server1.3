@@ -7357,7 +7357,8 @@
       "grilled_salmon": "2025-08-18 02:50:12 +0000",
       "squid_ink_pasta": "2025-08-16 04:05:09 +0000",
       "pasta_with_meatballs": "2025-08-18 02:49:54 +0000",
-      "stuffed_pumpkin": "2025-08-14 03:37:59 +0000"
+      "stuffed_pumpkin": "2025-08-14 03:37:59 +0000",
+      "pasta_with_mutton_chop": "2025-08-25 00:58:58 +0000"
     },
     "done": false
   },
@@ -8601,6 +8602,12 @@
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2025-08-22 00:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-08-22 00:24:35 +0000"
     },
     "done": true
   },
