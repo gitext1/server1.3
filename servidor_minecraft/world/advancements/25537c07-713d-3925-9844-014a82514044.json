@@ -8420,11 +8420,29 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/turntable": {
+    "criteria": {
+      "has_coil_lv": "2025-08-27 02:12:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_constantan_to_storage_constantan": {
+    "criteria": {
+      "has_ingot_constantan": "2025-08-27 02:11:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:jellie": "2025-08-27 01:52:15 +0000"
     },
     "done": false
+  },
+  "immersiveengineering:recipes/misc/crafting/thermoelectric_generator": {
+    "criteria": {
+      "has_coil_lv": "2025-08-27 02:12:40 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
@@ -8435,6 +8453,12 @@
   "immersiveengineering:recipes/misc/crafting/furnace_heater": {
     "criteria": {
       "has_the_recipe": "2025-08-27 01:51:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_constantan_hammering": {
+    "criteria": {
+      "has_constantan_ingot": "2025-08-27 02:11:12 +0000"
     },
     "done": true
   },
@@ -8456,6 +8480,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/dynamo": {
+    "criteria": {
+      "has_coil_lv": "2025-08-27 02:12:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/chute_copper": {
     "criteria": {
       "has_plate": "2025-08-27 01:48:10 +0000"
@@ -8471,6 +8501,12 @@
   "immersiveengineering:recipes/misc/crafting/strip_lv": {
     "criteria": {
       "has_copper_coil": "2025-08-27 01:49:31 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_constantan": {
+    "criteria": {
+      "has_plate_constantan": "2025-08-27 02:11:20 +0000"
     },
     "done": true
   },
@@ -8498,9 +8534,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/basic_shower_handle": {
+    "criteria": {
+      "has_lever": "2025-08-27 02:17:25 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/metal_barrel": {
     "criteria": {
       "has_iron_sheet_slab": "2025-08-27 01:51:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_constantan_to_ingot_constantan": {
+    "criteria": {
+      "has_storage_constantan": "2025-08-27 02:11:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/charging_station": {
+    "criteria": {
+      "has_coil_lv": "2025-08-27 02:12:40 +0000"
     },
     "done": true
   },

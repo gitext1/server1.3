@@ -17012,3 +17012,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Aug2025 02:07:58.150] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$8ee996$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
 [27Aug2025 02:09:57.558] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
 [27Aug2025 02:09:57.558] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[27Aug2025 02:11:58.506] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[27Aug2025 02:12:25.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 02:12:25.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 02:16:16.709] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[27Aug2025 02:17:25.850] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[27Aug2025 02:17:25.850] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[27Aug2025 02:17:25.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 02:17:25.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 02:19:22.009] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[27Aug2025 02:21:01.460] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
