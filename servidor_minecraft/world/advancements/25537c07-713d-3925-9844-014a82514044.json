@@ -8186,87 +8186,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/armor_faraday_chestplate": {
-    "criteria": {
-      "has_alu_plate": "2025-08-27 01:44:23 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_red": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_aluminum": {
-    "criteria": {
-      "has_plate": "2025-08-27 01:44:23 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_magenta": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_brown": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_iron": {
-    "criteria": {
-      "has_plate": "2025-08-27 01:46:00 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_gray": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_light_gray": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
     "criteria": {
       "has_aluminum_ingot": "2025-08-27 01:43:17 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_purple": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_orange": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluid_pump": {
-    "criteria": {
-      "has_fluid_pipe": "2025-08-27 01:46:06 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_iron": {
-    "criteria": {
-      "has_plate_iron": "2025-08-27 01:46:00 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/armor_faraday_leggings": {
-    "criteria": {
-      "has_alu_plate": "2025-08-27 01:44:23 +0000"
     },
     "done": true
   },
@@ -8276,51 +8198,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_green": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/armor_faraday_boots": {
-    "criteria": {
-      "has_alu_plate": "2025-08-27 01:44:23 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/armor_faraday_helmet": {
-    "criteria": {
-      "has_alu_plate": "2025-08-27 01:44:23 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
     "criteria": {
       "has_alu_ingot": "2025-08-27 01:43:17 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_black": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
-    "criteria": {
-      "has_iron_plate": "2025-08-27 01:46:00 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_white": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_pink": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
     },
     "done": true
   },
@@ -8333,24 +8213,6 @@
   "immersiveengineering:recipes/misc/crafting/storage_aluminum_to_ingot_aluminum": {
     "criteria": {
       "has_storage_aluminum": "2025-08-27 01:43:17 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_yellow": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
-    "criteria": {
-      "has_iron_plate": "2025-08-27 01:46:00 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_lime": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
     },
     "done": true
   },
@@ -8372,33 +8234,135 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_cyan": {
-    "criteria": {
-      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluid_sorter": {
-    "criteria": {
-      "has_fluid_pipe": "2025-08-27 01:46:06 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
     "criteria": {
       "has_alu_ingot": "2025-08-27 01:43:17 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_aluminum_from_slab": {
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_chestplate": {
     "criteria": {
-      "has_sheetmetal_aluminum": "2025-08-27 01:45:10 +0000"
+      "has_alu_plate": "2025-08-27 01:44:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_aluminum": {
+    "criteria": {
+      "has_plate": "2025-08-27 01:44:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_leggings": {
+    "criteria": {
+      "has_alu_plate": "2025-08-27 01:44:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_boots": {
+    "criteria": {
+      "has_alu_plate": "2025-08-27 01:44:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_helmet": {
+    "criteria": {
+      "has_alu_plate": "2025-08-27 01:44:23 +0000"
     },
     "done": true
   },
   "immersiveengineering:recipes/misc/crafting/sheetmetal_aluminum": {
     "criteria": {
       "has_plate_aluminum": "2025-08-27 01:44:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_red": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_magenta": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_brown": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_gray": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_light_gray": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_purple": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_orange": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_green": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_black": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_white": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_pink": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_yellow": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_lime": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_cyan": {
+    "criteria": {
+      "has_sheetmetal": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_aluminum_from_slab": {
+    "criteria": {
+      "has_sheetmetal_aluminum": "2025-08-27 01:45:10 +0000"
     },
     "done": true
   },
@@ -8417,6 +8381,132 @@
   "immersiveengineering:recipes/misc/crafting/sheetmetal_aluminum_to_slab": {
     "criteria": {
       "has_sheetmetal_aluminum": "2025-08-27 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2025-08-27 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_iron": {
+    "criteria": {
+      "has_plate_iron": "2025-08-27 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2025-08-27 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2025-08-27 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_pump": {
+    "criteria": {
+      "has_fluid_pipe": "2025-08-27 01:46:06 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_sorter": {
+    "criteria": {
+      "has_fluid_pipe": "2025-08-27 01:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:jellie": "2025-08-27 01:52:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-27 01:52:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/furnace_heater": {
+    "criteria": {
+      "has_the_recipe": "2025-08-27 01:51:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_iron_to_slab": {
+    "criteria": {
+      "has_sheetmetal_iron": "2025-08-27 01:51:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_iron_from_slab": {
+    "criteria": {
+      "has_sheetmetal_iron": "2025-08-27 01:51:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/breaker_switch": {
+    "criteria": {
+      "has_wirecoil_copper": "2025-08-27 01:49:31 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2025-08-27 01:48:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/maintenance_kit": {
+    "criteria": {
+      "has_wirecutter": "2025-08-27 01:48:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/strip_lv": {
+    "criteria": {
+      "has_copper_coil": "2025-08-27 01:49:31 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/craft_sheetmetal": {
+    "criteria": {
+      "has_item": "2025-08-27 01:51:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_copper": {
+    "criteria": {
+      "has_plate_copper": "2025-08-27 01:48:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastfurnace_preheater": {
+    "criteria": {
+      "has_furnace_heater": "2025-08-27 01:51:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_heater": {
+    "criteria": {
+      "has_item": "2025-08-27 01:51:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/metal_barrel": {
+    "criteria": {
+      "has_iron_sheet_slab": "2025-08-27 01:51:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_copper_ins": {
+    "criteria": {
+      "has_item": "2025-08-27 01:49:31 +0000"
     },
     "done": true
   },
