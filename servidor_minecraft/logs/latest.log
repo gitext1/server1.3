@@ -2921,3 +2921,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Aug2025 01:51:04.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Decorative and sturdy]
 [27Aug2025 01:51:19.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Spread the warmth]
 [27Aug2025 01:52:15.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Best Friends Forever]
+[27Aug2025 02:03:07.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: hola
+[27Aug2025 02:03:07.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: hola
+[27Aug2025 02:03:16.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> holaa
+[27Aug2025 02:03:20.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> wenas
