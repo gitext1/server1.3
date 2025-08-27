@@ -8662,5 +8662,11 @@
     },
     "done": true
   },
+  "infectious:angry_bids": {
+    "criteria": {
+      "angry_bids": "2025-08-27 02:44:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

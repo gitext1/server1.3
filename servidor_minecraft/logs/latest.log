@@ -2983,3 +2983,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Aug2025 02:39:43.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
 [27Aug2025 02:39:44.563] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
 [27Aug2025 02:39:44.563] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[27Aug2025 02:42:27.305] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[27Aug2025 02:42:32.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Survival Mode]
+[27Aug2025 02:43:43.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Killed Elishy_]
+[27Aug2025 02:44:42.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Angry Birds]
+[27Aug2025 02:45:12.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported BlaseTK to Elishy_]
+[27Aug2025 02:46:11.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sr_Riva moved wrongly!
+[27Aug2025 02:47:24.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Creative Mode]
+[27Aug2025 02:49:56.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Best Friends Forever]
+[27Aug2025 02:50:46.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Destroy The Child]
