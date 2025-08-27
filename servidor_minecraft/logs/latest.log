@@ -2913,3 +2913,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Aug2025 03:11:00.620] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2 was unloaded
 [27Aug2025 03:11:00.621] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sr_Riva
 [27Aug2025 03:17:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[27Aug2025 03:27:12.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:tower_zombie_1 but it was marked as removed already
+[27Aug2025 03:27:12.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:tower_zombie_1 but it was marked as removed already
+[27Aug2025 03:28:43.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Killed Elishy_]
+[27Aug2025 03:28:49.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ died
+[27Aug2025 03:28:50.921] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[27Aug2025 03:28:50.923] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[27Aug2025 03:28:56.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
