@@ -16937,3 +16937,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Aug2025 03:29:58.775] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [27Aug2025 03:29:59.263] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [27Aug2025 03:29:59.767] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:34:18.621] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[27Aug2025 03:34:45.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 03:34:45.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 03:36:13.117] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[27Aug2025 03:38:17.116] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[27Aug2025 03:39:45.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 03:39:45.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 03:39:45.750] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3056ms or 61 ticks
+[27Aug2025 03:40:40.449] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:40:40.915] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:40:41.414] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:40:44.437] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:40:49.685] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:40:50.162] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:41:43.634] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:41:44.147] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:41:54.617] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[27Aug2025 03:42:40.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[27Aug2025 03:42:40.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[27Aug2025 03:42:40.563] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[27Aug2025 03:42:40.563] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of BlaseTK
+[27Aug2025 03:42:40.563] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
