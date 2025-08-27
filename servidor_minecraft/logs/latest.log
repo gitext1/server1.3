@@ -2965,3 +2965,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Aug2025 02:31:13.740] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Sr_Riva
 [27Aug2025 02:31:13.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva joined the game
 [27Aug2025 02:31:13.777] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Sr_Riva
+[27Aug2025 02:31:15.885] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Sr_Riva
+[27Aug2025 02:31:15.939] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sr_Riva (18)
+[27Aug2025 02:31:15.939] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sr_Riva
+[27Aug2025 02:31:16.019] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2 was loaded
+[27Aug2025 02:31:16.019] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[27Aug2025 02:31:16.019] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[27Aug2025 02:35:13.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Creative Mode]
+[27Aug2025 02:35:14.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Birds on a Wire]
+[27Aug2025 02:37:24.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported 3 entities to Sr_Riva]
+[27Aug2025 02:38:23.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[27Aug2025 02:38:37.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
+[27Aug2025 02:38:38.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[27Aug2025 02:38:39.416] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[27Aug2025 02:38:39.416] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[27Aug2025 02:39:15.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [That was terrifying, wasn't it?]
+[27Aug2025 02:39:43.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
+[27Aug2025 02:39:44.563] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[27Aug2025 02:39:44.563] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
