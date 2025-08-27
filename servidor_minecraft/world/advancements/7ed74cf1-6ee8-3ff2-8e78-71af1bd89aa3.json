@@ -8630,21 +8630,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/complete_catalogue": {
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
     "criteria": {
-      "minecraft:siamese": "2025-08-27 02:49:56 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-08-27 02:49:56 +0000"
-    },
-    "done": true
-  },
-  "prehistoricexploration:kill_zombifaurus": {
-    "criteria": {
-      "kill_zombifaurus": "2025-08-27 02:39:15 +0000"
+      "has_lapis_ore": "2025-08-27 01:59:05 +0000"
     },
     "done": true
   },
@@ -8654,9 +8642,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+  "prehistoricexploration:kill_zombifaurus": {
     "criteria": {
-      "has_lapis_ore": "2025-08-27 01:59:05 +0000"
+      "kill_zombifaurus": "2025-08-27 02:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:siamese": "2025-08-27 02:49:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-27 02:49:56 +0000"
     },
     "done": true
   },
