@@ -16901,3 +16901,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Aug2025 03:12:09.838] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [27Aug2025 03:12:10.313] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [27Aug2025 03:12:15.066] [IO-Worker-5/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-15
+[27Aug2025 03:13:55.263] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:14:45.685] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
+[27Aug2025 03:14:45.691] [IO-Worker-5/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[27Aug2025 03:14:45.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 03:14:45.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 03:17:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[27Aug2025 03:17:42.688] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:17:43.165] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:19:45.689] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[27Aug2025 03:19:45.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 03:19:45.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
