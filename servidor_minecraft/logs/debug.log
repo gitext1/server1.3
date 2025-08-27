@@ -16959,3 +16959,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Aug2025 03:42:40.563] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
 [27Aug2025 03:42:40.563] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of BlaseTK
 [27Aug2025 03:42:40.563] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[27Aug2025 03:44:20.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ lost connection: Disconnected
+[27Aug2025 03:44:20.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ left the game
+[27Aug2025 03:44:20.913] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was unloaded
+[27Aug2025 03:44:20.914] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Elishy_
+[27Aug2025 03:44:20.914] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elishy_
+[27Aug2025 03:44:37.120] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[27Aug2025 03:44:37.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Aug2025 03:44:37.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Aug2025 03:44:37.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Aug2025 03:44:37.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Aug2025 03:44:37.255] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[27Aug2025 03:44:37.256] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[27Aug2025 03:44:37.261] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[27Aug2025 03:44:37.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Aug2025 03:44:37.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[27Aug2025 03:44:37.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Aug2025 03:44:37.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 03:44:37.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 03:44:37.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Aug2025 03:44:37.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Aug2025 03:44:37.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[27Aug2025 03:44:37.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Aug2025 03:44:37.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Aug2025 03:44:37.519] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[27Aug2025 03:44:37.519] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[27Aug2025 03:44:37.519] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-1 shutdown
+[27Aug2025 03:44:37.521] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[27Aug2025 03:44:37.523] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Aug2025 03:44:37.524] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[27Aug2025 03:44:37.524] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[27Aug2025 03:44:37.524] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[27Aug2025 03:44:37.526] [Server thread/INFO] [net.petemc.mutantszombies.MutantsZombies/]: Loading mutantszombies server config
+[27Aug2025 03:44:37.531] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[27Aug2025 03:44:37.531] [Server thread/INFO] [farsightedmobs/]: Loading config
