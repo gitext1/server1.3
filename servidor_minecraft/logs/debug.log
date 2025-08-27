@@ -17746,3 +17746,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Aug2025 02:49:56.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Best Friends Forever]
 [27Aug2025 02:50:46.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Destroy The Child]
 [27Aug2025 02:51:03.974] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 02:52:25.876] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[27Aug2025 02:52:25.877] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[27Aug2025 02:52:25.878] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[27Aug2025 02:52:25.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 02:52:25.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 02:52:25.972] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
+[27Aug2025 02:53:32.215] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[27Aug2025 02:56:04.065] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 02:57:25.724] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[27Aug2025 02:57:25.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 02:57:25.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 02:57:39.909] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 02:57:40.409] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 02:58:11.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ died
+[27Aug2025 02:58:15.090] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 02:58:15.178] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[27Aug2025 02:58:15.178] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[27Aug2025 02:58:15.193] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756263495193
+[27Aug2025 02:58:34.777] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[27Aug2025 02:59:53.066] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[27Aug2025 02:59:54.424] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[27Aug2025 02:59:54.433] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[27Aug2025 03:00:08.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to Elishy_]
+[27Aug2025 03:00:21.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[27Aug2025 03:00:24.061] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:00:24.560] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:00:25.058] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Aug2025 03:00:51.298] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78

@@ -2992,3 +2992,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Aug2025 02:47:24.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Creative Mode]
 [27Aug2025 02:49:56.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Best Friends Forever]
 [27Aug2025 02:50:46.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Destroy The Child]
+[27Aug2025 02:52:25.972] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
+[27Aug2025 02:58:11.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ died
+[27Aug2025 02:58:15.178] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[27Aug2025 02:58:15.178] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[27Aug2025 03:00:08.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to Elishy_]
+[27Aug2025 03:00:21.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]

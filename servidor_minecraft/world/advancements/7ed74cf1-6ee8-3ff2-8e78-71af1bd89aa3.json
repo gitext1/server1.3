@@ -8630,6 +8630,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:siamese": "2025-08-27 02:49:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-27 02:49:56 +0000"
+    },
+    "done": true
+  },
   "prehistoricexploration:kill_zombifaurus": {
     "criteria": {
       "kill_zombifaurus": "2025-08-27 02:39:15 +0000"
