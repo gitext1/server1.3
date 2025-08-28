@@ -2960,3 +2960,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Aug2025 01:12:58.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: les comento que ahora cuando craftean, los materiales se quedan en la mesa de crafteo esta chevere eso
 [28Aug2025 01:13:24.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> awebo
 [28Aug2025 01:19:43.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has reached the goal [Hazardous Machinery]
+[28Aug2025 01:24:22.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=433, y=50, z=-763} BlockPos{x=434, y=49, z=-763}
+[28Aug2025 01:24:27.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=433, y=51, z=-765} BlockPos{x=434, y=50, z=-765}
+[28Aug2025 01:24:31.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=433, y=51, z=-769} BlockPos{x=434, y=50, z=-769}
+[28Aug2025 01:32:13.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported BlaseTK to Elishy_]
+[28Aug2025 01:32:47.431] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3106ms or 62 ticks
+[28Aug2025 01:32:48.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: The difficulty has been set to Peaceful]
+[28Aug2025 01:32:56.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[28Aug2025 01:32:58.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
+[28Aug2025 01:33:00.327] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[28Aug2025 01:33:00.327] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]

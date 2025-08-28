@@ -8937,6 +8937,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_iron": "2025-08-28 01:35:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-08-28 01:14:37 +0000"
@@ -9087,9 +9093,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_dust_iron": "2025-08-28 01:35:34 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/stone_layer": {
     "criteria": {
       "has_block": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_crusher": {
+    "criteria": {
+      "form_multiblock": "2025-08-28 01:19:43 +0000"
     },
     "done": true
   },
