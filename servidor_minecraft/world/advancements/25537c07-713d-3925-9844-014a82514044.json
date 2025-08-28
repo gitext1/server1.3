@@ -8853,15 +8853,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "paraglider:recipes/misc/paraglider": {
     "criteria": {
-      "has_stone": "2025-08-28 01:14:37 +0000"
+      "has_stick": "2025-08-28 00:36:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fertilizer": {
+    "criteria": {
+      "has_slag": "2025-08-28 00:37:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/slag_glass": {
+    "criteria": {
+      "has_slag": "2025-08-28 00:37:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/slag_brick": {
+    "criteria": {
+      "has_slag": "2025-08-28 00:37:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/slag_brick": {
+    "criteria": {
+      "has_slag": "2025-08-28 00:37:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-08-28 00:37:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sample_drill": {
+    "criteria": {
+      "has_light_engineering": "2025-08-28 00:51:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_barrel": {
+    "criteria": {
+      "has_stick_steel": "2025-08-28 01:10:08 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/strip_curtain": {
+    "criteria": {
+      "has_metal_rod": "2025-08-28 01:10:08 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/metal_ladder_none": {
+    "criteria": {
+      "has_metal_rod": "2025-08-28 01:10:08 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_slope": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_grate_top_from_standard": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard_to_slab": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard_from_slab": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
     },
     "done": true
   },
   "immersiveengineering:recipes/misc/crafting/steel_post": {
     "criteria": {
       "has_steel_fence": "2025-08-28 01:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
     },
     "done": true
   },
@@ -8889,24 +8979,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/fertilizer": {
-    "criteria": {
-      "has_slag": "2025-08-28 00:37:11 +0000"
-    },
-    "done": true
-  },
-  "immersive_aircraft:misc/aircraftery": {
-    "criteria": {
-      "has_item": "2025-08-28 00:37:13 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/gunpart_barrel": {
-    "criteria": {
-      "has_stick_steel": "2025-08-28 01:10:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-28 01:14:37 +0000"
@@ -8925,30 +8997,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/smelting/slag_glass": {
-    "criteria": {
-      "has_slag": "2025-08-28 00:37:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/strip_curtain": {
-    "criteria": {
-      "has_metal_rod": "2025-08-28 01:10:08 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_dust_from_blasting": {
-    "criteria": {
-      "has_dust_aluminum": "2025-08-28 01:49:49 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust_from_blasting": {
-    "criteria": {
-      "has_dust_iron": "2025-08-28 01:35:34 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-08-28 01:14:37 +0000"
@@ -8958,30 +9006,6 @@
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-08-28 01:14:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/steel_slope": {
-    "criteria": {
-      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_grate_top_from_standard": {
-    "criteria": {
-      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/paraglider": {
-    "criteria": {
-      "has_stick": "2025-08-28 00:36:12 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sample_drill": {
-    "criteria": {
-      "has_light_engineering": "2025-08-28 00:51:02 +0000"
     },
     "done": true
   },
@@ -8997,45 +9021,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard_to_slab": {
-    "criteria": {
-      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-08-28 01:14:37 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/stonecutting/slag_brick": {
-    "criteria": {
-      "has_slag": "2025-08-28 00:37:11 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-08-28 01:14:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/slag_brick": {
-    "criteria": {
-      "has_slag": "2025-08-28 00:37:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stairs_steel_scaffolding_standard": {
-    "criteria": {
-      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/metal_ladder_none": {
-    "criteria": {
-      "has_metal_rod": "2025-08-28 01:10:08 +0000"
     },
     "done": true
   },
@@ -9093,25 +9087,19 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_dust": {
-    "criteria": {
-      "has_dust_aluminum": "2025-08-28 01:49:49 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/building_blocks/stone_pillar": {
     "criteria": {
       "has_stone": "2025-08-28 01:14:37 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust": {
+  "bbb:recipes/stone_layer": {
     "criteria": {
-      "has_dust_iron": "2025-08-28 01:35:34 +0000"
+      "has_block": "2025-08-28 01:14:37 +0000"
     },
     "done": true
   },
-  "bbb:recipes/stone_layer": {
+  "bbb:recipes/stone_column": {
     "criteria": {
       "has_block": "2025-08-28 01:14:37 +0000"
     },
@@ -9123,15 +9111,27 @@
     },
     "done": true
   },
-  "bbb:recipes/stone_column": {
+  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust_from_blasting": {
     "criteria": {
-      "has_block": "2025-08-28 01:14:37 +0000"
+      "has_dust_iron": "2025-08-28 01:35:34 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard_from_slab": {
+  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust": {
     "criteria": {
-      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
+      "has_dust_iron": "2025-08-28 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_aluminum": "2025-08-28 01:49:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_dust": {
+    "criteria": {
+      "has_dust_aluminum": "2025-08-28 01:49:49 +0000"
     },
     "done": true
   },
