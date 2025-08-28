@@ -6476,6 +6476,7 @@
     "criteria": {
       "cabbage": "2025-08-14 03:55:52 +0000",
       "onion": "2025-08-14 03:56:29 +0000",
+      "glow_berries": "2025-08-28 01:02:58 +0000",
       "tomato": "2025-08-20 01:51:07 +0000",
       "brown_mushroom": "2025-08-12 02:37:34 +0000",
       "beetroot": "2025-08-14 03:53:27 +0000",
@@ -8687,6 +8688,12 @@
   "paraglider:recipes/misc/paraglider": {
     "criteria": {
       "has_stick": "2025-08-28 00:34:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-08-28 01:00:39 +0000"
     },
     "done": true
   },
