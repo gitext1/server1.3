@@ -2903,3 +2903,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Aug2025 00:34:40.784] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
 [28Aug2025 00:35:57.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK moved wrongly!
 [28Aug2025 00:38:25.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> el diablo
+[28Aug2025 00:47:25.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: cuales son sus nicks?
+[28Aug2025 00:47:25.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: cuales son sus nicks?
+[28Aug2025 00:47:30.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> este
+[28Aug2025 00:47:34.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> Elishy_
+[28Aug2025 00:47:38.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Elishy_ a server operator
+[28Aug2025 00:47:46.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made BlaseTK a server operator
+[28Aug2025 00:48:00.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> porque nos podemos pegar
+[28Aug2025 00:48:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> hay fuego cruzado
+[28Aug2025 00:48:20.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: ahora si esta el tp, al tener que actualizar se tuvo que hacer una reinstalacion del forge a una version mas actual
+[28Aug2025 00:48:20.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: ahora si esta el tp, al tener que actualizar se tuvo que hacer una reinstalacion del forge a una version mas actual
+[28Aug2025 00:48:30.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported BlaseTK to Elishy_]
+[28Aug2025 00:48:32.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: y se reiniciaron algunas configuraciones
+[28Aug2025 00:48:32.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: y se reiniciaron algunas configuraciones
+[28Aug2025 00:48:50.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: el fuego cruzado lamentablemente estara hasta que se apague el server
+[28Aug2025 00:48:50.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: el fuego cruzado lamentablemente estara hasta que se apague el server
+[28Aug2025 00:49:00.036] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3122ms or 62 ticks
+[28Aug2025 00:52:37.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: en caso de errores,lag o bugs avisan al wsp
+[28Aug2025 00:52:37.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: en caso de errores,lag o bugs avisan al wsp
