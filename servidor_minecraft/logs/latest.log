@@ -2977,3 +2977,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Aug2025 01:51:21.662] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=700, y=38, z=-3306}
 [28Aug2025 01:51:21.663] [Worker-Main-2/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "700 38 -3306 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
 [28Aug2025 01:51:42.327] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 42,-207
+[28Aug2025 02:01:19.828] [Worker-Main-1/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Generating dungeon at block [823,-2377]
+[28Aug2025 02:02:17.430] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 51,-149
+[28Aug2025 02:03:00.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[28Aug2025 02:03:00.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[28Aug2025 02:03:00.508] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[28Aug2025 02:03:00.510] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[28Aug2025 02:03:00.555] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Aug2025 02:03:41.662] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d3f7af3[id=<null>,name=BlaseTK,properties={},legacy=false] (/127.100.128.26:53143) lost connection: Disconnected

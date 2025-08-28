@@ -8937,6 +8937,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_aluminum": "2025-08-28 01:49:49 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust_from_blasting": {
     "criteria": {
       "has_dust_iron": "2025-08-28 01:35:34 +0000"
@@ -9084,6 +9090,12 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_stone_pillar_trim": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_dust": {
+    "criteria": {
+      "has_dust_aluminum": "2025-08-28 01:49:49 +0000"
     },
     "done": true
   },
