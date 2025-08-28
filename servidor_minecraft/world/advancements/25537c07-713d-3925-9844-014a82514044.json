@@ -8853,6 +8853,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_post": {
+    "criteria": {
+      "has_steel_fence": "2025-08-28 01:11:12 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_fence": {
+    "criteria": {
+      "has_block": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/fertilizer": {
     "criteria": {
       "has_slag": "2025-08-28 00:37:11 +0000"
@@ -8865,9 +8901,63 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/gunpart_barrel": {
+    "criteria": {
+      "has_stick_steel": "2025-08-28 01:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/slag_glass": {
     "criteria": {
       "has_slag": "2025-08-28 00:37:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/strip_curtain": {
+    "criteria": {
+      "has_metal_rod": "2025-08-28 01:10:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_slope": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_grate_top_from_standard": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
     },
     "done": true
   },
@@ -8883,15 +8973,135 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard_to_slab": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/stonecutting/slag_brick": {
     "criteria": {
       "has_slag": "2025-08-28 00:37:11 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/slag_brick": {
     "criteria": {
       "has_slag": "2025-08-28 00:37:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/metal_ladder_none": {
+    "criteria": {
+      "has_metal_rod": "2025-08-28 01:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_layer": {
+    "criteria": {
+      "has_block": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_column": {
+    "criteria": {
+      "has_block": "2025-08-28 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard_from_slab": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2025-08-28 01:10:12 +0000"
     },
     "done": true
   },

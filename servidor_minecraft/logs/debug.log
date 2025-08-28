@@ -17449,3 +17449,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Aug2025 01:12:58.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: les comento que ahora cuando craftean, los materiales se quedan en la mesa de crafteo esta chevere eso
 [28Aug2025 01:13:21.061] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [28Aug2025 01:13:24.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> awebo
+[28Aug2025 01:13:26.166] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[28Aug2025 01:13:26.166] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[28Aug2025 01:13:47.365] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:13:48.361] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:13:59.904] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[28Aug2025 01:13:59.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 01:13:59.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 01:16:45.159] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[28Aug2025 01:16:45.162] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[28Aug2025 01:17:42.410] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:17:49.308] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:17:49.308] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:17:50.856] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:17:50.856] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:17:55.506] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:17:55.506] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:17:56.357] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:17:56.357] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:17:57.406] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:17:57.406] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Aug2025 01:18:59.901] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[28Aug2025 01:18:59.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 01:18:59.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 01:19:43.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has reached the goal [Hazardous Machinery]
