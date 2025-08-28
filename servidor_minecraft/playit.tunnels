@@ -9,34 +9,34 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "institute-means.gl.joinmc.link",
-          "assigned_srv": "institute-means.gl.joinmc.link",
+          "assigned_domain": "tel-theology.gl.joinmc.link",
+          "assigned_srv": "tel-theology.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "0dd4e9ec-f960-4f3e-a79c-4e37c3fc3387",
-          "ip_hostname": "30.ip.gl.ply.gg",
+          "id": "61a6bee2-9c60-4aea-8456-b98e8a2d651a",
+          "ip_hostname": "31.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 26949,
-          "port_start": 26948,
+          "port_end": 9133,
+          "port_start": 9132,
           "region": "global",
-          "static_ip4": "147.185.221.30",
-          "static_ip6": "2602:fbaf:0:1::1e",
-          "tunnel_ip": "2602:fbaf:0:1::1e"
+          "static_ip4": "147.185.221.31",
+          "static_ip6": "2602:fbaf:0:1::1f",
+          "tunnel_ip": "2602:fbaf:0:1::1f"
         },
         "status": "allocated"
       },
-      "created_at": "2025-07-21T18:49:23.991471Z",
+      "created_at": "2025-08-16T15:12:00.148932Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "fc7ea45a-45f8-415c-8cab-4dd2bde6a7f9",
+      "id": "89fdeb7e-2ba7-4fe6-9ae8-d6538928978a",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "c89143ba-ebe5-46b7-9c80-b56e4b243813",
-          "agent_name": "from-key-931b",
+          "agent_id": "aa167fd9-fdb9-431f-a440-820bcae595c6",
+          "agent_name": "from-key-3072",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
