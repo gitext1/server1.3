@@ -8877,6 +8877,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sample_drill": {
+    "criteria": {
+      "has_light_engineering": "2025-08-28 00:51:02 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/stonecutting/slag_brick": {
     "criteria": {
       "has_slag": "2025-08-28 00:37:11 +0000"

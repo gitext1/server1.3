@@ -2921,3 +2921,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Aug2025 00:49:00.036] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3122ms or 62 ticks
 [28Aug2025 00:52:37.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: en caso de errores,lag o bugs avisan al wsp
 [28Aug2025 00:52:37.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: en caso de errores,lag o bugs avisan al wsp
+[28Aug2025 00:55:28.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]

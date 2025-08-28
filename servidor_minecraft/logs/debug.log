@@ -17331,3 +17331,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Aug2025 00:51:19.659] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-13
 [28Aug2025 00:52:37.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: en caso de errores,lag o bugs avisan al wsp
 [28Aug2025 00:52:37.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: en caso de errores,lag o bugs avisan al wsp
+[28Aug2025 00:53:59.918] [IO-Worker-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-14
+[28Aug2025 00:53:59.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 00:53:59.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 00:55:14.561] [IO-Worker-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-15
+[28Aug2025 00:55:28.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[28Aug2025 00:55:29.813] [IO-Worker-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
+[28Aug2025 00:56:33.672] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[28Aug2025 00:58:59.904] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[28Aug2025 00:58:59.904] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[28Aug2025 00:58:59.905] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[28Aug2025 00:58:59.913] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[28Aug2025 00:58:59.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 00:58:59.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 01:01:45.657] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
