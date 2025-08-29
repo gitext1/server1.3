@@ -3054,3 +3054,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Aug2025 02:11:38.607] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3036ms or 60 ticks
 [29Aug2025 02:13:03.367] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 42,-207
 [29Aug2025 02:18:10.261] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 42,-207
+[29Aug2025 02:33:43.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: hago que aparezcan 3 tanks?
+[29Aug2025 02:33:43.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: hago que aparezcan 3 tanks?
+[29Aug2025 02:33:49.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> no
+[29Aug2025 02:33:52.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> ahi no ma causa
+[29Aug2025 02:33:58.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> xd
+[29Aug2025 02:34:01.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: que aburridos xdd
+[29Aug2025 02:34:01.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: que aburridos xdd
+[29Aug2025 02:34:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> luego iremos a la batle ps xd
+[29Aug2025 02:35:33.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: verdad todo va bien? sin lag ni nada?
+[29Aug2025 02:35:33.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: verdad todo va bien? sin lag ni nada?
+[29Aug2025 02:35:45.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> si, chao
+[29Aug2025 02:35:58.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ lost connection: Kicked by an operator
+[29Aug2025 02:35:58.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ left the game
+[29Aug2025 02:35:58.037] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was unloaded
+[29Aug2025 02:35:58.038] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elishy_
+[29Aug2025 02:35:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Elishy_: Kicked by an operator
+[29Aug2025 02:35:58.065] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Aug2025 02:36:07.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elishy_[/127.95.42.133:56319] logged in with entity id 55947 at (435.22343484259557, 53.0, -748.5653238730351)
+[29Aug2025 02:36:07.340] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Elishy_
+[29Aug2025 02:36:07.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ joined the game
+[29Aug2025 02:36:07.403] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Elishy_
+[29Aug2025 02:36:07.581] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Elishy_
+[29Aug2025 02:36:07.584] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elishy_ (18)
+[29Aug2025 02:36:07.585] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elishy_
+[29Aug2025 02:36:07.891] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was loaded
+[29Aug2025 02:36:07.891] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[29Aug2025 02:36:07.891] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[29Aug2025 02:36:13.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> XD
