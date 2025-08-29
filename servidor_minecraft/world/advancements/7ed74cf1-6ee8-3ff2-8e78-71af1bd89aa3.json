@@ -8740,6 +8740,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/copper_ingot_from_dust": {
+    "criteria": {
+      "has_dust_copper": "2025-08-29 02:11:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-29 01:19:19 +0000"
@@ -8761,6 +8767,12 @@
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-29 01:19:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/copper_ingot_from_dust_from_blasting": {
+    "criteria": {
+      "has_the_recipe": "2025-08-29 02:11:18 +0000"
     },
     "done": true
   },
