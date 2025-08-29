@@ -2974,3 +2974,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Aug2025 01:13:51.623] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 42,-207
 [29Aug2025 01:17:58.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
 [29Aug2025 01:17:58.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported Elishy_ to BlaseTK]
+[29Aug2025 01:18:50.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_prisoner but it was marked as removed already
+[29Aug2025 01:18:50.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_prisoner but it was marked as removed already
+[29Aug2025 01:18:50.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_prisoner but it was marked as removed already
+[29Aug2025 01:18:50.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_prisoner but it was marked as removed already
+[29Aug2025 01:18:58.310] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 42,-207
+[29Aug2025 01:18:59.608] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_head but it was marked as removed already
+[29Aug2025 01:18:59.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_head but it was marked as removed already
+[29Aug2025 01:20:38.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=648, y=56, z=-3426} BlockPos{x=648, y=55, z=-3426}
+[29Aug2025 01:20:38.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=648, y=56, z=-3426} BlockPos{x=648, y=55, z=-3426}
+[29Aug2025 01:20:38.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=648, y=56, z=-3426} BlockPos{x=648, y=55, z=-3426}
+[29Aug2025 01:20:38.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=648, y=56, z=-3426} BlockPos{x=648, y=55, z=-3426}
+[29Aug2025 01:20:38.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=648, y=56, z=-3426} BlockPos{x=648, y=55, z=-3426}
+[29Aug2025 01:20:38.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=648, y=56, z=-3426} BlockPos{x=648, y=55, z=-3426}
+[29Aug2025 01:20:38.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=648, y=56, z=-3426} BlockPos{x=648, y=55, z=-3426}
+[29Aug2025 01:20:38.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=648, y=56, z=-3426} BlockPos{x=648, y=55, z=-3426}
+[29Aug2025 01:20:55.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=650, y=59, z=-3426} BlockPos{x=651, y=58, z=-3426}
+[29Aug2025 01:20:55.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=650, y=59, z=-3426} BlockPos{x=651, y=58, z=-3426}
+[29Aug2025 01:22:35.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:baseball_bat_zombie but it was marked as removed already
+[29Aug2025 01:22:37.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:fat_zombie but it was marked as removed already
+[29Aug2025 01:22:40.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_girl but it was marked as removed already
+[29Aug2025 01:22:40.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_girl but it was marked as removed already
+[29Aug2025 01:22:40.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_climber but it was marked as removed already
+[29Aug2025 01:22:40.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_climber but it was marked as removed already
+[29Aug2025 01:22:42.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:armless_zombie but it was marked as removed already
+[29Aug2025 01:22:43.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[29Aug2025 01:22:43.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[29Aug2025 01:22:43.767] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[29Aug2025 01:22:43.770] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[29Aug2025 01:22:45.634] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 42,-207
+[29Aug2025 01:23:00.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BlaseTK[/127.100.128.26:36101] logged in with entity id 21924 at (656.6999999880791, 35.0, -3396.4601197086317)
+[29Aug2025 01:23:00.893] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BlaseTK
+[29Aug2025 01:23:00.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK joined the game
+[29Aug2025 01:23:00.910] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to BlaseTK
+[29Aug2025 01:23:01.159] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from BlaseTK
+[29Aug2025 01:23:01.175] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BlaseTK (18)
+[29Aug2025 01:23:01.175] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BlaseTK
+[29Aug2025 01:23:01.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was loaded
+[29Aug2025 01:23:01.233] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[29Aug2025 01:23:01.233] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[29Aug2025 01:24:03.466] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 42,-207
