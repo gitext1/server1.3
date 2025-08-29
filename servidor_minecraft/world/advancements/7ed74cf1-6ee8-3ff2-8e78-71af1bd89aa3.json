@@ -8680,9 +8680,9 @@
     },
     "done": true
   },
-  "paraglider:root": {
+  "paraglider:recipes/misc/paraglider": {
     "criteria": {
-      "crafting_table": "2025-08-28 02:03:01 +0000"
+      "has_stick": "2025-08-28 00:34:22 +0000"
     },
     "done": true
   },
@@ -8692,9 +8692,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust_from_blasting": {
+  "handcrafted:recipes/misc/fancy_painting": {
     "criteria": {
-      "has_dust_iron": "2025-08-28 01:39:14 +0000"
+      "has_fancy_painting": "2025-08-28 01:00:39 +0000"
     },
     "done": true
   },
@@ -8704,15 +8704,9 @@
     },
     "done": true
   },
-  "paraglider:recipes/misc/paraglider": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
-      "has_stick": "2025-08-28 00:34:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/fancy_painting": {
-    "criteria": {
-      "has_fancy_painting": "2025-08-28 01:00:39 +0000"
+      "has_iron_ore": "2025-08-28 01:13:05 +0000"
     },
     "done": true
   },
@@ -8722,21 +8716,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-08-28 01:13:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-08-28 01:17:35 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_iron": "2025-08-28 01:39:14 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust": {
     "criteria": {
       "has_dust_iron": "2025-08-28 01:39:14 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-08-28 02:03:01 +0000"
     },
     "done": true
   },
