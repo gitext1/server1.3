@@ -9177,21 +9177,33 @@
     },
     "done": true
   },
-  "pfm:recipes/building_blocks/oak_herringbone_planks": {
-    "criteria": {
-      "has_wood_slabs": "2025-08-29 01:49:13 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/smelting/copper_ingot_from_dust_from_blasting": {
     "criteria": {
       "has_dust_copper": "2025-08-29 01:38:54 +0000"
     },
     "done": true
   },
+  "pfm:recipes/building_blocks/oak_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-08-29 01:49:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-08-29 02:13:55 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_breaker": {
+    "criteria": {
+      "has_hv_connector": "2025-08-29 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/transformer_hv": {
+    "criteria": {
+      "has_hv_connector": "2025-08-29 02:47:06 +0000"
     },
     "done": true
   },
