@@ -17491,3 +17491,96 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Aug2025 00:56:52.413] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [29Aug2025 00:56:53.813] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [29Aug2025 00:56:53.813] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 00:57:39.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_8
+[29Aug2025 00:57:39.969] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:mansion
+[29Aug2025 00:57:40.423] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:mod_structures/desert_ruin6
+[29Aug2025 00:57:40.439] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_ruin2
+[29Aug2025 00:57:41.243] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/town_centers/savanna_meeting_point_1
+[29Aug2025 00:57:44.090] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=728, y=38, z=-3245}
+[29Aug2025 00:57:45.624] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=696, y=39, z=-3309}
+[29Aug2025 00:57:45.624] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=700, y=38, z=-3306}
+[29Aug2025 00:57:45.624] [Worker-Main-2/ERROR] [com.github.xyroc.dldungeons.DLDungeons/]: ERROR! Spawner placed at "700 38 -3306 is actually NULL!!!  Actual block was translation{key='block.minecraft.spawner', args=[]}.
+[29Aug2025 00:58:15.980] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=835, y=-58, z=860}
+[29Aug2025 00:58:22.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 00:58:22.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 00:58:52.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[29Aug2025 00:58:54.561] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
+[29Aug2025 00:58:54.604] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 42,-207
+[29Aug2025 00:59:21.434] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.166] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.166] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.170] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.219] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.271] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.316] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.316] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.319] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.370] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.470] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.526] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:17.574] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:18.820] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:19.665] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:19.665] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:20.066] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:20.819] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:21.314] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:21.815] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:22.818] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:23.817] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:23.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:23.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:24.967] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:25.966] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:26.966] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:27.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[29Aug2025 01:00:27.966] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:28.965] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:29.596] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[29Aug2025 01:00:29.596] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[29Aug2025 01:00:29.754] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 42,-207
+[29Aug2025 01:00:30.011] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:30.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:31.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:00:32.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:01:01.096] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:02:00.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pumpkin_zombie but it was marked as removed already
+[29Aug2025 01:02:02.121] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[29Aug2025 01:02:14.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:fat_zombie but it was marked as removed already
+[29Aug2025 01:02:14.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:fat_zombie but it was marked as removed already
+[29Aug2025 01:02:14.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:fat_zombie but it was marked as removed already
+[29Aug2025 01:02:16.615] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:hazmat_zombie but it was marked as removed already
+[29Aug2025 01:02:16.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:hazmat_zombie but it was marked as removed already
+[29Aug2025 01:02:17.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bucket_zombie but it was marked as removed already
+[29Aug2025 01:02:17.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bucket_zombie but it was marked as removed already
+[29Aug2025 01:02:17.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bucket_zombie but it was marked as removed already
+[29Aug2025 01:02:17.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bucket_zombie but it was marked as removed already
+[29Aug2025 01:02:21.630] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:headless_zombie but it was marked as removed already
+[29Aug2025 01:02:21.633] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_fisherman but it was marked as removed already
+[29Aug2025 01:02:21.634] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:security_zombie but it was marked as removed already
+[29Aug2025 01:02:21.634] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:security_zombie but it was marked as removed already
+[29Aug2025 01:02:21.634] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:security_zombie but it was marked as removed already
+[29Aug2025 01:02:22.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[29Aug2025 01:02:22.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[29Aug2025 01:02:22.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[29Aug2025 01:02:22.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:balloon_zombie but it was marked as removed already
+[29Aug2025 01:02:22.675] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=835, y=-58, z=860}
+[29Aug2025 01:02:23.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:giant_zombie but it was marked as removed already
+[29Aug2025 01:02:24.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[29Aug2025 01:02:24.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[29Aug2025 01:02:32.314] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:02:32.315] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:02:49.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:claw_zombie but it was marked as removed already
+[29Aug2025 01:02:49.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:claw_zombie but it was marked as removed already
+[29Aug2025 01:02:49.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:claw_zombie but it was marked as removed already
+[29Aug2025 01:02:49.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:claw_zombie but it was marked as removed already
+[29Aug2025 01:02:50.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:blind_zombie but it was marked as removed already
+[29Aug2025 01:03:08.300] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 42,-207
+[29Aug2025 01:03:14.562] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[29Aug2025 01:03:14.562] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[29Aug2025 01:03:22.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 01:03:22.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 01:07:23.014] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[29Aug2025 01:07:36.965] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Aug2025 01:07:37.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
