@@ -3050,3 +3050,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Aug2025 01:42:10.913] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 120
 [29Aug2025 01:42:10.913] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 120
 [29Aug2025 01:42:10.914] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 120
+[29Aug2025 01:52:51.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ moved wrongly!

@@ -9177,6 +9177,12 @@
     },
     "done": true
   },
+  "pfm:recipes/building_blocks/oak_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-08-29 01:49:13 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/copper_ingot_from_dust_from_blasting": {
     "criteria": {
       "has_dust_copper": "2025-08-29 01:38:54 +0000"
