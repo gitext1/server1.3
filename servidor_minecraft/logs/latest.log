@@ -23,3 +23,38 @@
 [30Aug2025 00:03:11.627] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
 [30Aug2025 00:03:11.627] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
 [30Aug2025 00:04:22.129] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3262ms or 65 ticks
+[30Aug2025 00:19:22.014] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3019ms or 60 ticks
+[30Aug2025 00:22:00.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: estan ahi?
+[30Aug2025 00:22:00.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: estan ahi?
+[30Aug2025 00:22:03.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> si
+[30Aug2025 00:22:06.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> si
+[30Aug2025 00:22:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: ya no
+[30Aug2025 00:22:12.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: ya no
+[30Aug2025 00:22:17.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ lost connection: Kicked by an operator
+[30Aug2025 00:22:17.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ left the game
+[30Aug2025 00:22:17.844] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was unloaded
+[30Aug2025 00:22:17.848] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elishy_
+[30Aug2025 00:22:17.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Elishy_: Kicked by an operator
+[30Aug2025 00:22:17.997] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Aug2025 00:22:21.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[30Aug2025 00:22:25.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: xdddd
+[30Aug2025 00:22:26.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elishy_[/127.95.42.133:43273] logged in with entity id 7432 at (436.4015279711193, 53.0, -750.0316077876311)
+[30Aug2025 00:22:26.116] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Elishy_
+[30Aug2025 00:22:26.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ joined the game
+[30Aug2025 00:22:26.181] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Elishy_
+[30Aug2025 00:22:26.662] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Elishy_
+[30Aug2025 00:22:26.678] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elishy_ (18)
+[30Aug2025 00:22:26.679] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elishy_
+[30Aug2025 00:22:26.799] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was loaded
+[30Aug2025 00:22:26.800] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[30Aug2025 00:22:26.800] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[30Aug2025 00:22:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: xdd
+[30Aug2025 00:22:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: xdd
+[30Aug2025 00:22:40.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> comprame cheestres
+[30Aug2025 00:22:53.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: ya
+[30Aug2025 00:22:53.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: ya
+[30Aug2025 00:23:32.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> no era bromaaaa xd
+[30Aug2025 00:27:25.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: The difficulty has been set to Peaceful]
+[30Aug2025 00:28:01.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: te compro o no?
+[30Aug2025 00:28:01.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: te compro o no?
+[30Aug2025 00:28:20.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> no, lo dije de broma pensando que ibas a decir que no como siempre lo haces
