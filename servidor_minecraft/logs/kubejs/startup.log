@@ -1,11 +1,11 @@
-[00:47:50] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[00:47:50] [INIT] Loaded plugins:
-[00:47:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[00:47:50] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
-[00:47:50] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
-[00:47:50] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[00:47:50] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
-[00:47:51] [INFO] Loaded script startup_scripts:matt's_stims_startup.js in 0.145 s
-[00:47:51] [INFO] Loaded script startup_scripts:cwstartuptweaks.js in 0.004 s
-[00:47:51] [INFO] Loaded script startup_scripts:disabledOres.js in 0.001 s
-[00:47:51] [INFO] Loaded 3/3 KubeJS startup scripts in 0.805 s with 0 errors and 0 warnings
+[23:58:46] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[23:58:46] [INIT] Loaded plugins:
+[23:58:46] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[23:58:46] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[23:58:46] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
+[23:58:46] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[23:58:46] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[23:58:47] [INFO] Loaded script startup_scripts:matt's_stims_startup.js in 0.174 s
+[23:58:47] [INFO] Loaded script startup_scripts:cwstartuptweaks.js in 0.006 s
+[23:58:47] [INFO] Loaded script startup_scripts:disabledOres.js in 0.001 s
+[23:58:47] [INFO] Loaded 3/3 KubeJS startup scripts in 0.822 s with 0 errors and 0 warnings
