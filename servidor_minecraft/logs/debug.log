@@ -17775,3 +17775,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Aug2025 00:28:01.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: te compro o no?
 [30Aug2025 00:28:01.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: te compro o no?
 [30Aug2025 00:28:20.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> no, lo dije de broma pensando que ibas a decir que no como siempre lo haces
+[30Aug2025 00:28:40.323] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[30Aug2025 00:28:40.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:caff
+[30Aug2025 00:29:21.916] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[30Aug2025 00:29:21.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 00:29:21.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 00:31:07.132] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[30Aug2025 00:31:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[30Aug2025 00:31:55.628] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[30Aug2025 00:33:27.073] [Server thread/DEBUG] [mixin/]: Mixing fastbench.PolymorphMixinFastBenchUtil from polymorph-integrations.forge.mixins.json into dev.shadowsoffire.fastbench.util.FastBenchUtil
+[30Aug2025 00:33:27.073] [Server thread/DEBUG] [mixin/]: polymorph-integrations.forge.mixins.json:fastbench.PolymorphMixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[30Aug2025 00:34:21.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 00:34:21.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 00:35:26.625] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[30Aug2025 00:37:45.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
