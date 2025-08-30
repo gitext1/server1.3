@@ -9225,6 +9225,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/coke_to_slab": {
+    "criteria": {
+      "has_coke": "2025-08-30 01:07:25 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/drill": {
     "criteria": {
       "has_heavy_engineering": "2025-08-30 01:02:55 +0000"
@@ -9240,6 +9246,12 @@
   "immersiveengineering:recipes/misc/crafting/sheetmetal_steel_from_slab": {
     "criteria": {
       "has_sheetmetal_steel": "2025-08-30 00:43:42 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coke_from_slab": {
+    "criteria": {
+      "has_coke": "2025-08-30 01:07:25 +0000"
     },
     "done": true
   },

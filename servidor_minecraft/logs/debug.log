@@ -17857,3 +17857,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Aug2025 01:04:08.916] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [30Aug2025 01:04:21.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Aug2025 01:04:21.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 01:09:21.919] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[30Aug2025 01:09:21.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 01:09:21.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 01:13:06.625] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[30Aug2025 01:14:21.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 01:14:21.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 01:15:32.687] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:15:38.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/town_centers/taiga_meeting_point_1
+[30Aug2025 01:15:38.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_tool_smith_1
+[30Aug2025 01:15:38.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_large_farm_2
+[30Aug2025 01:15:38.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_small_house_3
+[30Aug2025 01:15:39.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_armorer_2
+[30Aug2025 01:15:39.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_fisher_cottage_1
+[30Aug2025 01:15:39.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_large_farm_1
+[30Aug2025 01:15:39.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_small_house_4
+[30Aug2025 01:15:39.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_fletcher_house_1
+[30Aug2025 01:15:39.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_animal_pen_1
+[30Aug2025 01:16:10.867] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:16:10.867] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:16:11.836] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:16:11.881] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:16:11.882] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:16:17.417] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:16:17.417] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:16:21.945] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[30Aug2025 01:16:22.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_small_house_5
+[30Aug2025 01:16:22.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_shepherds_house_1
+[30Aug2025 01:16:22.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_small_house_7
+[30Aug2025 01:16:22.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_masons_house_1
+[30Aug2025 01:16:22.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_farm_2
+[30Aug2025 01:16:22.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_library_1
+[30Aug2025 01:16:22.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_farm_1
+[30Aug2025 01:16:22.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_tannery_1
+[30Aug2025 01:16:22.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_cartographer_house_1
+[30Aug2025 01:16:22.178] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_small_house_4
+[30Aug2025 01:16:22.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_masons_house_2
+[30Aug2025 01:16:22.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_butchers_shop_1
+[30Aug2025 01:16:22.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_small_house_6
+[30Aug2025 01:16:22.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_small_house_3
+[30Aug2025 01:16:22.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_small_house_1
+[30Aug2025 01:16:22.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_medium_house_2
+[30Aug2025 01:16:22.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_armorer_house_2
+[30Aug2025 01:16:22.332] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[30Aug2025 01:16:22.504] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[30Aug2025 01:16:22.504] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[30Aug2025 01:16:22.781] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[30Aug2025 01:16:22.781] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[30Aug2025 01:16:22.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_1
+[30Aug2025 01:17:51.635] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
