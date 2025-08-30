@@ -18436,3 +18436,75 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Aug2025 01:39:16.896] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756517956896
 [30Aug2025 01:39:21.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Aug2025 01:39:21.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 01:39:40.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: The difficulty has been set to Peaceful]
+[30Aug2025 01:40:06.066] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:40:06.066] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:40:06.066] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 130
+[30Aug2025 01:40:06.066] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 130
+[30Aug2025 01:40:16.651] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[30Aug2025 01:40:23.465] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:23.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:24.466] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:24.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:25.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:25.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:26.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:26.969] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:27.466] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:27.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:28.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:28.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:29.464] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:29.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:30.464] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:30.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:31.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:31.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:32.465] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:32.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:33.464] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:33.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:34.464] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:34.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:35.466] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:35.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:36.464] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:36.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:37.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:37.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:38.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:38.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:40:56.066] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:40:56.066] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:40:56.067] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 130
+[30Aug2025 01:40:56.067] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 130
+[30Aug2025 01:41:05.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:06.461] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:06.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:07.462] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:07.961] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:08.462] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:08.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:09.462] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:09.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:10.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:10.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:11.461] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:11.961] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:12.462] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:12.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 01:41:26.165] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[30Aug2025 01:41:26.420] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 5,-28
+[30Aug2025 01:41:27.889] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_8
+[30Aug2025 01:41:46.120] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:41:46.120] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:41:46.120] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 130
+[30Aug2025 01:41:46.120] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 130
+[30Aug2025 01:44:21.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 01:44:21.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 01:46:02.778] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[30Aug2025 01:47:22.128] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[30Aug2025 01:47:48.522] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_10
+[30Aug2025 01:49:02.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[30Aug2025 01:49:21.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 01:49:21.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
