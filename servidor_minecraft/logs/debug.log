@@ -17825,3 +17825,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Aug2025 00:47:13.125] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
 [30Aug2025 00:48:34.167] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [30Aug2025 00:48:50.032] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 00:48:58.267] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 00:49:03.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['CARPINCHITO'/14492, l='ServerLevel[world]', x=435.50, y=53.00, z=-764.50] died: CARPINCHITO was slain by Elishy_
+[30Aug2025 00:49:03.849] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 00:49:15.416] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 00:49:21.910] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[30Aug2025 00:49:21.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 00:49:21.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 00:49:24.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Set own game mode to Creative Mode]
+[30Aug2025 00:50:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: como que creativo eli
+[30Aug2025 00:50:49.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: como que creativo eli
+[30Aug2025 00:50:57.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> mato a carpinchito :c
+[30Aug2025 00:51:00.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> es que mate al carpincho del jesus por accidente
+[30Aug2025 00:51:08.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: ok lo perdonare
+[30Aug2025 00:51:08.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: ok lo perdonare
+[30Aug2025 00:51:16.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: revivan a maxi tmb
+[30Aug2025 00:51:16.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: revivan a maxi tmb
+[30Aug2025 00:51:30.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: pero luego te pones survival
+[30Aug2025 00:51:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: pero luego te pones survival
+[30Aug2025 00:52:04.617] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[30Aug2025 00:53:45.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Set own game mode to Survival Mode]
+[30Aug2025 00:54:21.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 00:54:21.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 00:54:25.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:spore_zombie but it was marked as removed already
