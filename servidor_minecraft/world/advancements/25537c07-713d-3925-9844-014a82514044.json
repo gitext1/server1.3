@@ -9303,5 +9303,11 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/gunpowder_barrel": {
+    "criteria": {
+      "has_wooden_barrel": "2025-08-30 01:58:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
