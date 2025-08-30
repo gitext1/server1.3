@@ -96,3 +96,57 @@
 [30Aug2025 01:21:13.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BlaseTK: cabe aclarar que como estoy en cel es dificil saber si estan ono xd
 [30Aug2025 01:21:13.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: cabe aclarar que como estoy en cel es dificil saber si estan ono xd
 [30Aug2025 01:21:21.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlaseTK> que si wee
+[30Aug2025 01:35:44.241] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3036ms or 60 ticks
+[30Aug2025 01:35:52.126] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:acid_zombie but it was marked as removed already
+[30Aug2025 01:35:52.127] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[30Aug2025 01:35:52.127] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[30Aug2025 01:35:52.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie but it was marked as removed already
+[30Aug2025 01:35:54.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_cook but it was marked as removed already
+[30Aug2025 01:36:00.398] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 44,-123
+[30Aug2025 01:36:08.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:brain_zombie but it was marked as removed already
+[30Aug2025 01:36:08.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:brain_zombie but it was marked as removed already
+[30Aug2025 01:36:09.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:burned_zombie but it was marked as removed already
+[30Aug2025 01:36:12.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_girl but it was marked as removed already
+[30Aug2025 01:36:12.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_girl but it was marked as removed already
+[30Aug2025 01:36:13.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:brain_zombie but it was marked as removed already
+[30Aug2025 01:36:13.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:brain_zombie but it was marked as removed already
+[30Aug2025 01:36:13.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:brain_zombie but it was marked as removed already
+[30Aug2025 01:36:14.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/42420, l='ServerLevel[world]', x=225.49, y=70.00, z=-538.49] died, message: 'Fisherman was slain by The Bidy'
+[30Aug2025 01:36:17.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_girl but it was marked as removed already
+[30Aug2025 01:36:48.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:hazmat_zombie but it was marked as removed already
+[30Aug2025 01:36:48.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:claw_zombie but it was marked as removed already
+[30Aug2025 01:36:48.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:claw_zombie but it was marked as removed already
+[30Aug2025 01:37:27.025] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@285de76f]Trying to start horde event on day 130 with nextDay 130 and time 18000
+[30Aug2025 01:37:27.046] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@2e888ca6
+[30Aug2025 01:37:27.047] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 120
+[30Aug2025 01:37:27.048] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 120
+[30Aug2025 01:37:27.048] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 120
+[30Aug2025 01:37:27.048] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 120
+[30Aug2025 01:37:27.074] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:37:27.074] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:37:27.075] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 130
+[30Aug2025 01:37:27.075] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 130
+[30Aug2025 01:38:17.067] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:38:17.068] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:38:17.068] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 130
+[30Aug2025 01:38:17.068] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 130
+[30Aug2025 01:38:46.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[30Aug2025 01:38:48.290] [Server thread/INFO] [com.github.xyroc.dldungeons.DLDungeons/]: Saving dungeon at chunk 5,-28
+[30Aug2025 01:39:06.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[30Aug2025 01:39:06.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[30Aug2025 01:39:06.119] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[30Aug2025 01:39:06.119] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[30Aug2025 01:39:15.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BlaseTK[/127.100.128.26:60153] logged in with entity id 46803 at (446.4128181595346, 72.0, -724.3826511459598)
+[30Aug2025 01:39:15.097] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BlaseTK
+[30Aug2025 01:39:15.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK joined the game
+[30Aug2025 01:39:15.141] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to BlaseTK
+[30Aug2025 01:39:15.347] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from BlaseTK
+[30Aug2025 01:39:15.349] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BlaseTK (18)
+[30Aug2025 01:39:15.350] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BlaseTK
+[30Aug2025 01:39:15.371] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was loaded
+[30Aug2025 01:39:15.371] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[30Aug2025 01:39:15.371] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[30Aug2025 01:39:16.069] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:39:16.070] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 130
+[30Aug2025 01:39:16.070] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 130
+[30Aug2025 01:39:16.070] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 130

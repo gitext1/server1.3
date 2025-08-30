@@ -9213,7 +9213,25 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_steel_from_slab": {
+    "criteria": {
+      "has_sheetmetal_steel": "2025-08-30 00:43:42 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_steel_to_slab": {
+    "criteria": {
+      "has_sheetmetal_steel": "2025-08-30 00:43:42 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/storage_steel_to_slab": {
+    "criteria": {
+      "has_storage_steel": "2025-08-30 00:44:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_steel_from_slab": {
     "criteria": {
       "has_storage_steel": "2025-08-30 00:44:03 +0000"
     },
@@ -9225,27 +9243,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/coke_to_slab": {
-    "criteria": {
-      "has_coke": "2025-08-30 01:07:25 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/drill": {
     "criteria": {
       "has_heavy_engineering": "2025-08-30 01:02:55 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/storage_steel_from_slab": {
+  "immersiveengineering:recipes/misc/crafting/coke_to_slab": {
     "criteria": {
-      "has_storage_steel": "2025-08-30 00:44:03 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_steel_from_slab": {
-    "criteria": {
-      "has_sheetmetal_steel": "2025-08-30 00:43:42 +0000"
+      "has_coke": "2025-08-30 01:07:25 +0000"
     },
     "done": true
   },
@@ -9255,9 +9261,45 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_steel_to_slab": {
+  "immersiveengineering:recipes/misc/crafting/nugget_copper_to_copper_ingot": {
     "criteria": {
-      "has_sheetmetal_steel": "2025-08-30 00:43:42 +0000"
+      "has_nugget_copper": "2025-08-30 01:29:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/copper_ingot_to_nugget_copper": {
+    "criteria": {
+      "has_the_recipe": "2025-08-30 01:29:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chemthrower": {
+    "criteria": {
+      "has_wooden_grip": "2025-08-30 01:29:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/revolver": {
+    "criteria": {
+      "has_wooden_grip": "2025-08-30 01:29:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/skyhook": {
+    "criteria": {
+      "has_wooden_grip": "2025-08-30 01:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-08-30 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-08-30 01:36:28 +0000"
     },
     "done": true
   },
