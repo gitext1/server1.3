@@ -17789,3 +17789,39 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Aug2025 00:34:21.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Aug2025 00:35:26.625] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
 [30Aug2025 00:37:45.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 00:39:21.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 00:39:21.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 00:39:25.659] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[30Aug2025 00:39:25.659] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[30Aug2025 00:39:25.659] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[30Aug2025 00:39:29.167] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 00:39:34.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: The difficulty has been set to Normal]
+[30Aug2025 00:39:37.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:doom_zombie but it was marked as removed already
+[30Aug2025 00:39:49.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[30Aug2025 00:39:58.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:big_zombie but it was marked as removed already
+[30Aug2025 00:39:58.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:big_zombie but it was marked as removed already
+[30Aug2025 00:39:59.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:enchanted_zombie but it was marked as removed already
+[30Aug2025 00:39:59.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_prisoner but it was marked as removed already
+[30Aug2025 00:39:59.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_prisoner but it was marked as removed already
+[30Aug2025 00:40:00.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:security_zombie but it was marked as removed already
+[30Aug2025 00:40:00.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:security_zombie but it was marked as removed already
+[30Aug2025 00:40:55.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[30Aug2025 00:40:55.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[30Aug2025 00:40:55.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[30Aug2025 00:40:55.567] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[30Aug2025 00:40:56.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_climber but it was marked as removed already
+[30Aug2025 00:41:09.114] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:brain_zombie but it was marked as removed already
+[30Aug2025 00:42:27.060] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[30Aug2025 00:42:27.060] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$714392$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[30Aug2025 00:42:27.060] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$714392$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[30Aug2025 00:42:42.820] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[30Aug2025 00:43:17.823] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 00:43:18.316] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 00:44:10.122] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[30Aug2025 00:44:21.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 00:44:21.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 00:44:22.000] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3188ms or 63 ticks
+[30Aug2025 00:47:13.125] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[30Aug2025 00:47:13.125] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[30Aug2025 00:48:34.167] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Aug2025 00:48:50.032] [Server thread/DEBUG] [firstaid/]: Reloaded lookups

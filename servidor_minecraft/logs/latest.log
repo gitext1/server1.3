@@ -59,3 +59,19 @@
 [30Aug2025 00:28:01.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Elishy_: te compro o no?
 [30Aug2025 00:28:20.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elishy_> no, lo dije de broma pensando que ibas a decir que no como siempre lo haces
 [30Aug2025 00:31:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[30Aug2025 00:39:34.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: The difficulty has been set to Normal]
+[30Aug2025 00:39:37.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:doom_zombie but it was marked as removed already
+[30Aug2025 00:39:49.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[30Aug2025 00:39:58.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:big_zombie but it was marked as removed already
+[30Aug2025 00:39:58.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:big_zombie but it was marked as removed already
+[30Aug2025 00:39:59.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:enchanted_zombie but it was marked as removed already
+[30Aug2025 00:39:59.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_prisoner but it was marked as removed already
+[30Aug2025 00:39:59.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_prisoner but it was marked as removed already
+[30Aug2025 00:40:00.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:security_zombie but it was marked as removed already
+[30Aug2025 00:40:00.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:security_zombie but it was marked as removed already
+[30Aug2025 00:40:55.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[30Aug2025 00:40:55.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[30Aug2025 00:40:55.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[30Aug2025 00:40:56.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_climber but it was marked as removed already
+[30Aug2025 00:41:09.114] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:brain_zombie but it was marked as removed already
+[30Aug2025 00:44:22.000] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3188ms or 63 ticks

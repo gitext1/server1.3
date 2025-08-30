@@ -9213,5 +9213,29 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/storage_steel_to_slab": {
+    "criteria": {
+      "has_storage_steel": "2025-08-30 00:44:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_steel_from_slab": {
+    "criteria": {
+      "has_storage_steel": "2025-08-30 00:44:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_steel_from_slab": {
+    "criteria": {
+      "has_sheetmetal_steel": "2025-08-30 00:43:42 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_steel_to_slab": {
+    "criteria": {
+      "has_sheetmetal_steel": "2025-08-30 00:43:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
